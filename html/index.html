@@ -69,10 +69,10 @@ $(function() {
 </div><!--header-->
 <div class="contents">
 <div class="textblock"><div class="image">
-<img src="/screengrab.gif" alt="Four Dimensional Visualizer" title="Screenshot"/>
+<img src="./5cell.png" alt="Four Dimensional Visualizer" title="Screenshot"/>
 </div>
  <h2>Introduction</h2>
-<p>BRIEF INTRODUCTION This Project is implemented in C++ using OpenGL. <b>GLM</b> <b>FreeType</b></p>
+<p>BRIEF INTRODUCTION This Project is implemented in C++ using OpenGL. Including libraries <b>GLM</b> <b>FreeType</b></p>
 <h2>Frameworks / APIs used</h2>
 <p>The following c++ frameworks are used in this project.</p>
 <ol type="1">
@@ -84,16 +84,16 @@ $(function() {
 <h2>Minimum requirements:</h2>
 <p>The development of the project was done with these requirements. May support lower versions also but not been tested.</p>
 <ul>
-<li>C++ compiler : g++ with c++11 support (-std=gnu++11) (version &gt;= 5.2.1)</li>
-<li>OpenGL (version &gt;=v4.5)</li>
+<li>C++ compiler : clang c++11 support (-std=gnu++11)</li>
+<li>OpenGL (version &gt;=v3.2)</li>
 <li>req versions</li>
-<li>Kreq versions</li>
+<li>req versions</li>
 <li>req versions</li>
 <li>req versions</li>
 </ul>
 <h2>Keys Used:</h2>
-<div class="fragment"><div class="line">Use `Left/Right` to move horizontally.</div><div class="line">        Use `Up/Down` to move vertically.</div><div class="line">        Use `r` to reset the position and scale.</div><div class="line">        Use `Shift+r` to reset position and scale, including 4D</div><div class="line">        Press `w` to toggle interpolation.</div><div class="line">        Press  `F8` to toggle clamping.</div><div class="line">Press `F9` to toggle drawing points.</div><div class="line">        Press `q` to exit the program.</div><div class="line">        Press `p` to to toggle audio play/pause.</div><div class="line">        Press `r` to reload audio and play from the beginning.    </div><div class="line">Press `right arrow` to seek audio forward by 5 seconds and move +ve x axis.</div><div class="line">Press `left arrow` to seek audio backward by 5 seconds and move -ve x axis.</div><div class="line">Press `down arrow` to decrease scale/1.5.</div><div class="line">Press `up arrow` to increase scale*1.5.</div></div><!-- fragment --><h2>Algorithm</h2>
-<p>The distance between \((x_1,y_1)\) and \((x_2,y_2)\) is \(\sqrt{(x_2-x_1)^2+(y_2-y_1)^2}\).</p>
+<div class="fragment"><div class="line">Use `Left/Right Arrow` to move horizontally.</div><div class="line">Use `Up/Down Arrow` to move vertically.</div><div class="line">Use `R` to reset the position and scale for 3D.</div><div class="line">Use `Shift+R` to reset position and scale for 4D</div><div class="line"></div><div class="line">Press `W/E` to rotate the NN axis.</div><div class="line">Press `S/D` to rotate the NN axis.</div><div class="line">Press `X/C` to rotate the NN axis.</div><div class="line">...</div><div class="line">... more directions</div><div class="line">...</div><div class="line">Press `5` to change 4D Projection Eye Location</div><div class="line">Press `4` to change 4D Projection Eye Location</div><div class="line">...</div><div class="line">...</div><div class="line">Press `escape` to quit</div></div><!-- fragment --><h2>Algorithm</h2>
+<p>TEST SOME <code>MathJax</code> here: The distance between \((x_1,y_1)\) and \((x_2,y_2)\) is \(\sqrt{(x_2-x_1)^2+(y_2-y_1)^2}\).</p>
 <div class="fragment"><div class="line">Step 1: Begin ...</div><div class="line">Step N: exit program</div></div><!-- fragment --> <h2>Flow Chart</h2>
 <div class="image">
 <img src="/flowchart.png" alt="Flow Chart" title="Flowchart"/>
@@ -112,7 +112,7 @@ $(function() {
 <h3>Conclusion</h3>
 <p>conclusions</p>
 <h3>Limitations</h3>
-<p>Time synchronization of audio and spectrum is not perfect. Mp3 support is not included.</p>
+<p>unable to rotate using tensors</p>
 <h3>Future scope:</h3>
 <p>future scope</p>
 <p>##References </p><div class="fragment"><div class="line">biblio</div></div><!-- fragment --><p>Hollasch, Steven Richard <em>Four-Space Visualization of 4D Objects</em>, Arizona State University, 1991</p>
@@ -121,7 +121,7 @@ $(function() {
 </div></div><!-- contents -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>
-Generated on Fri Aug 18 2017 17:28:13 for FourD by &#160;<a href="http://www.doxygen.org/index.html">
+Generated on Fri Aug 18 2017 18:09:35 for FourD by &#160;<a href="http://www.doxygen.org/index.html">
 <img class="footer" src="doxygen.png" alt="doxygen"/>
 </a> 1.8.12
 </small></address>
