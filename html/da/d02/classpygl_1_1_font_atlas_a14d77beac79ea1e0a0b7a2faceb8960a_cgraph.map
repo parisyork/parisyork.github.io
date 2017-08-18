@@ -1,0 +1,8 @@
+<map id="pygl::FontAtlas::initFont" name="pygl::FontAtlas::initFont">
+<area shape="rect" id="node2" href="$da/d02/classpygl_1_1_font_atlas.html#a8143e1004f4a26ed2af25cf68cab2e97" title="pygl::FontAtlas::ErrorLog" alt="" coords="672,27,841,52"/>
+<area shape="rect" id="node3" href="$da/d02/classpygl_1_1_font_atlas.html#a60737e560ed380919644335aa1b581f3" title="process font file " alt="" coords="214,27,387,65"/>
+<area shape="rect" id="node4" href="$da/d02/classpygl_1_1_font_atlas.html#a94b41831481fcb47b36f14a34e6f3794" title="Create TEXTURE_2D font atlas. " alt="" coords="435,77,624,116"/>
+<area shape="rect" id="node5" href="$d2/d2f/namespacepygl.html#aaa2d6f491bc4ce9fee186ea494659b21" title="Poll all OpenGL Error codes. " alt="" coords="703,80,810,105"/>
+<area shape="rect" id="node7" href="$da/d02/classpygl_1_1_font_atlas.html#a287ee86dbc90d231c39d15537959445b" title="pygl::FontAtlas::next_p2" alt="" coords="674,129,839,155"/>
+<area shape="rect" id="node6" href="$d2/d2f/namespacepygl.html#a61608b049db4fc6e202d58743598325b" title="Convert GL enums to useable strings. " alt="" coords="889,80,1042,105"/>
+</map>

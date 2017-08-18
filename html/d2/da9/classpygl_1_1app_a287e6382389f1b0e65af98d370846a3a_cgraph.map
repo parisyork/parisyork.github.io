@@ -1,0 +1,10 @@
+<map id="pygl::app::onMouseClick" name="pygl::app::onMouseClick">
+<area shape="rect" id="node2" href="$d2/da9/classpygl_1_1app.html#ac3c4f01f47d777d06fde6e795b1ec50b" title="pygl::app::getCursorPos" alt="" coords="235,5,400,31"/>
+<area shape="rect" id="node3" href="$d2/da9/classpygl_1_1app.html#a74fbc5f0ce59026badb4067fa72aa48e" title="pygl::app::onError" alt="" coords="254,55,381,80"/>
+<area shape="rect" id="node6" href="$d2/da9/classpygl_1_1app.html#aa08d9793bfe9ef174592993612a973e6" title="pygl::app::getWindow" alt="" coords="243,104,392,129"/>
+<area shape="rect" id="node7" href="$d2/da9/classpygl_1_1app.html#a60a6de6835050c0498ef0a5e31275d82" title="pygl::app::ViewportDidResize" alt="" coords="220,153,415,179"/>
+<area shape="rect" id="node8" href="$d2/da9/classpygl_1_1app.html#a9e178ffd2872406b60e088c344cbb036" title="pygl::app::RenderScene" alt="" coords="235,203,400,228"/>
+<area shape="rect" id="node9" href="$d2/da9/classpygl_1_1app.html#a53aa8f0eb4d88f35be55005fc4f7e965" title="pygl::app::PrintErrorLog" alt="" coords="236,252,399,277"/>
+<area shape="rect" id="node4" href="$d8/de3/classpygl_1_1msglog.html#a6e8c54ab29b11023294698ee106a5679" title="pygl::msglog::log" alt="" coords="463,55,585,80"/>
+<area shape="rect" id="node5" href="$d8/de3/classpygl_1_1msglog.html#af7325ecc8134947fd6004adfa071e355" title="open log, begin appending " alt="" coords="633,55,791,80"/>
+</map>

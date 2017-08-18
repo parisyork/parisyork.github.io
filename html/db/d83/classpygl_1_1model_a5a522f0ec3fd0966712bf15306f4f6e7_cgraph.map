@@ -1,0 +1,8 @@
+<map id="pygl::model::LoadModelOBJ" name="pygl::model::LoadModelOBJ">
+<area shape="rect" id="node2" href="$d2/d2f/namespacepygl.html#a9ce25587e92c3a198a8b77722fa902ba" title="Verify file is present. " alt="" coords="517,5,627,31"/>
+<area shape="rect" id="node3" href="$db/d83/classpygl_1_1model.html#a68e0f5f5ef0238de3d34f91454578aca" title="pygl::model::LoadModelFile" alt="" coords="242,56,427,81"/>
+<area shape="rect" id="node4" href="$da/d36/classpygl_1_1_c_error_log.html#a649c6e15ee56bcb06f97821ab2252110" title="pygl::CErrorLog::Log" alt="" coords="971,107,1116,132"/>
+<area shape="rect" id="node5" href="$db/d83/classpygl_1_1model.html#a3227a59d5183b906529da1c78761fdf2" title="pygl::model::ProcessAIScene" alt="" coords="475,107,670,132"/>
+<area shape="rect" id="node6" href="$db/d83/classpygl_1_1model.html#adeeec1811cedeafa24eba68aebf022d2" title="pygl::model::ProcessAIMaterial" alt="" coords="718,107,923,132"/>
+<area shape="rect" id="node7" href="$db/d83/classpygl_1_1model.html#ace0eee73e72cada0202bb9ca88e3a135" title="pygl::model::ProcessAIMesh" alt="" coords="725,156,916,181"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="pygl::TextManager::update_dyn" name="pygl::TextManager::update_dyn">
+<area shape="rect" id="node2" href="$d3/d4d/classpygl_1_1_text_manager.html#a5c159215b819ed7facbd507ee09bce15" title="pygl::TextManager::Log" alt="" coords="199,5,359,31"/>
+<area shape="rect" id="node3" href="$da/d02/classpygl_1_1_font_atlas.html#a7e7364af4daa021b0958436d10778ebe" title="pygl::FontAtlas::lineSpace" alt="" coords="191,55,367,80"/>
+<area shape="rect" id="node4" href="$da/d02/classpygl_1_1_font_atlas.html#af24339a69096f194f9043082823ee029" title="pygl::FontAtlas::texWidth" alt="" coords="194,104,363,129"/>
+<area shape="rect" id="node5" href="$da/d02/classpygl_1_1_font_atlas.html#aef80b965557ef61a3cab17ef08df5122" title="pygl::FontAtlas::texHeight" alt="" coords="192,153,365,179"/>
+</map>

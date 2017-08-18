@@ -1,0 +1,8 @@
+<map id="pygl::model::draw" name="pygl::model::draw">
+<area shape="rect" id="node2" href="$da/d36/classpygl_1_1_c_error_log.html#a649c6e15ee56bcb06f97821ab2252110" title="pygl::CErrorLog::Log" alt="" coords="452,69,596,95"/>
+<area shape="rect" id="node3" href="$de/d98/classpygl_1_1_g_l_s_l_program.html#aa083181ea5530ceba78e1b648d317d5f" title="pygl::GLSLProgram::\lsetUniform" alt="" coords="205,5,351,44"/>
+<area shape="rect" id="node5" href="$db/d83/classpygl_1_1model.html#aac623e8ad52bb11147ed57c8c7912c08" title="pygl::model::UseWhiteTexture" alt="" coords="179,120,378,145"/>
+<area shape="rect" id="node4" href="$de/d98/classpygl_1_1_g_l_s_l_program.html#ad26897db43fca6e12acae8675b60294e" title="pygl::GLSLProgram::\lgetUniformLocation" alt="" coords="451,5,597,44"/>
+<area shape="rect" id="node6" href="$db/d83/classpygl_1_1model.html#abc6fab4ae52a8b17523d5d747159dffb" title="pygl::model::addWhiteTexture" alt="" coords="426,119,623,144"/>
+<area shape="rect" id="node7" href="$d2/d79/classpygl_1_1texture__2_d.html#a339806eb167f0f375c8a61cc798bfd98" title="pygl::texture_2D::getTexID" alt="" coords="435,168,613,193"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="pygl::FontAtlas::glTextureHandle" name="pygl::FontAtlas::glTextureHandle">
+<area shape="rect" id="node2" href="$d3/d4d/classpygl_1_1_text_manager.html#a9d085dd8f72137231b27050566f200de" title="pygl::TextManager::\lInitGLDynText" alt="" coords="224,5,362,44"/>
+<area shape="rect" id="node3" href="$d3/d4d/classpygl_1_1_text_manager.html#a271c6324a9ebeff99745467c28857760" title="pygl::TextManager::\ladd_dyn" alt="" coords="410,5,548,44"/>
+<area shape="rect" id="node4" href="$d0/dcd/structpygl_1_1_text_manager_1_1_text_parameters.html#a9a940dbe280cb03d0460a9c6b6ab3147" title="pygl::TextManager::\lTextParameters::TextParameters" alt="" coords="596,5,811,44"/>
+</map>

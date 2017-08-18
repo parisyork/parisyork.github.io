@@ -1,0 +1,7 @@
+<map id="pygl::TextManager::Log" name="pygl::TextManager::Log">
+<area shape="rect" id="node2" href="$d3/d4d/classpygl_1_1_text_manager.html#a212827ef4ce0a5e78b2d10f11beeb7ed" title="pygl::TextManager::\ladd_font" alt="" coords="213,5,351,44"/>
+<area shape="rect" id="node4" href="$d3/d4d/classpygl_1_1_text_manager.html#ab6bb0d8f2b988f062256d7239fc115ba" title="pygl::TextManager::\ladd_message" alt="" coords="213,68,351,107"/>
+<area shape="rect" id="node5" href="$d3/d4d/classpygl_1_1_text_manager.html#a271c6324a9ebeff99745467c28857760" title="pygl::TextManager::\ladd_dyn" alt="" coords="213,131,351,169"/>
+<area shape="rect" id="node6" href="$d3/d4d/classpygl_1_1_text_manager.html#a1930790236d78e03ce9829c299e145a4" title="pygl::TextManager::\lupdate_dyn" alt="" coords="213,193,351,232"/>
+<area shape="rect" id="node3" href="$d0/dcd/structpygl_1_1_text_manager_1_1_text_parameters.html#a9a940dbe280cb03d0460a9c6b6ab3147" title="pygl::TextManager::\lTextParameters::TextParameters" alt="" coords="399,100,614,139"/>
+</map>

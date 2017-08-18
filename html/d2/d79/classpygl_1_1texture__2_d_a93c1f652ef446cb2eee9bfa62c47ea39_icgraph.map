@@ -1,0 +1,9 @@
+<map id="pygl::texture_2D::generateTexture" name="pygl::texture_2D::generateTexture">
+<area shape="rect" id="node2" href="$d2/d79/classpygl_1_1texture__2_d.html#a6ab7ae8ada3978b6df4b9970cd5528a2" title="Push the texture to video memory. " alt="" coords="232,69,400,108"/>
+<area shape="rect" id="node7" href="$d2/d79/classpygl_1_1texture__2_d.html#a7e6d1908a4a378f8574f64fd82a81da0" title="pushes &quot;null&quot; texture data " alt="" coords="233,145,399,184"/>
+<area shape="rect" id="node3" href="$d2/d79/classpygl_1_1texture__2_d.html#a9a3c2e9b5d521055c9bb03e5932e4f02" title="user provides all necessaries to create TEXTURE_2D " alt="" coords="448,5,639,31"/>
+<area shape="rect" id="node4" href="$d2/d79/classpygl_1_1texture__2_d.html#ab32081475fe1af75ab8665d74830c7bb" title="pygl::texture_2D::Create\lTexture" alt="" coords="460,55,626,93"/>
+<area shape="rect" id="node5" href="$d2/d79/classpygl_1_1texture__2_d.html#aed63f3a1fea3d25b5a04d4d5f1ea9253" title="use SOIL to create texture from file " alt="" coords="460,117,626,156"/>
+<area shape="rect" id="node6" href="$d2/d79/classpygl_1_1texture__2_d.html#ac2062d76d3ee2594b62e78202b20b6ff" title="Creates TEXTURE_2D from file. " alt="" coords="687,124,878,149"/>
+<area shape="rect" id="node8" href="$d2/d79/classpygl_1_1texture__2_d.html#af4f0b93dfdf472ef4b41b292ec99dfa2" title="Null Texture constructor. " alt="" coords="448,180,639,205"/>
+</map>

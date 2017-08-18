@@ -1,0 +1,11 @@
+<map id="pygl::CErrorLog::Log" name="pygl::CErrorLog::Log">
+<area shape="rect" id="node2" href="$db/d83/classpygl_1_1model.html#af210350b7c130b19e6fa40e805852813" title="pygl::model::draw" alt="" coords="486,239,611,264"/>
+<area shape="rect" id="node3" href="$db/d83/classpygl_1_1model.html#a68e0f5f5ef0238de3d34f91454578aca" title="pygl::model::LoadModelFile" alt="" coords="694,39,879,64"/>
+<area shape="rect" id="node5" href="$db/d83/classpygl_1_1model.html#ace0eee73e72cada0202bb9ca88e3a135" title="pygl::model::ProcessAIMesh" alt="" coords="205,64,395,89"/>
+<area shape="rect" id="node7" href="$db/d83/classpygl_1_1model.html#adeeec1811cedeafa24eba68aebf022d2" title="pygl::model::ProcessAIMaterial" alt="" coords="198,113,403,139"/>
+<area shape="rect" id="node8" href="$db/d83/classpygl_1_1model.html#acc13545d2020bc82cd11c1cf4a34bee8" title="pygl::model::ProcessAITexture" alt="" coords="200,215,401,240"/>
+<area shape="rect" id="node9" href="$db/d83/classpygl_1_1model.html#a419ca48bb571a6e500b1e734bc1ef60d" title="pygl::model::DefaultMaterial" alt="" coords="207,264,394,289"/>
+<area shape="rect" id="node10" href="$db/d83/classpygl_1_1model.html#aac623e8ad52bb11147ed57c8c7912c08" title="pygl::model::UseWhiteTexture" alt="" coords="201,313,399,339"/>
+<area shape="rect" id="node4" href="$db/d83/classpygl_1_1model.html#a5a522f0ec3fd0966712bf15306f4f6e7" title="pygl::model::LoadModelOBJ" alt="" coords="927,39,1116,64"/>
+<area shape="rect" id="node6" href="$db/d83/classpygl_1_1model.html#a3227a59d5183b906529da1c78761fdf2" title="pygl::model::ProcessAIScene" alt="" coords="451,64,646,89"/>
+</map>

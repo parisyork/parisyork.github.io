@@ -1,0 +1,8 @@
+<map id="pygl::camera::UpdateViewMatrix" name="pygl::camera::UpdateViewMatrix">
+<area shape="rect" id="node2" href="$de/d0a/classpygl_1_1camera.html#a46131b9bd9ecd7b6646d8263b6f13f72" title="pygl::camera::reset" alt="" coords="253,5,387,31"/>
+<area shape="rect" id="node3" href="$de/d0a/classpygl_1_1camera.html#a4a97e0d5c36df43ad907767a66d3410e" title="pygl::camera::setPosition" alt="" coords="235,55,405,80"/>
+<area shape="rect" id="node4" href="$de/d0a/classpygl_1_1camera.html#a6bf3285a756e36282f7d6588d549ae73" title="pygl::camera::setTarget" alt="" coords="240,104,400,129"/>
+<area shape="rect" id="node5" href="$de/d0a/classpygl_1_1camera.html#a3bc654f34dc8cf58db56f374e814c59b" title="pygl::camera::setUp" alt="" coords="250,153,390,179"/>
+<area shape="rect" id="node6" href="$de/d0a/classpygl_1_1camera.html#a5ea7cca647de7e667968e41f2f03a045" title="pygl::camera::setRight" alt="" coords="243,203,397,228"/>
+<area shape="rect" id="node7" href="$de/d0a/classpygl_1_1camera.html#a07b928415f3470003cc6dcbdcd5c20cd" title="aka forward " alt="" coords="230,252,410,277"/>
+</map>

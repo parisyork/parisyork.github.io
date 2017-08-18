@@ -1,0 +1,6 @@
+<map id="pygl::TextManager::add_dyn" name="pygl::TextManager::add_dyn">
+<area shape="rect" id="node2" href="$d3/d4d/classpygl_1_1_text_manager.html#a5c159215b819ed7facbd507ee09bce15" title="pygl::TextManager::Log" alt="" coords="191,5,351,31"/>
+<area shape="rect" id="node3" href="$d3/d4d/classpygl_1_1_text_manager.html#a9d085dd8f72137231b27050566f200de" title="pygl::TextManager::\lInitGLDynText" alt="" coords="202,55,340,93"/>
+<area shape="rect" id="node5" href="$d3/d4d/classpygl_1_1_text_manager.html#a56c865768b3cd56b4f305e057aecd00d" title="pygl::TextManager::\lprint" alt="" coords="202,117,340,156"/>
+<area shape="rect" id="node4" href="$da/d02/classpygl_1_1_font_atlas.html#acf74655af1f44330f6584114ac2f8901" title="pygl::FontAtlas::glTexture\lHandle" alt="" coords="399,55,570,93"/>
+</map>
