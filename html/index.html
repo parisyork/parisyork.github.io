@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.12"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>FourD: &lt;center&gt; A Method of Visualizing Four Dimensional Objects &lt;br&gt;In C++ using OpenGL &lt;/center&gt;</title>
+<title>FourD: &lt;p align=&quot;center&quot;&gt; A Method of Visualizing Four Dimensional Objects &lt;br&gt;In C++ using OpenGL &lt;/p&gt;</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -65,40 +65,67 @@ $(function() {
 
 <div class="header">
   <div class="headertitle">
-<div class="title"><center> A Method of Visualizing Four Dimensional Objects <br />
-In C++ using OpenGL </center> </div>  </div>
+<div class="title">A Method of Visualizing Four Dimensional Objects <br />
+In C++ using OpenGL </div>  </div>
 </div><!--header-->
 <div class="contents">
 <div class="textblock"><div class="image">
 <img src="./5cell.png" alt="Four Dimensional Visualizer" title="Screenshot"/>
 </div>
  <h2>Introduction</h2>
-<p>Software for display of four dimensional information. The software will be a system to present four dimensional objects in an interactive and visually intuitive manner. Objects can be 4D analogs of actual 3D objects, such as cubes, ellipses or surfaces from multidimensional functions and data sets. The paradigm of computer aided design ( CAD ) will be used for its familiarity. CAD is the computer expression of three dimensional descriptive geometry, it is a direct approach to 3D object manipulation in two space. The four dimensional analog should provide some insight into the nature and shape of the four dimensional data sets.</p>
-<p>The software will display three concurrent, connected projections of the 4D data set. The projections will be orthographic and parallel to the major axes – X, Y, Z, and W. The user will interact with the system by manipulating a single projection at a time; the other projections will be updated in real-time reflecting the changes made.</p>
-<p>This Project is implemented in C++ using OpenGL. Including libraries <b>GLM</b> <b>FreeType</b> <b>ASSIMP</b> ...</p>
-<h1>Frameworks / APIs used</h1>
-<p>The following c++ frameworks are used in this project.</p>
-<ol type="1">
-<li>GLM</li>
-<li>FreeType</li>
-<li>ASSIMP</li>
-<li>OpenGL</li>
-</ol>
-<h1>Minimum requirements:</h1>
-<p>The development of the project was done with these requirements. May support lower versions also but not been tested.</p>
+<p>Software for display of four dimensional information. The software will be a system to present four dimensional objects in an interactive and visually intuitive manner. Objects can be 4D analogs of actual 3D objects, such as cubes, ellipses, and other polytopes, surfaces, multidimensional functions, and indexed data sets. The paradigm of computer aided design, CAD, will be used for its familiarity. CAD is the computer expression of three dimensional descriptive geometry, it is a direct approach to 3D object manipulation in two space. The four dimensional analog should provide insight into the nature and shape of the four dimensional data sets. </p><hr/>
+<h4>Minimum requirements:</h4>
+<p>This Project is implemented in C++ using OpenGL. The development of the project was done with following software and versions, may support lower versions also but not been tested. The frameworks are used in this project.</p>
 <ul>
 <li>C++ compiler : clang c++11 support (-std=gnu++11)</li>
+<li>Development OS : macOS 10.10.5</li>
 <li>OpenGL (version &gt;=v3.2)</li>
-<li>Shader version 320</li>
-<li>GLM</li>
-<li>GLEW 2.0.1</li>
-<li>GLFW 3</li>
-<li>ASSIMP 3.3.1</li>
+<li>GLM, glm-0.9.7.1</li>
+<li>GLEW, glew-2.0.0</li>
+<li>GLFW, glfw-3.2.1</li>
+<li>ASSIMP, assimp-3.3.1</li>
+<li>SOIL, libSOIL July 7, 2008</li>
+<li>FreeType, freetype-2.7</li>
 </ul>
+<h2>Application description:</h2>
+<p>A CAD analog of three dimensional representation, extended into an additional spatial dimension. This is accomplished by having three viewing cubes, each representing three of four spatial dimensions. Cubes will necessarily be rendered as 2D for computer screen viewing. The object in the views will be linked. This allows rotation, zooming, and panning of the object in one view to be represented in the other two views. This interaction with the 3D representation of the 4D object will enable understanding of the shape and relation of faces, edges, and points of the object.</p>
+<p>The software displays four concurrent connected projections of the 4D data, and one connected oblique projection. The projections are orthographic and from eye locations along the major axes – X, Y, Z, and W. The user will interact with the system by manipulating a single projection at a time; the other projections will be updated in real-time reflecting the changes made.</p>
+<p>Initially only support for 4D polytopes is planned, hypercube, hypersphere. Data sets generated from functions, indexed points to display hyper-surfaces.</p>
 <h2>User Interaction</h2>
-<h1>Mouse Input:</h1>
-<div class="fragment"><div class="line">Click and drag to rotate displayed data set. Arcball style.</div><div class="line"></div><div class="line"># Keys Used:</div></div><!-- fragment --><p> Use <code>Left/Right Arrow</code> to move horizontally. Use <code>Up/Down Arrow</code> to move vertically. Use <code>0</code> to reset the position and scale for 3D. Use <code>Left-Shift+0</code> to reset position and scale for 4D</p>
-<p>Press <code>W/E</code> to rotate the NN axis. Press <code>S/D</code> to rotate the NN axis. Press <code>X/C</code> to rotate the NN axis. Press <code>R/T</code> to rotate the NN axis. Press <code>F/G</code> to rotate the NN axis. Press <code>V/B</code> to rotate the NN axis. ... ... more directions ... Press <code>5</code> to change 4D Projection Eye Location Press <code>4</code> to change 4D Projection Eye Location ... Press <code>TAB</code> to cycle polytopes Press <code>\tilde</code> to switch between single and multiple views Press <code>escape</code> to quit </p><div class="fragment"><div class="line"># Algorithm</div><div class="line"></div><div class="line">TEST SOME `MathJax` here:</div><div class="line">The distance between \form#2 and \form#3 is</div><div class="line"> \form#4</div></div><!-- fragment --><p> Step 1: Begin ... Step N: exit program </p><div class="fragment"><div class="line"># Flow Chart</div><div class="line">![Flow Chart](/flowchart.png &quot;Flowchart&quot;)</div><div class="line"></div><div class="line"># Compiling the frameworks</div><div class="line">X-Code 7 Project or Unix makefile</div><div class="line"></div><div class="line"></div><div class="line">### Application description:</div><div class="line"></div><div class="line">A CAD analog of three dimensional representation, extended into an additional spatial dimension. This is accomplished by having three viewing cubes, each representing three of four spatial dimensions. Cubes will necessarily be rendered as 2D for computer screen viewing. The object in the views will be linked. This allows rotation, zooming, and panning of the object in one view to be represented in the other two views. This interaction with the 3D representation of the 4D object will enable understanding of the shape and relation of faces, edges, and points of the object.</div><div class="line"></div><div class="line">Initially only support for 4D polytopes is planned, hypercube, hypersphere. Data sets generated from functions, indexed points to display hyper-surfaces.</div><div class="line"></div><div class="line"></div><div class="line">### Previous Work:</div><div class="line">sub-title</div></div><!-- fragment --><p> details ``` </p><h3>Lessons Learned:</h3>
+<h3>Mouse Input:</h3>
+<p>Click and drag to rotate displayed data set, Arcball style. Quit application by selecting <code>File-&gt;Quit</code></p>
+<h3>Keys Used:</h3>
+<ul>
+<li>Use <code>Left/Right Arrow</code> to move horizontally</li>
+<li>Use <code>Up/Down Arrow</code> to move vertically</li>
+<li>Use <code>0</code> to reset the position and scale for 3D</li>
+<li>Use <code>Left-Shift+0</code> to reset position and scale for 4D</li>
+<li>Press <code>W/E</code> to rotate about the <b>XW</b> plane.</li>
+<li>Press <code>S/D</code> to rotate about the <b>XY</b> plane.</li>
+<li>Press <code>X/C</code> to rotate about the <b>XZ</b> plane.</li>
+<li>Press <code>R/T</code> to rotate about the <b>YW</b> plane.</li>
+<li>Press <code>F/G</code> to rotate about the <b>ZW</b> plane.</li>
+<li>Press <code>V/B</code> to rotate about the <b>YZ</b> plane.</li>
+<li>...</li>
+<li>... more directions</li>
+<li>...</li>
+<li>Press <code>4</code> to change 4D Eye Location to the <b>XYZ</b></li>
+<li>Press <code>N</code> to change 4D Eye Location to the <b>NNN</b></li>
+<li>... encode action to each of 104 keys</li>
+<li>Press <code>Tab</code> to cycle polytopes</li>
+<li>Press <code>`</code> to switch between single and multiple views</li>
+<li>Press <code>Esc</code> to quit</li>
+</ul>
+<h2>Algorithm</h2>
+<p>TEST SOME <code>MathJax</code> here: The distance between \( (x_1,y_1) \) and \( (x_2,y_2) \) is \( \sqrt{(x_2-x_1)^2+(y_2-y_1)^2} \)</p>
+<div class="fragment"><div class="line">Step 1: Begin ...</div><div class="line">Step N: exit program</div></div><!-- fragment --><h2>Helpful Diagram</h2>
+<div class="image">
+<img src="/flowchart.png" alt="Flow Chart" title="Flowchart"/>
+</div>
+<h3>Compiling the frameworks</h3>
+<p>X-Code 7 Project or Unix makefile</p>
+<h3>Previous Work:</h3>
+<p>sub-title </p><div class="fragment"><div class="line">details</div></div><!-- fragment --> <h3>Lessons Learned:</h3>
 <h2>Results</h2>
 <p>This project is compiled and executed using clang compiler <code>Apple LLVM version 7.0.2 (clang-700.1.81)</code></p>
 <h2>Conclusion and Future scope</h2>
@@ -109,9 +136,7 @@ In C++ using OpenGL </center> </div>  </div>
 <h3>Future Work:</h3>
 <p>future scope Support for Oculus or similar VR headset would be awesome.</p>
 <h2>References</h2>
-<p>```</p>
 <p>Hollasch, Steven Richard <em>Four-Space Visualization of 4D Objects</em>, Arizona State University, 1991</p>
-<p><b>Banchoff 90</b></p>
 <p>Thomas F. Banchoff, <em>Beyond the Third Dimension</em>, Scientific American Library, New York NY, 2nd edition 1990.</p>
 <p>Hanson, Andrew, <em>Rotations for N-Dimensional Graphics</em>, Academic Press, 1995</p>
 <p><em>Linear Algebra and Multidimensional Geometry</em></p>
@@ -120,11 +145,12 @@ In C++ using OpenGL </center> </div>  </div>
 <p>David Cotton Banks. 1993. <em>Interacting with Surfaces in Four Dimensions Using Computer Graphics</em>. Ph.D. Dissertation. University of North Carolina at Chapel Hill, Chapel Hill, NC, USA. UMI Order No. GAX93-23985.</p>
 <p>Andrew J. Hanson and Robert A. Cross. 1993. <em>Interactive visualization methods for four dimensions</em>. In Proceedings of the 4th conference on Visualization '93 (VIS '93), Dan Bergeron and Greg Nielson (Eds.). IEEE Computer Society, Washington, DC, USA, 196-203.</p>
 <p>Programming References</p>
-<p>OpenGL RED BOOK OpenGL Superbible version 6 </p>
+<p>OpenGL RED BOOK</p>
+<p>OpenGL SuperBible version 6 </p>
 </div></div><!-- contents -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>
-Generated on Mon Aug 21 2017 20:30:54 for FourD by &#160;<a href="http://www.doxygen.org/index.html">
+Generated on Tue Aug 22 2017 15:31:54 for FourD by &#160;<a href="http://www.doxygen.org/index.html">
 <img class="footer" src="doxygen.png" alt="doxygen"/>
 </a> 1.8.12
 </small></address>
