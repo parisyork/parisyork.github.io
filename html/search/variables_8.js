@@ -5,6 +5,7 @@ var searchData=
   ['ifontsize',['iFontSize',['../da/d02/classpygl_1_1_font_atlas.html#ab58ead9944b16a387ec4c0a61363e369',1,'pygl::FontAtlas']]],
   ['imaterialindex',['iMaterialIndex',['../d5/dc6/classpygl_1_1_basic_mesh.html#a05ac3976f56eb8446906fbf3188ed095',1,'pygl::BasicMesh']]],
   ['index',['index',['../d6/d07/classpygl_1_1indexed_model.html#ab4bd943d33b3b798e28472c9732bbf0d',1,'pygl::indexedModel']]],
+  ['indexcount',['IndexCount',['../d0/dd4/classpygl_1_1_c_model4.html#a15302b623ae8a7e8dc0b8a1d3a2616de',1,'pygl::CModel4']]],
   ['indices',['indices',['../d5/dc6/classpygl_1_1_basic_mesh.html#afe550488a1bf42f7749474f42198c351',1,'pygl::BasicMesh']]],
   ['initialortho',['initialOrtho',['../de/d0a/classpygl_1_1camera.html#a3275ec14bb7553abbbc3b3acf38a632c',1,'pygl::camera']]],
   ['initialposition',['initialPosition',['../de/d0a/classpygl_1_1camera.html#abfdb4e1dca448d819c992491bb433424',1,'pygl::camera']]],

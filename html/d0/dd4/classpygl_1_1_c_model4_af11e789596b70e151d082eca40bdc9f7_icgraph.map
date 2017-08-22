@@ -1,0 +1,6 @@
+<map id="pygl::CModel4::cross4" name="pygl::CModel4::cross4">
+<area shape="rect" id="node2" href="$d0/dd4/classpygl_1_1_c_model4.html#abf920b9713a614c7e11592b41cddfbe5" title="pygl::CModel4::calcWorld\lToEyeMat4D" alt="" coords="207,5,379,44"/>
+<area shape="rect" id="node3" href="$d0/dd4/classpygl_1_1_c_model4.html#ae8d72842d3220498c0fe31d4f6a0c299" title="pygl::CModel4::Transform4\lDto3D" alt="" coords="427,5,608,44"/>
+<area shape="rect" id="node4" href="$d0/dd4/classpygl_1_1_c_model4.html#a197092885785ac54b0a93b42c126f73d" title="pygl::CModel4::update" alt="" coords="656,12,811,37"/>
+<area shape="rect" id="node5" href="$d0/dd4/classpygl_1_1_c_model4.html#a9b209ada27a9f082d4baece88af36ddd" title="pygl::CModel4::update" alt="" coords="859,12,1014,37"/>
+</map>

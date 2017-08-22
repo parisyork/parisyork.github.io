@@ -5,6 +5,7 @@ var searchData=
   ['point',['point',['../da/d1f/structpygl_1_1s_vertex.html#accff1f6c891cb2e7e5f461502783e828',1,'pygl::sVertex::point()'],['../da/d07/structpygl_1_1s_vertex4.html#a92fe52172eac19b9858f582c779c42e6',1,'pygl::sVertex4::point()']]],
   ['position',['position',['../de/d0a/classpygl_1_1camera.html#a419556da807708e0b69ccdd8c65441c1',1,'pygl::camera::position()'],['../d9/d34/structpygl_1_1_light_info.html#a973bbf5f9d3eb637ab4fb02f32e700a1',1,'pygl::LightInfo::Position()']]],
   ['positionbufferobject',['positionBufferObject',['../d3/d77/structpygl_1_1basic_model_object.html#a851a6e2191f0412538c4385c9c839eec',1,'pygl::basicModelObject']]],
+  ['positionlocation',['positionLocation',['../d0/dd4/classpygl_1_1_c_model4.html#a4d09de77c3aad451bc07e71eea597adc',1,'pygl::CModel4']]],
   ['prginfologs',['prgInfoLogs',['../de/d98/classpygl_1_1_g_l_s_l_program.html#aa8cebf19e9a833d930d5dfa40fbac097',1,'pygl::GLSLProgram']]],
   ['programcamera',['programCamera',['../d7/d81/classpygl_1_1drawable.html#a6083d40cfc63ebd8ecea43f92ada50fe',1,'pygl::drawable']]],
   ['programclocker',['programClocker',['../d2/da9/classpygl_1_1app.html#a7fc3a7111c3dca4d41998c2f7bfdc295',1,'pygl::app']]],

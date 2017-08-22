@@ -22,6 +22,5 @@ var searchData=
   ['fragment',['FRAGMENT',['../d2/d2f/namespacepygl.html#a37fdba0157840ffb87b58877a8f71fdea7345a249ed5c2f850d85dc1727c24716',1,'pygl']]],
   ['ft',['ft',['../da/d02/classpygl_1_1_font_atlas.html#ae4062d6188fc9a6d78fd3f89302356b2',1,'pygl::FontAtlas']]],
   ['fwindowheight',['fWindowHeight',['../d1/d9c/classpygl_1_1arcball.html#a9e66f1caaa8f248b2ff29b89f02dc78a',1,'pygl::arcball']]],
-  ['fwindowwidth',['fWindowWidth',['../d1/d9c/classpygl_1_1arcball.html#a6cd80b6b4b71b222156321d1064ec895',1,'pygl::arcball']]],
-  ['four_20dimensional_20visualizer_20in_20c_2b_2b_20using_20opengl',['Four Dimensional Visualizer In C++ using OpenGL',['../index.html',1,'']]]
+  ['fwindowwidth',['fWindowWidth',['../d1/d9c/classpygl_1_1arcball.html#a6cd80b6b4b71b222156321d1064ec895',1,'pygl::arcball']]]
 ];

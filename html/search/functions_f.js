@@ -29,11 +29,12 @@ var searchData=
   ['renderwiretorus',['renderWireTorus',['../d4/d67/geometry_8h.html#a9f912295852aa9f73eca2069f05c84e0',1,'geometry.h']]],
   ['reset',['reset',['../de/d0a/classpygl_1_1camera.html#a46131b9bd9ecd7b6646d8263b6f13f72',1,'pygl::camera']]],
   ['resetarcball',['ResetArcball',['../d1/d9c/classpygl_1_1arcball.html#af88f06cee146a7c7b5d23b31f21881bb',1,'pygl::arcball']]],
-  ['retrievelog',['retrieveLog',['../de/d98/classpygl_1_1_g_l_s_l_program.html#aa82d0f8e867268ca478c959390212c13',1,'pygl::GLSLProgram::retrieveLog()'],['../da/d02/classpygl_1_1_font_atlas.html#a63202d1cb09203e960b164a9a8f099ae',1,'pygl::FontAtlas::RetrieveLog()']]],
+  ['retrievelog',['RetrieveLog',['../da/d02/classpygl_1_1_font_atlas.html#a63202d1cb09203e960b164a9a8f099ae',1,'pygl::FontAtlas::RetrieveLog()'],['../de/d98/classpygl_1_1_g_l_s_l_program.html#aa82d0f8e867268ca478c959390212c13',1,'pygl::GLSLProgram::retrieveLog()']]],
   ['rgcube',['RGCube',['../d2/d2f/namespacepygl.html#a8364e241c132cecd38f13585a2e2dbc4',1,'pygl']]],
   ['rggrid',['RGGrid',['../d2/d2f/namespacepygl.html#ab9d47b9cee321e849f00197f76ea60ad',1,'pygl']]],
   ['rgtorus',['RGTorus',['../d2/d2f/namespacepygl.html#a8139f5cffbd9fd79cdc9a76e58a78d29',1,'pygl']]],
   ['rollcamera',['rollCamera',['../de/d0a/classpygl_1_1camera.html#a3b37cad2f5269b8f92a7607c2f78d551',1,'pygl::camera']]],
+  ['rotation4d',['rotation4D',['../d2/d2f/namespacepygl.html#a2b19663b840d201efa9c2314f0f2411e',1,'pygl']]],
   ['rotationbetweenvectors',['RotationBetweenVectors',['../d1/d9c/classpygl_1_1arcball.html#a37461f74af0abfa1f81658e8270c77da',1,'pygl::arcball']]],
   ['run',['run',['../d2/da9/classpygl_1_1app.html#a7e9c771f8ccf0f08b39fe74c8023f7b4',1,'pygl::app']]]
 ];

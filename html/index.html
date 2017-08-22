@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.12"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>FourD: Four Dimensional Visualizer In C++ using OpenGL</title>
+<title>FourD: &lt;center&gt; A Method of Visualizing Four Dimensional Objects &lt;br&gt;In C++ using OpenGL &lt;/center&gt;</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -65,15 +65,18 @@ $(function() {
 
 <div class="header">
   <div class="headertitle">
-<div class="title">Four Dimensional Visualizer In C++ using OpenGL </div>  </div>
+<div class="title"><center> A Method of Visualizing Four Dimensional Objects <br />
+In C++ using OpenGL </center> </div>  </div>
 </div><!--header-->
 <div class="contents">
 <div class="textblock"><div class="image">
 <img src="./5cell.png" alt="Four Dimensional Visualizer" title="Screenshot"/>
 </div>
  <h2>Introduction</h2>
-<p>BRIEF INTRODUCTION This Project is implemented in C++ using OpenGL. Including libraries <b>GLM</b> <b>FreeType</b></p>
-<h2>Frameworks / APIs used</h2>
+<p>Software for display of four dimensional information. The software will be a system to present four dimensional objects in an interactive and visually intuitive manner. Objects can be 4D analogs of actual 3D objects, such as cubes, ellipses or surfaces from multidimensional functions and data sets. The paradigm of computer aided design ( CAD ) will be used for its familiarity. CAD is the computer expression of three dimensional descriptive geometry, it is a direct approach to 3D object manipulation in two space. The four dimensional analog should provide some insight into the nature and shape of the four dimensional data sets.</p>
+<p>The software will display three concurrent, connected projections of the 4D data set. The projections will be orthographic and parallel to the major axes – X, Y, Z, and W. The user will interact with the system by manipulating a single projection at a time; the other projections will be updated in real-time reflecting the changes made.</p>
+<p>This Project is implemented in C++ using OpenGL. Including libraries <b>GLM</b> <b>FreeType</b> <b>ASSIMP</b> ...</p>
+<h1>Frameworks / APIs used</h1>
 <p>The following c++ frameworks are used in this project.</p>
 <ol type="1">
 <li>GLM</li>
@@ -81,47 +84,47 @@ $(function() {
 <li>ASSIMP</li>
 <li>OpenGL</li>
 </ol>
-<h2>Minimum requirements:</h2>
+<h1>Minimum requirements:</h1>
 <p>The development of the project was done with these requirements. May support lower versions also but not been tested.</p>
 <ul>
 <li>C++ compiler : clang c++11 support (-std=gnu++11)</li>
 <li>OpenGL (version &gt;=v3.2)</li>
-<li>req versions</li>
-<li>req versions</li>
-<li>req versions</li>
-<li>req versions</li>
+<li>Shader version 320</li>
+<li>GLM</li>
+<li>GLEW 2.0.1</li>
+<li>GLFW 3</li>
+<li>ASSIMP 3.3.1</li>
 </ul>
-<h2>Keys Used:</h2>
-<div class="fragment"><div class="line">Use `Left/Right Arrow` to move horizontally.</div><div class="line">Use `Up/Down Arrow` to move vertically.</div><div class="line">Use `R` to reset the position and scale for 3D.</div><div class="line">Use `Shift+R` to reset position and scale for 4D</div><div class="line"></div><div class="line">Press `W/E` to rotate the NN axis.</div><div class="line">Press `S/D` to rotate the NN axis.</div><div class="line">Press `X/C` to rotate the NN axis.</div><div class="line">...</div><div class="line">... more directions</div><div class="line">...</div><div class="line">Press `5` to change 4D Projection Eye Location</div><div class="line">Press `4` to change 4D Projection Eye Location</div><div class="line">...</div><div class="line">...</div><div class="line">Press `escape` to quit</div></div><!-- fragment --><h2>Algorithm</h2>
-<p>TEST SOME <code>MathJax</code> here: The distance between \((x_1,y_1)\) and \((x_2,y_2)\) is \(\sqrt{(x_2-x_1)^2+(y_2-y_1)^2}\).</p>
-<div class="fragment"><div class="line">Step 1: Begin ...</div><div class="line">Step N: exit program</div></div><!-- fragment --> <h2>Flow Chart</h2>
-<div class="image">
-<img src="/flowchart.png" alt="Flow Chart" title="Flowchart"/>
-</div>
-<h2>Compiling the frameworks</h2>
-<h3>subsection 0:</h3>
-<p><b>Prerequisites</b> </p><div class="fragment"><div class="line">subsection 01</div></div><!-- fragment --><p> <b>Buid</b></p>
-<p>subsection 01a: </p><div class="fragment"><div class="line">section 01at</div></div><!-- fragment --><p> details </p><div class="fragment"><div class="line">break</div></div><!-- fragment --> <h3>subsection 1:</h3>
-<p>sub-title </p><div class="fragment"><div class="line">details</div></div><!-- fragment --> <h3>subsection 2</h3>
-<p>details</p>
-<h2>Compiling and running</h2>
-<p>section subtitle </p><div class="fragment"><div class="line">section information, xcode</div></div><!-- fragment --><h2>Section Title</h2>
-<div class="fragment"><div class="line">section  </div></div><!-- fragment --><h2>Results</h2>
+<h2>User Interaction</h2>
+<h1>Mouse Input:</h1>
+<div class="fragment"><div class="line">Click and drag to rotate displayed data set. Arcball style.</div><div class="line"></div><div class="line"># Keys Used:</div></div><!-- fragment --><p> Use <code>Left/Right Arrow</code> to move horizontally. Use <code>Up/Down Arrow</code> to move vertically. Use <code>0</code> to reset the position and scale for 3D. Use <code>Left-Shift+0</code> to reset position and scale for 4D</p>
+<p>Press <code>W/E</code> to rotate the NN axis. Press <code>S/D</code> to rotate the NN axis. Press <code>X/C</code> to rotate the NN axis. Press <code>R/T</code> to rotate the NN axis. Press <code>F/G</code> to rotate the NN axis. Press <code>V/B</code> to rotate the NN axis. ... ... more directions ... Press <code>5</code> to change 4D Projection Eye Location Press <code>4</code> to change 4D Projection Eye Location ... Press <code>TAB</code> to cycle polytopes Press <code>\tilde</code> to switch between single and multiple views Press <code>escape</code> to quit </p><div class="fragment"><div class="line"># Algorithm</div><div class="line"></div><div class="line">TEST SOME `MathJax` here:</div><div class="line">The distance between \form#2 and \form#3 is</div><div class="line"> \form#4</div></div><!-- fragment --><p> Step 1: Begin ... Step N: exit program </p><div class="fragment"><div class="line"># Flow Chart</div><div class="line">![Flow Chart](/flowchart.png &quot;Flowchart&quot;)</div><div class="line"></div><div class="line"># Compiling the frameworks</div><div class="line">X-Code 7 Project or Unix makefile</div><div class="line"></div><div class="line"></div><div class="line">### Application description:</div><div class="line"></div><div class="line">A CAD analog of three dimensional representation, extended into an additional spatial dimension. This is accomplished by having three viewing cubes, each representing three of four spatial dimensions. Cubes will necessarily be rendered as 2D for computer screen viewing. The object in the views will be linked. This allows rotation, zooming, and panning of the object in one view to be represented in the other two views. This interaction with the 3D representation of the 4D object will enable understanding of the shape and relation of faces, edges, and points of the object.</div><div class="line"></div><div class="line">Initially only support for 4D polytopes is planned, hypercube, hypersphere. Data sets generated from functions, indexed points to display hyper-surfaces.</div><div class="line"></div><div class="line"></div><div class="line">### Previous Work:</div><div class="line">sub-title</div></div><!-- fragment --><p> details ``` </p><h3>Lessons Learned:</h3>
+<h2>Results</h2>
 <p>This project is compiled and executed using clang compiler <code>Apple LLVM version 7.0.2 (clang-700.1.81)</code></p>
 <h2>Conclusion and Future scope</h2>
 <h3>Conclusion</h3>
 <p>conclusions</p>
 <h3>Limitations</h3>
 <p>unable to rotate using tensors</p>
-<h3>Future scope:</h3>
-<p>future scope</p>
-<p>##References </p><div class="fragment"><div class="line">biblio</div></div><!-- fragment --><p>Hollasch, Steven Richard <em>Four-Space Visualization of 4D Objects</em>, Arizona State University, 1991</p>
+<h3>Future Work:</h3>
+<p>future scope Support for Oculus or similar VR headset would be awesome.</p>
+<h2>References</h2>
+<p>```</p>
+<p>Hollasch, Steven Richard <em>Four-Space Visualization of 4D Objects</em>, Arizona State University, 1991</p>
 <p><b>Banchoff 90</b></p>
-<p>Thomas F. Banchoff, <em>Beyond the Third Dimension</em>, Scientific American Library, New York NY, 2nd edition 1990. </p>
+<p>Thomas F. Banchoff, <em>Beyond the Third Dimension</em>, Scientific American Library, New York NY, 2nd edition 1990.</p>
+<p>Hanson, Andrew, <em>Rotations for N-Dimensional Graphics</em>, Academic Press, 1995</p>
+<p><em>Linear Algebra and Multidimensional Geometry</em></p>
+<p>Michael J. Laszlo. 1990. <em>Techniques for visualizing 3-dimensional manifolds</em>. In Proceedings of the 1st conference on Visualization '90 (VIS '90), Arie Kaufman (Ed.). IEEE Computer Society Press, Los Alamitos, CA, USA, 342-352.</p>
+<p>A. Michael Noll. 1967. <em>A computer technique for displaying n-dimensional hyperobjects</em>. Commun. ACM 10, 8 (August 1967), 469-473. DOI=10.1145/363534.363544 <a href="http://doi.acm.org/10.1145/363534.363544">http://doi.acm.org/10.1145/363534.363544</a></p>
+<p>David Cotton Banks. 1993. <em>Interacting with Surfaces in Four Dimensions Using Computer Graphics</em>. Ph.D. Dissertation. University of North Carolina at Chapel Hill, Chapel Hill, NC, USA. UMI Order No. GAX93-23985.</p>
+<p>Andrew J. Hanson and Robert A. Cross. 1993. <em>Interactive visualization methods for four dimensions</em>. In Proceedings of the 4th conference on Visualization '93 (VIS '93), Dan Bergeron and Greg Nielson (Eds.). IEEE Computer Society, Washington, DC, USA, 196-203.</p>
+<p>Programming References</p>
+<p>OpenGL RED BOOK OpenGL Superbible version 6 </p>
 </div></div><!-- contents -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>
-Generated on Fri Aug 18 2017 18:09:35 for FourD by &#160;<a href="http://www.doxygen.org/index.html">
+Generated on Mon Aug 21 2017 20:30:54 for FourD by &#160;<a href="http://www.doxygen.org/index.html">
 <img class="footer" src="doxygen.png" alt="doxygen"/>
 </a> 1.8.12
 </small></address>

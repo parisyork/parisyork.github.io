@@ -70,7 +70,6 @@ $(function() {
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pri-methods">Private Member Functions</a> &#124;
 <a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="../../df/d51/classpygl_1_1arcball-members.html">List of all members</a>  </div>
   <div class="headertitle">
@@ -110,10 +109,8 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:a37461f74af0abfa1f81658e8270c77da"><td class="memItemLeft" align="right" valign="top">glm::quat&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d9c/classpygl_1_1arcball.html#a37461f74af0abfa1f81658e8270c77da">RotationBetweenVectors</a> (glm::vec3 start, glm::vec3 dest)</td></tr>
 <tr class="memdesc:a37461f74af0abfa1f81658e8270c77da"><td class="mdescLeft">&#160;</td><td class="mdescRight">quaternion from two vectors  <a href="#a37461f74af0abfa1f81658e8270c77da">More...</a><br /></td></tr>
 <tr class="separator:a37461f74af0abfa1f81658e8270c77da"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-methods"></a>
-Private Member Functions</h2></td></tr>
 <tr class="memitem:a2f5ead040a654172dfaca69f85390fb9"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d9c/classpygl_1_1arcball.html#a2f5ead040a654172dfaca69f85390fb9">PointOnUnitSphere</a> (float x, float y)</td></tr>
+<tr class="memdesc:a2f5ead040a654172dfaca69f85390fb9"><td class="mdescLeft">&#160;</td><td class="mdescRight">point on unit sphere  <a href="#a2f5ead040a654172dfaca69f85390fb9">More...</a><br /></td></tr>
 <tr class="separator:a2f5ead040a654172dfaca69f85390fb9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-attribs"></a>
@@ -239,6 +236,8 @@ Here is the call graph for this function:</div>
 <map name="d1/d9c/classpygl_1_1arcball_a4d39f3f99744038e6a47516d02ad69fb_cgraph" id="d1/d9c/classpygl_1_1arcball_a4d39f3f99744038e6a47516d02ad69fb_cgraph">
 <area shape="rect" id="node2" href="../../d1/d9c/classpygl_1_1arcball.html#a35468ca19df6b423bd6297abbf04cc00" title="3 vector from mouse screen position " alt="" coords="241,5,409,44"/>
 <area shape="rect" id="node3" href="../../d1/d9c/classpygl_1_1arcball.html#a37461f74af0abfa1f81658e8270c77da" title="quaternion from two vectors " alt="" coords="224,68,426,107"/>
+<area shape="rect" id="node4" href="../../d2/d2f/namespacepygl.html#af7d731d5b9a77d9338aa37680b961d7a" title="pygl::dot" alt="" coords="474,75,546,100"/>
+<area shape="rect" id="node5" href="../../de/d3c/classpygl_1_1pvector.html#af21d33792ec18ed5d6cad2a42dbc32a0" title="pygl::pvector::dotProduct" alt="" coords="594,75,762,100"/>
 </map>
 </div>
 
@@ -249,9 +248,6 @@ Here is the call graph for this function:</div>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
           <td class="memname">float pygl::arcball::PointOnUnitSphere </td>
@@ -271,12 +267,19 @@ Here is the call graph for this function:</div>
           <td></td><td></td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
+
+<p>point on unit sphere </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">x</td><td>mouse X </td></tr>
+    <tr><td class="paramname">y</td><td>mouse Y </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>Z on unit sphere</dd></dl>
+<p>Mouse (X,Y) is used to choose a point in three space on the unit sphere. If the point is outside of the circle, the point is projected to the circumfrence, in the view plane.<br />
+If the point is within the circle, use Pythagorean to project point on unit sphere. </p>
 
 </div>
 </div>
@@ -336,6 +339,15 @@ Here is the call graph for this function:</div>
 </dl>
 <dl class="section return"><dt>Returns</dt><dd>rotation quaternion this function is from OpenGL Modern Tutorials generates rotation quaternion from two vectors, if the vectors happen to be 180 degrees, selects a perpendicular vector to start vector </dd></dl>
 <div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="../../d1/d9c/classpygl_1_1arcball_a37461f74af0abfa1f81658e8270c77da_cgraph.png" border="0" usemap="#d1/d9c/classpygl_1_1arcball_a37461f74af0abfa1f81658e8270c77da_cgraph" alt=""/></div>
+<map name="d1/d9c/classpygl_1_1arcball_a37461f74af0abfa1f81658e8270c77da_cgraph" id="d1/d9c/classpygl_1_1arcball_a37461f74af0abfa1f81658e8270c77da_cgraph">
+<area shape="rect" id="node2" href="../../d2/d2f/namespacepygl.html#af7d731d5b9a77d9338aa37680b961d7a" title="pygl::dot" alt="" coords="255,12,327,37"/>
+<area shape="rect" id="node3" href="../../de/d3c/classpygl_1_1pvector.html#af21d33792ec18ed5d6cad2a42dbc32a0" title="pygl::pvector::dotProduct" alt="" coords="375,12,543,37"/>
+</map>
+</div>
+<div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="../../d1/d9c/classpygl_1_1arcball_a37461f74af0abfa1f81658e8270c77da_icgraph.png" border="0" usemap="#d1/d9c/classpygl_1_1arcball_a37461f74af0abfa1f81658e8270c77da_icgraph" alt=""/></div>
@@ -381,13 +393,13 @@ Here is the caller graph for this function:</div>
 <p>ArcBall sphere orientation parameters. </p>
 <dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
-    <tr><td class="paramname">right,orientation</td><td>vector </td></tr>
-    <tr><td class="paramname">up,orientation</td><td>vector </td></tr>
-    <tr><td class="paramname">radius,optional</td><td>radius of sphere, 1.0f default </td></tr>
+    <tr><td class="paramname">right</td><td>orientation vector </td></tr>
+    <tr><td class="paramname">up</td><td>orientation vector </td></tr>
+    <tr><td class="paramname">radius</td><td>optional radius of sphere, 1.0f default </td></tr>
   </table>
   </dd>
 </dl>
-<dl class="section return"><dt>Returns</dt><dd>void sets inernal parameters, two perpendicular orientation vectors and spehere radius. unit sphere, radius of 1.0, is default </dd></dl>
+<dl class="section return"><dt>Returns</dt><dd>void sets internal parameters, two perpendicular orientation vectors and spehere radius. unit sphere, radius of 1.0, is default </dd></dl>
 
 </div>
 </div>
@@ -490,8 +502,8 @@ Here is the caller graph for this function:</div>
 <p>3 vector from mouse screen position </p>
 <dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
-    <tr><td class="paramname">x,mouse</td><td>X </td></tr>
-    <tr><td class="paramname">y,mouse</td><td>Y </td></tr>
+    <tr><td class="paramname">x</td><td>mouse X </td></tr>
+    <tr><td class="paramname">y</td><td>mouse Y </td></tr>
   </table>
   </dd>
 </dl>
@@ -735,7 +747,7 @@ Here is the caller graph for this function:</div>
 </div><!-- contents -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>
-Generated on Fri Aug 18 2017 17:28:13 for FourD by &#160;<a href="http://www.doxygen.org/index.html">
+Generated on Mon Aug 21 2017 20:30:53 for FourD by &#160;<a href="http://www.doxygen.org/index.html">
 <img class="footer" src="../../doxygen.png" alt="doxygen"/>
 </a> 1.8.12
 </small></address>

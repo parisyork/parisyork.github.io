@@ -80,16 +80,24 @@ $(function() {
 <a href="#details">More...</a></p>
 <div class="textblock"><code>#include &quot;<a class="el" href="../../db/dfd/common_libraries_8hpp_source.html">commonLibraries.hpp</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../dc/da4/pmath_8hpp_source.html">pmath.hpp</a>&quot;</code><br />
-<code>#include &lt;sstream&gt;</code><br />
+<code>#include &lt;string&gt;</code><br />
 </div><div class="textblock"><div class="dynheader">
 Include dependency graph for debugUtil.hpp:</div>
 <div class="dyncontent">
 <div class="center"><img src="../../d1/daa/debug_util_8hpp__incl.png" border="0" usemap="#include_2debug_util_8hpp" alt=""/></div>
 <map name="include_2debug_util_8hpp" id="include_2debug_util_8hpp">
-<area shape="rect" id="node2" href="../../db/dfd/common_libraries_8hpp.html" title="headers used throughout program " alt="" coords="950,79,1099,104"/>
-<area shape="rect" id="node14" href="../../dc/da4/pmath_8hpp.html" title="Math Funcions. " alt="" coords="233,79,318,104"/>
+<area shape="rect" id="node2" href="../../db/dfd/common_libraries_8hpp.html" title="headers used throughout program " alt="" coords="621,79,770,104"/>
+<area shape="rect" id="node14" href="../../dc/da4/pmath_8hpp.html" title="Math Funcions. " alt="" coords="225,79,310,104"/>
 <area shape="rect" id="node15" href="../../d9/d69/pvector_8hpp.html" title="vector math " alt="" coords="286,225,376,251"/>
 <area shape="rect" id="node18" href="../../db/d54/pmatrix_8hpp.html" title="Matrix Math Class. " alt="" coords="147,152,238,177"/>
+</map>
+</div>
+</div><div class="textblock"><div class="dynheader">
+This graph shows which files directly or indirectly include this file:</div>
+<div class="dyncontent">
+<div class="center"><img src="../../d0/dc5/debug_util_8hpp__dep__incl.png" border="0" usemap="#include_2debug_util_8hppdep" alt=""/></div>
+<map name="include_2debug_util_8hppdep" id="include_2debug_util_8hppdep">
+<area shape="rect" id="node2" href="../../d6/d41/_c_model4_8cpp.html" title="Four Dimensional Model Object. " alt="" coords="7,79,153,104"/>
 </map>
 </div>
 </div>
@@ -102,26 +110,43 @@ Namespaces</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:af57e4e562e59018ed6afd4290d10f957"><td class="memTemplParams" colspan="2">template&lt;typename Q &gt; </td></tr>
-<tr class="memitem:af57e4e562e59018ed6afd4290d10f957"><td class="memTemplItemLeft" align="right" valign="top">std::stringstream&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d2/d2f/namespacepygl.html#af57e4e562e59018ed6afd4290d10f957">pygl::TranslateToC</a> (const std::vector&lt; Q &gt; &amp;value)</td></tr>
-<tr class="separator:af57e4e562e59018ed6afd4290d10f957"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a35b730b25b7ee30f143a51ecc00d76fd"><td class="memTemplParams" colspan="2">template&lt;typename T , int dim&gt; </td></tr>
+<tr class="memitem:a35b730b25b7ee30f143a51ecc00d76fd"><td class="memTemplItemLeft" align="right" valign="top">std::string&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d2/d2f/namespacepygl.html#a35b730b25b7ee30f143a51ecc00d76fd">pygl::TranslateToC</a> (const std::array&lt; T, dim &gt; &amp;value)</td></tr>
+<tr class="memdesc:a35b730b25b7ee30f143a51ecc00d76fd"><td class="mdescLeft">&#160;</td><td class="mdescRight">Prototypes.  <a href="../../d2/d2f/namespacepygl.html#a35b730b25b7ee30f143a51ecc00d76fd">More...</a><br /></td></tr>
+<tr class="separator:a35b730b25b7ee30f143a51ecc00d76fd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad687627aafd17141807f8fa0c510886c"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
+<tr class="memitem:ad687627aafd17141807f8fa0c510886c"><td class="memTemplItemLeft" align="right" valign="top">std::string&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d2/d2f/namespacepygl.html#ad687627aafd17141807f8fa0c510886c">pygl::TranslateToC</a> (const std::vector&lt; T &gt; &amp;value)</td></tr>
+<tr class="separator:ad687627aafd17141807f8fa0c510886c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a97c401631b67896819707aed2bc29ff9"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d2f/namespacepygl.html#a97c401631b67896819707aed2bc29ff9">pygl::TranslateToC</a> (const glm::vec4 &amp;value)</td></tr>
 <tr class="separator:a97c401631b67896819707aed2bc29ff9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a75ceec5ba13b7f19f5b9b4ad362b777f"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d2f/namespacepygl.html#a75ceec5ba13b7f19f5b9b4ad362b777f">pygl::TranslateToC</a> (const glm::mat4 &amp;val)</td></tr>
 <tr class="separator:a75ceec5ba13b7f19f5b9b4ad362b777f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa3acbdc7fc6a7ef411d06353bcdefe92"><td class="memTemplParams" colspan="2">template&lt;typename T , int Row, int Column&gt; </td></tr>
-<tr class="memitem:aa3acbdc7fc6a7ef411d06353bcdefe92"><td class="memTemplItemLeft" align="right" valign="top">std::string&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d2/d2f/namespacepygl.html#aa3acbdc7fc6a7ef411d06353bcdefe92">pygl::TranslateToC</a> (const pmatrix&lt; T, Row, Column &gt; &amp;value)</td></tr>
-<tr class="separator:aa3acbdc7fc6a7ef411d06353bcdefe92"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a0459b107c6bcbbc0271d8d3dcca877cb"><td class="memTemplParams" colspan="2">template&lt;typename T , int dim&gt; </td></tr>
 <tr class="memitem:a0459b107c6bcbbc0271d8d3dcca877cb"><td class="memTemplItemLeft" align="right" valign="top">std::string&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d2/d2f/namespacepygl.html#a0459b107c6bcbbc0271d8d3dcca877cb">pygl::TranslateToC</a> (const pvector&lt; T, dim &gt; &amp;value)</td></tr>
 <tr class="separator:a0459b107c6bcbbc0271d8d3dcca877cb"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8f96fc300f19fc5a52ff43cbc2587575"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d2f/namespacepygl.html#a8f96fc300f19fc5a52ff43cbc2587575">pygl::TranslateToC</a> (std::ostream &amp;stream, const std::vector&lt; glm::vec4 &gt; &amp;value)</td></tr>
-<tr class="separator:a8f96fc300f19fc5a52ff43cbc2587575"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a048b2fe72616b615c6af39e9a07989a4"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d2f/namespacepygl.html#a048b2fe72616b615c6af39e9a07989a4">pygl::TranslateToC</a> (std::ostream &amp;stream, const std::vector&lt; std::array&lt; double, 4 &gt; &gt; &amp;value)</td></tr>
-<tr class="separator:a048b2fe72616b615c6af39e9a07989a4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac86ff2bdf2f05e2e5e0b0d30e72dc591"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
-<tr class="memitem:ac86ff2bdf2f05e2e5e0b0d30e72dc591"><td class="memTemplItemLeft" align="right" valign="top">std::string&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d2/d2f/namespacepygl.html#ac86ff2bdf2f05e2e5e0b0d30e72dc591">pygl::TranslateToC</a> (const T value)</td></tr>
-<tr class="separator:ac86ff2bdf2f05e2e5e0b0d30e72dc591"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac76d45df9872a71adf708b0f9ebc42df"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d2f/namespacepygl.html#ac76d45df9872a71adf708b0f9ebc42df">pygl::TranslateToC</a> (const int value)</td></tr>
+<tr class="separator:ac76d45df9872a71adf708b0f9ebc42df"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab1d16fe864ac871de52c3e270fe1457c"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d2f/namespacepygl.html#ab1d16fe864ac871de52c3e270fe1457c">pygl::TranslateToC</a> (const unsigned int value)</td></tr>
+<tr class="separator:ab1d16fe864ac871de52c3e270fe1457c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa6533b79073ef8cc3d46b8c4f2a30785"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d2f/namespacepygl.html#aa6533b79073ef8cc3d46b8c4f2a30785">pygl::TranslateToC</a> (const long value)</td></tr>
+<tr class="separator:aa6533b79073ef8cc3d46b8c4f2a30785"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3d07b9e97114082d054a761599e1cfad"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d2f/namespacepygl.html#a3d07b9e97114082d054a761599e1cfad">pygl::TranslateToC</a> (const unsigned long value)</td></tr>
+<tr class="separator:a3d07b9e97114082d054a761599e1cfad"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a94b7ad94db9c366a38c39974366faf3f"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d2f/namespacepygl.html#a94b7ad94db9c366a38c39974366faf3f">pygl::TranslateToC</a> (const long long value)</td></tr>
+<tr class="separator:a94b7ad94db9c366a38c39974366faf3f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2df71daed340db2ffb876236e8762d8d"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d2f/namespacepygl.html#a2df71daed340db2ffb876236e8762d8d">pygl::TranslateToC</a> (const unsigned long long value)</td></tr>
+<tr class="separator:a2df71daed340db2ffb876236e8762d8d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acdafca566b0e1a8fb9b0e74ac97ee29e"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d2f/namespacepygl.html#acdafca566b0e1a8fb9b0e74ac97ee29e">pygl::TranslateToC</a> (const float value)</td></tr>
+<tr class="separator:acdafca566b0e1a8fb9b0e74ac97ee29e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a097878fbe73565a15d0995116a72b42b"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d2f/namespacepygl.html#a097878fbe73565a15d0995116a72b42b">pygl::TranslateToC</a> (const double value)</td></tr>
+<tr class="separator:a097878fbe73565a15d0995116a72b42b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4f21ffb2fbcf6d197c221d692a6d6a6a"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d2f/namespacepygl.html#a4f21ffb2fbcf6d197c221d692a6d6a6a">pygl::TranslateToC</a> (const long double value)</td></tr>
+<tr class="separator:a4f21ffb2fbcf6d197c221d692a6d6a6a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a83b18108b4674c59653a76565446cb0f"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d2f/namespacepygl.html#a83b18108b4674c59653a76565446cb0f">pygl::TranslateToC</a> (const Projection eProj)</td></tr>
+<tr class="separator:a83b18108b4674c59653a76565446cb0f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa3acbdc7fc6a7ef411d06353bcdefe92"><td class="memTemplParams" colspan="2">template&lt;typename T , int Row, int Column&gt; </td></tr>
+<tr class="memitem:aa3acbdc7fc6a7ef411d06353bcdefe92"><td class="memTemplItemLeft" align="right" valign="top">std::string&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d2/d2f/namespacepygl.html#aa3acbdc7fc6a7ef411d06353bcdefe92">pygl::TranslateToC</a> (const pmatrix&lt; T, Row, Column &gt; &amp;value)</td></tr>
+<tr class="separator:aa3acbdc7fc6a7ef411d06353bcdefe92"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p>Four Mesh. </p>
@@ -130,7 +155,7 @@ Functions</h2></td></tr>
 </div></div><!-- contents -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>
-Generated on Fri Aug 18 2017 17:28:12 for FourD by &#160;<a href="http://www.doxygen.org/index.html">
+Generated on Mon Aug 21 2017 20:30:52 for FourD by &#160;<a href="http://www.doxygen.org/index.html">
 <img class="footer" src="../../doxygen.png" alt="doxygen"/>
 </a> 1.8.12
 </small></address>

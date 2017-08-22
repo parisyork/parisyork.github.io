@@ -1,0 +1,8 @@
+<map id="pygl::pvector::dotProduct" name="pygl::pvector::dotProduct">
+<area shape="rect" id="node2" href="$d2/d2f/namespacepygl.html#af7d731d5b9a77d9338aa37680b961d7a" title="pygl::dot" alt="" coords="222,44,294,69"/>
+<area shape="rect" id="node3" href="$d1/d9c/classpygl_1_1arcball.html#a37461f74af0abfa1f81658e8270c77da" title="quaternion from two vectors " alt="" coords="342,5,543,44"/>
+<area shape="rect" id="node5" href="$d0/dd4/classpygl_1_1_c_model4.html#ae8d72842d3220498c0fe31d4f6a0c299" title="pygl::CModel4::Transform4\lDto3D" alt="" coords="352,68,533,107"/>
+<area shape="rect" id="node4" href="$d1/d9c/classpygl_1_1arcball.html#a4d39f3f99744038e6a47516d02ad69fb" title="Rotation Matrix. " alt="" coords="591,12,762,37"/>
+<area shape="rect" id="node6" href="$d0/dd4/classpygl_1_1_c_model4.html#a197092885785ac54b0a93b42c126f73d" title="pygl::CModel4::update" alt="" coords="599,75,754,100"/>
+<area shape="rect" id="node7" href="$d0/dd4/classpygl_1_1_c_model4.html#a9b209ada27a9f082d4baece88af36ddd" title="pygl::CModel4::update" alt="" coords="810,75,965,100"/>
+</map>

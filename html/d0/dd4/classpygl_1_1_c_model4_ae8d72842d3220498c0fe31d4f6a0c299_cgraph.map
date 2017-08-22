@@ -1,0 +1,6 @@
+<map id="pygl::CModel4::Transform4Dto3D" name="pygl::CModel4::Transform4Dto3D">
+<area shape="rect" id="node2" href="$d0/dd4/classpygl_1_1_c_model4.html#abf920b9713a614c7e11592b41cddfbe5" title="pygl::CModel4::calcWorld\lToEyeMat4D" alt="" coords="235,5,407,44"/>
+<area shape="rect" id="node4" href="$d2/d2f/namespacepygl.html#af7d731d5b9a77d9338aa37680b961d7a" title="pygl::dot" alt="" coords="285,68,357,93"/>
+<area shape="rect" id="node3" href="$d0/dd4/classpygl_1_1_c_model4.html#af11e789596b70e151d082eca40bdc9f7" title="pygl::CModel4::cross4" alt="" coords="463,12,616,37"/>
+<area shape="rect" id="node5" href="$de/d3c/classpygl_1_1pvector.html#af21d33792ec18ed5d6cad2a42dbc32a0" title="pygl::pvector::dotProduct" alt="" coords="455,68,624,93"/>
+</map>
