@@ -1,3 +1,5 @@
 <map id="pygl::TextManager::change_dyn" name="pygl::TextManager::change_dyn">
-<area shape="rect" id="node2" href="$d0/dcd/structpygl_1_1_text_manager_1_1_text_parameters.html#a9a940dbe280cb03d0460a9c6b6ab3147" title="pygl::TextManager::\lTextParameters::TextParameters" alt="" coords="191,5,406,44"/>
+<area shape="rect" id="node2" href="$da/df6/classpygl_1_1_four_model.html#a09cd2da61ef746a21fb003e8d2fbbfd3" title="pygl::FourModel::startup" alt="" coords="216,5,381,31"/>
+<area shape="rect" id="node3" href="$d7/d6b/classpygl_1_1_demo___a.html#a37add697efa9008047b481844d8f589e" title="pygl::Demo_A::startup" alt="" coords="222,55,375,80"/>
+<area shape="rect" id="node4" href="$d0/dcd/structpygl_1_1_text_manager_1_1_text_parameters.html#a9a940dbe280cb03d0460a9c6b6ab3147" title="pygl::TextManager::\lTextParameters::TextParameters" alt="" coords="191,104,406,143"/>
 </map>

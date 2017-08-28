@@ -1,6 +1,8 @@
 <map id="pygl::cross4" name="pygl::cross4">
-<area shape="rect" id="node2" href="$d2/d2f/namespacepygl.html#a2aeab7c24d74613203be30f8f7dc4518" title="pygl::calcWorldToEyeMat4D" alt="" coords="146,12,334,37"/>
-<area shape="rect" id="node3" href="$d0/dd4/classpygl_1_1_c_model4.html#ae8d72842d3220498c0fe31d4f6a0c299" title="pygl::CModel4::Transform4\lDto3D" alt="" coords="382,5,563,44"/>
-<area shape="rect" id="node4" href="$d0/dd4/classpygl_1_1_c_model4.html#a197092885785ac54b0a93b42c126f73d" title="pygl::CModel4::update" alt="" coords="611,12,766,37"/>
-<area shape="rect" id="node5" href="$d0/dd4/classpygl_1_1_c_model4.html#a9b209ada27a9f082d4baece88af36ddd" title="pygl::CModel4::update" alt="" coords="814,12,969,37"/>
+<area shape="rect" id="node2" href="$d2/d2f/namespacepygl.html#ace5d6fc10eec4565f6a44bdd7d703ff1" title="pygl::calcWorldToEyeMat4D" alt="" coords="146,55,334,80"/>
+<area shape="rect" id="node3" href="$df/d0a/main_8cpp.html#a468406fd204f7b43aff01f68d9978604" title="changeEye4D" alt="" coords="393,5,498,31"/>
+<area shape="rect" id="node5" href="$db/db4/pmath_projection_8cpp.html#a1a01bfc1294710a3ab36c8cf1a3d901d" title="testProjection" alt="" coords="394,55,496,80"/>
+<area shape="rect" id="node6" href="$d2/d2f/namespacepygl.html#add0b4774ffbfb3ce4aff5328204963cc" title="&#45;————————— GLM " alt="" coords="382,104,509,129"/>
+<area shape="rect" id="node4" href="$df/d0a/main_8cpp.html#ac0f2228420376f4db7e1274f2b41667c" title="main" alt="" coords="614,31,665,56"/>
+<area shape="rect" id="node7" href="$da/df6/classpygl_1_1_four_model.html#a3c2a2ffae99a958eb5514456af7560a6" title="pygl::FourModel::update" alt="" coords="557,104,722,129"/>
 </map>

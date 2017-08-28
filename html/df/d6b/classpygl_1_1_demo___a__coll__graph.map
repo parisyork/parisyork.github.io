@@ -1,0 +1,11 @@
+<map id="pygl::Demo_A" name="pygl::Demo_A">
+<area shape="rect" id="node2" href="$d2/da9/classpygl_1_1app.html" title="Windowed OpenGL application. " alt="" coords="85,179,160,204"/>
+<area shape="rect" id="node3" href="$d8/de3/classpygl_1_1msglog.html" title="pygl::msglog" alt="" coords="5,92,102,117"/>
+<area shape="rect" id="node4" href="$de/d2f/classpygl_1_1program_time.html" title="Class for timing update calls. " alt="" coords="126,92,258,117"/>
+<area shape="rect" id="node5" href="$d9/d34/structpygl_1_1_light_info.html" title="pygl::LightInfo" alt="" coords="284,179,388,204"/>
+<area shape="rect" id="node6" href="$d1/d9c/classpygl_1_1arcball.html" title="pygl::arcball" alt="" coords="413,179,505,204"/>
+<area shape="rect" id="node7" href="$de/d98/classpygl_1_1_g_l_s_l_program.html" title="pygl::GLSLProgram" alt="" coords="530,179,668,204"/>
+<area shape="rect" id="node8" href="$d3/d4d/classpygl_1_1_text_manager.html" title="pygl::TextManager" alt="" coords="692,179,823,204"/>
+<area shape="rect" id="node9" href="$d7/d81/classpygl_1_1drawable.html" title="base class for GL objects " alt="" coords="704,92,811,117"/>
+<area shape="rect" id="node10" href="$de/d0a/classpygl_1_1camera.html" title="pygl::camera" alt="" coords="709,5,806,31"/>
+</map>

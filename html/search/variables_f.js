@@ -1,7 +1,5 @@
 var searchData=
 [
-  ['rdod_5fn',['rdod_n',['../d4/d67/geometry_8h.html#a6880261f72e628fa879d1ee3014881f6',1,'geometry.h']]],
-  ['rdod_5fr',['rdod_r',['../d4/d67/geometry_8h.html#ab7cc5ae8f7766a52b96187e3b5bb3350',1,'geometry.h']]],
-  ['rdod_5fv',['rdod_v',['../d4/d67/geometry_8h.html#a9c3168bbe2214bc7be8b794acfb8b0b6',1,'geometry.h']]],
-  ['right',['right',['../de/d0a/classpygl_1_1camera.html#a6c64d9b5805768ab5c8669449d6a8817',1,'pygl::camera']]]
+  ['q',['q',['../df/d4c/classpygl_1_1_four_mesh_viewer.html#a004448edfb2ae54ffd7bac5ed06d910f',1,'pygl::FourMeshViewer::q()'],['../da/df6/classpygl_1_1_four_model.html#a7871023cb121405e51e292c80e8fc7a9',1,'pygl::FourModel::q()'],['../d7/d6b/classpygl_1_1_demo___a.html#a3ab21bb546edc6a0cc5a1b63af36d72d',1,'pygl::Demo_A::q()'],['../dc/d34/classpygl_1_1_ortho_elements.html#ae7263361667f987b9ec9d2741b9a70d0',1,'pygl::OrthoElements::q()']]],
+  ['qrotation',['qRotation',['../d1/d9c/classpygl_1_1arcball.html#a4de9f1a7fd0cf3a6d83c5807784361aa',1,'pygl::arcball']]]
 ];

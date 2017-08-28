@@ -1,3 +1,8 @@
 <map id="pygl::CModel4::draw" name="pygl::CModel4::draw">
-<area shape="rect" id="node2" href="$d2/d2f/namespacepygl.html#a35b730b25b7ee30f143a51ecc00d76fd" title="Prototypes. " alt="" coords="196,5,328,31"/>
+<area shape="rect" id="node2" href="$d0/dd4/classpygl_1_1_c_model4.html#ae8d72842d3220498c0fe31d4f6a0c299" title="pygl::CModel4::Transform4\lDto3D" alt="" coords="196,33,378,72"/>
+<area shape="rect" id="node7" href="$d2/d2f/namespacepygl.html#a35b730b25b7ee30f143a51ecc00d76fd" title="Prototypes. " alt="" coords="221,96,353,121"/>
+<area shape="rect" id="node3" href="$d0/dd4/classpygl_1_1_c_model4.html#abf920b9713a614c7e11592b41cddfbe5" title="pygl::CModel4::calcWorld\lToEyeMat4D" alt="" coords="426,5,598,44"/>
+<area shape="rect" id="node5" href="$d2/d2f/namespacepygl.html#af7d731d5b9a77d9338aa37680b961d7a" title="pygl::dot" alt="" coords="476,68,548,93"/>
+<area shape="rect" id="node4" href="$d0/dd4/classpygl_1_1_c_model4.html#af11e789596b70e151d082eca40bdc9f7" title="pygl::CModel4::cross4" alt="" coords="654,12,807,37"/>
+<area shape="rect" id="node6" href="$de/d3c/classpygl_1_1pvector.html#af21d33792ec18ed5d6cad2a42dbc32a0" title="pygl::pvector::dotProduct" alt="" coords="646,68,815,93"/>
 </map>

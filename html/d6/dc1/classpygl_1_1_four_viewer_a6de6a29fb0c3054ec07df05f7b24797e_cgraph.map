@@ -1,0 +1,8 @@
+<map id="pygl::FourViewer::update" name="pygl::FourViewer::update">
+<area shape="rect" id="node2" href="$d3/d4d/classpygl_1_1_text_manager.html#a1930790236d78e03ce9829c299e145a4" title="pygl::TextManager::\lupdate_dyn" alt="" coords="224,73,361,112"/>
+<area shape="rect" id="node7" href="$de/d2f/classpygl_1_1program_time.html#addbc5d9665385117f6ac8b3192980c32" title="Return delta time. " alt="" coords="223,136,362,175"/>
+<area shape="rect" id="node3" href="$d3/d4d/classpygl_1_1_text_manager.html#a5c159215b819ed7facbd507ee09bce15" title="pygl::TextManager::Log" alt="" coords="418,5,578,31"/>
+<area shape="rect" id="node4" href="$da/d02/classpygl_1_1_font_atlas.html#a7e7364af4daa021b0958436d10778ebe" title="pygl::FontAtlas::lineSpace" alt="" coords="410,55,586,80"/>
+<area shape="rect" id="node5" href="$da/d02/classpygl_1_1_font_atlas.html#af24339a69096f194f9043082823ee029" title="pygl::FontAtlas::texWidth" alt="" coords="413,104,582,129"/>
+<area shape="rect" id="node6" href="$da/d02/classpygl_1_1_font_atlas.html#aef80b965557ef61a3cab17ef08df5122" title="pygl::FontAtlas::texHeight" alt="" coords="411,153,584,179"/>
+</map>

@@ -1,5 +1,6 @@
 <map id="pygl::CModel4::calcWorldToEyeMat4D" name="pygl::CModel4::calcWorldToEyeMat4D">
-<area shape="rect" id="node2" href="$d0/dd4/classpygl_1_1_c_model4.html#ae8d72842d3220498c0fe31d4f6a0c299" title="pygl::CModel4::Transform4\lDto3D" alt="" coords="226,5,407,44"/>
-<area shape="rect" id="node3" href="$d0/dd4/classpygl_1_1_c_model4.html#a197092885785ac54b0a93b42c126f73d" title="pygl::CModel4::update" alt="" coords="455,12,610,37"/>
-<area shape="rect" id="node4" href="$d0/dd4/classpygl_1_1_c_model4.html#a9b209ada27a9f082d4baece88af36ddd" title="pygl::CModel4::update" alt="" coords="658,12,813,37"/>
+<area shape="rect" id="node2" href="$d0/dd4/classpygl_1_1_c_model4.html#ae8d72842d3220498c0fe31d4f6a0c299" title="pygl::CModel4::Transform4\lDto3D" alt="" coords="226,45,407,84"/>
+<area shape="rect" id="node5" href="$d0/dd4/classpygl_1_1_c_model4.html#af6c2dab2bc75d9a961a79285bb32a01f" title="pygl::CModel4::setProjection" alt="" coords="455,105,646,131"/>
+<area shape="rect" id="node3" href="$d0/dd4/classpygl_1_1_c_model4.html#a197092885785ac54b0a93b42c126f73d" title="pygl::CModel4::update" alt="" coords="473,5,628,31"/>
+<area shape="rect" id="node4" href="$d0/dd4/classpygl_1_1_c_model4.html#a8789cb075f1d6c6a41ae078a58fe9e6f" title="pygl::CModel4::draw" alt="" coords="479,55,622,80"/>
 </map>

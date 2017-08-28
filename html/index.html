@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.12"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>FourD: &lt;p align=&quot;center&quot;&gt; A Method of Visualizing Four Dimensional Objects &lt;br&gt;In C++ using OpenGL &lt;/p&gt;</title>
+<title>Four Dimensional Visualiser: &lt;p align=&quot;center&quot;&gt; A Method of Visualizing Four Dimensional Objects &lt;br&gt;In C++ using OpenGL &lt;/p&gt;</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
  <tbody>
  <tr style="height: 56px;">
   <td id="projectalign" style="padding-left: 0.5em;">
-   <div id="projectname">FourD
+   <div id="projectname">Four Dimensional Visualiser
    </div>
   </td>
  </tr>
@@ -70,12 +70,12 @@ In C++ using OpenGL </div>  </div>
 </div><!--header-->
 <div class="contents">
 <div class="textblock"><div class="image">
-<img src="./5cell.png" alt="Four Dimensional Visualizer" title="Screenshot"/>
+<img src="./screen.jpg" alt="Four Dimensional Visualizer" title="Screenshot"/>
 </div>
  <h2>Introduction</h2>
-<p>Software for display of four dimensional information. The software will be a system to present four dimensional objects in an interactive and visually intuitive manner. Objects can be 4D analogs of actual 3D objects, such as cubes, ellipses, and other polytopes, surfaces, multidimensional functions, and indexed data sets. The paradigm of computer aided design, CAD, will be used for its familiarity. CAD is the computer expression of three dimensional descriptive geometry, it is a direct approach to 3D object manipulation in two space. The four dimensional analog should provide insight into the nature and shape of the four dimensional data sets. </p><hr/>
+<p>Software for display of four dimensional geometric information. The software will be a system to present four dimensional objects in an interactive and visually intuitive manner. Objects can be 4D analogs of actual 3D objects, such as cubes, ellipses, and other polytopes, surfaces, multidimensional functions, and indexed data sets. The paradigm of computer aided design, CAD, will be used for its familiarity. CAD is the computer expression of three dimensional descriptive geometry, it is a direct approach to 3D object manipulation in two space. The four dimensional analog should provide insight into the nature and shape of the four dimensional data sets. </p><hr/>
 <h4>Minimum requirements:</h4>
-<p>This Project is implemented in C++ using OpenGL. The development of the project was done with following software and versions, may support lower versions also but not been tested. The frameworks are used in this project.</p>
+<p>This Project is implemented in C++ using OpenGL. The development of the project was done with following software and versions; it may support lower versions also, but it is not tested. The following frameworks are used in this project.</p>
 <ul>
 <li>C++ compiler : clang c++11 support (-std=gnu++11)</li>
 <li>Development OS : macOS 10.10.5</li>
@@ -88,9 +88,9 @@ In C++ using OpenGL </div>  </div>
 <li>FreeType, freetype-2.7</li>
 </ul>
 <h2>Application description:</h2>
-<p>A CAD analog of three dimensional representation, extended into an additional spatial dimension. This is accomplished by having three viewing cubes, each representing three of four spatial dimensions. Cubes will necessarily be rendered as 2D for computer screen viewing. The object in the views will be linked. This allows rotation, zooming, and panning of the object in one view to be represented in the other two views. This interaction with the 3D representation of the 4D object will enable understanding of the shape and relation of faces, edges, and points of the object.</p>
+<p>A CAD analog of three dimensional representation, extended into an additional spatial dimension. This is accomplished by having three viewing cubes, each representing three of four spatial dimensions. Cubes will necessarily be rendered as 2D for computer screen viewing. The object in the views will be linked. This allows rotation, zooming, and panning of the object in one view to be represented in the other two views. This interaction with the 3D representation of the 4D object will facilitate understanding of the shape and relation of faces, edges, and points of the object.</p>
 <p>The software displays four concurrent connected projections of the 4D data, and one connected oblique projection. The projections are orthographic and from eye locations along the major axes – X, Y, Z, and W. The user will interact with the system by manipulating a single projection at a time; the other projections will be updated in real-time reflecting the changes made.</p>
-<p>Initially only support for 4D polytopes is planned, hypercube, hypersphere. Data sets generated from functions, indexed points to display hyper-surfaces.</p>
+<p>Support for 4D polytopes is provided; hypercube, hypersphere, five cell, etc. The system supports a class to load standard models using ASSIMP, however that functionality is not enabled in the demo. The system has internal support to generate data sets from lambda functions. The generated points can be rendered as points, because of a limitation in generating the Lines index. The functions can be in 1 to 4 variables with 1 to 4 parameters.</p>
 <h2>User Interaction</h2>
 <h3>Mouse Input:</h3>
 <p>Click and drag to rotate displayed data set, Arcball style. Quit application by selecting <code>File-&gt;Quit</code></p>
@@ -106,35 +106,59 @@ In C++ using OpenGL </div>  </div>
 <li>Press <code>R/T</code> to rotate about the <b>YW</b> plane.</li>
 <li>Press <code>F/G</code> to rotate about the <b>ZW</b> plane.</li>
 <li>Press <code>V/B</code> to rotate about the <b>YZ</b> plane.</li>
-<li>...</li>
-<li>... more directions</li>
-<li>...</li>
-<li>Press <code>4</code> to change 4D Eye Location to the <b>XYZ</b></li>
-<li>Press <code>N</code> to change 4D Eye Location to the <b>NNN</b></li>
-<li>... encode action to each of 104 keys</li>
 <li>Press <code>Tab</code> to cycle polytopes</li>
 <li>Press <code>`</code> to switch between single and multiple views</li>
+<li>Press <code>M</code> to switch multiple or single eyes</li>
+</ul>
+<p>When in single eye or single view modes, the 4D eye location is switched as below</p><ul>
+<li>Press <code>4</code> to change 4D Eye Location <b>W</b> viewing <b>XYZ</b></li>
+<li>Press <code>5</code> to change 4D Eye Location <b>Z</b> viewing <b>XYW</b></li>
+<li>Press <code>6</code> to change 4D Eye Location <b>Y</b> viewing <b>XZW</b></li>
+<li>Press <code>7</code> to change 4D Eye Location <b>X</b> viewing <b>YZW</b></li>
 <li>Press <code>Esc</code> to quit</li>
 </ul>
-<h2>Algorithm</h2>
-<p>TEST SOME <code>MathJax</code> here: The distance between \( (x_1,y_1) \) and \( (x_2,y_2) \) is \( \sqrt{(x_2-x_1)^2+(y_2-y_1)^2} \)</p>
-<div class="fragment"><div class="line">Step 1: Begin ...</div><div class="line">Step N: exit program</div></div><!-- fragment --><h2>Helpful Diagram</h2>
-<div class="image">
-<img src="/flowchart.png" alt="Flow Chart" title="Flowchart"/>
-</div>
+<h2>Application Flow Control</h2>
+<p>Step 1: <em>Initialize Application</em></p><ol type="1">
+<li>Initialize OpenGL using the GLEW library</li>
+<li>Create OpenGL Core Context</li>
+<li>Create window using the GLFW library</li>
+<li>Bind system call-backs for keyboard, mouse, error, screen refresh</li>
+</ol>
+<p>Step 2. <em>Configure Graphics Pipeline</em></p><ol type="1">
+<li>Load shader source, wireframe shader</li>
+<li>Compile shader</li>
+<li>Link Program</li>
+</ol>
+<p>Step 3: <em>Load Model</em></p><ol type="1">
+<li>Generate Vertex Array Object</li>
+<li>Generate Vertex Buffer Objects</li>
+<li>Generate Vertex indexes</li>
+<li>Define vertex attributes</li>
+</ol>
+<p>Step 4: <em>Render Loop, once per frame</em></p><ol type="1">
+<li>Capture user input from mouse, keyboard</li>
+<li>Calculate necessary changes to points dependent on user input</li>
+<li>Apply transformation matrix to the points of the 4D model</li>
+<li>Project 4D model using selected view</li>
+<li>Render the 3D View</li>
+</ol>
+<p>Step 5: <em>Exit Application</em></p><ol type="1">
+<li>Free OpenGL resources</li>
+<li>Free GLFW resources</li>
+<li>Terminate application</li>
+</ol>
 <h3>Compiling the frameworks</h3>
-<p>X-Code 7 Project or Unix makefile</p>
+<p>The demo, unit tests, and subsystem examples are compiled with X-Code 7 Project or using command line. This project is compiled and executed using clang compiler: <code>Apple LLVM version 7.0.2 (clang-700.1.81)</code></p>
 <h3>Previous Work:</h3>
 <p>sub-title </p><div class="fragment"><div class="line">details</div></div><!-- fragment --> <h3>Lessons Learned:</h3>
+<p>The software system relies on the new smart pointers that were added to the C++11 standard. Encapsulating the data, parameters for display and animation, and the system to animate the data required creating a framework to wrap OpenGL. OpenGL is primarily a monolithic state machine written in C. Major aspects of this include initializing the OpenGL context and managing video buffer memory. Memory management was more complex as all 4D transforms were performed in computer memory then uploaded to the GPU. The software system required that several different libraries were incorporated into the code base and integrated, including open source standard libraries and internal libraries. The system integrates features from seven different libraries to provide the required functionality. The libraries selected are all platform and operating system neutral. Compiling and configuring the libraries for the build environment both increased the system complexity and focus on keeping the application as portable as possible. The OpenGL version used, 3.2 core, is available on most computers built within the last ten years. This was chosen intentionally. The feature set supported and the shading language is very close to OpenGL ES and WebGL; again, the software was written keeping in mind the possibility of porting the application to a mobile platform or web browser.</p>
+<p>Throughout development of the software system, new language features of the current standard of C++ were used. Features of the new language used focused on broadest application across development platforms. The system was developed with clang and gnu-c++11, keeping in mind that gcc and msvc both include new language standards at different paces. Features include lambda functions, smart pointers, copy and move constructors, and copy assignment and move assignment constructors. One of the new features introduced in C++11 is the differentiation of r-value and l-value types. Any class that contains an OpenGL buffer needs to be carefully managed, deleting the buffer while still in use causes strange and undesirable behavior. As such, the new r-value reference semantics are great. Because OpenGL must create each buffer ID, shallow copying does not work. Manually deep copying could work, but then would push duplicated data to video memory needlessly. The exclusive ownership of member data of the class is enforced when only move semantics are allowed. When initializing the classes, using smart pointers not only greatly simplifies object management, compared to raw pointers; it also clearly indicates to anyone reading the code base the intent. An example with more familiar three dimensional data: video memory is populated with vertex data and is owned and managed by a single object. The object cannot be copied, as that would replicate the data in video memory needlessly. The object needs to be rendered using several different textures; a map or hash table could be created to match the vertex data with different texture data using only a handle or pointer. Lambda functions have been introduced; while function pointers fill a similar role, anonymous lambda functions are very flexible and can help make the code more readable. The data set generator functions all accept function pointers for x(), y(), z(), w() of parameters numbering one to four. The intent is to pass each function as a lambda to the function, like a graphing calculator, instead of requiring there to be all the additional code that would be required for a complete function or function pointer. Linear algebra. The entire graphics system is built on linear algebra. Extending the graphics from 2D/3D to four dimensions required creation of a set of linear algebra functions to perform the necessary calculations. This included vector and matrix libraries. Working in both Euclidean space and homogeneous space; projection requires creation of orthonormal vectors. The basis vectors and symbolic determinant are used to create projection matrices. Unfortunately, the internal library has a logic flaw and does not use any modern CPU instructions to optimize calculations, for example SSE or SMID. The software system logic is correct, when the math library was changed to GLM all data generated was both as expected and useful. The change in library only changed the implementation of the basic functions including vector and matrix addition, subtraction, scalar multiplication; it did not change the operations or order of operations performed. The software system wraps OpenGL into a collection object oriented classes. This was done with varying degrees of success. As the system was created from the ground up, earlier components are more heavily connected to OpenGL and would require more refactoring to decouple from the underlying graphics system, for example to switch to DirectX or rendering to targa or png files. The three dimensional model class has associated textures, meshes, and shaders. The mesh and texture objects contain and manage their own OpenGL buffer handles. The equivalent four dimensional further decouples the OpenGL portions. The mesh data is its own class, uploading the data to video memory is handled by the model class. The model class is dependent on the shader, while the four dimensional model class only relies on the shader having the location attribute in the first location. The programmable OpenGL pipeline requires the use of custom shaders. It was necessary to both learn OpenGL Shading Language, GLSL, and wrap the creation and management of GLSL programs in member methods. The abstraction allowed for a simpler, more uniform way of creating and using shader programs. Any document can benefit from version control and a revision history. This is just as true for small code bases as well as large. The program version control system used is git. The software when through many variations, revisions, corrections, and error checking and testing. Several separate and distinct methods of data management were tested using branches. Successful changes and improvements were then integrated to the master branch. The software system has API programming documentation generated using Doxygen. This required learning the doxygen markup language and becoming familiar with the generation tools. Development of the software system benefited greatly from having the program API clearly documented and the intention and method of usage clearly laid out. A great deal of work went into the construction of this software system; new tools, new language features, new languages, and growing as a programmer and logical problem solver.</p>
 <h2>Results</h2>
-<p>This project is compiled and executed using clang compiler <code>Apple LLVM version 7.0.2 (clang-700.1.81)</code></p>
-<h2>Conclusion and Future scope</h2>
-<h3>Conclusion</h3>
-<p>conclusions</p>
-<h3>Limitations</h3>
-<p>unable to rotate using tensors</p>
+<p>The software system created successfully fulfilled the requirements. The system allows for the display of four dimensional primitives in an interactive manner that provides insight to the nature of four dimensional space. The data view layout is identical to CAD systems. The user is able to interact with data set in four space by rotating it along the six degrees of freedom. The user can interact with resulting view in three space, rotating and zooming. </p>
+<p>The software library provides the ability to load model files, load existing data sets, and create sets with lambda functions. The system generates animation transforms in real-time in response to user input. The software allows one to see how the faces of 4D objects change in relation to one another when manipulating the data in four space. The regular polytopes were chosen because familiarity with the their three dimensional counterparts would benefit interpreting the animation. However, understanding of four dimensional Euclidean space was not wildly improved; more complex surfaces or three dimensional viewing, such as stereo vision, could elevate understanding.</p>
 <h3>Future Work:</h3>
-<p>future scope Support for Oculus or similar VR headset would be awesome.</p>
+<p>Stereo vision headsets have been on the market for decades. Only recently are they within the realm of feasibility both in terms of cost and performance for real-time graphics. Adding support for Oculus or similar VR headset would allow the user to view three dimensional projections much more naturally, removing the additional 3D to 2D projection. </p>
+<p>The user interaction is also only 2D, that being the mouse. It simulates a 3D arcball, or spaceball, so it is relatively intuitive; adding support for a physical device that provides real 3D input should also improve understanding. Using the gyro sensors in a tablet or similar device would accomplish that.</p>
 <h2>References</h2>
 <p>Hollasch, Steven Richard <em>Four-Space Visualization of 4D Objects</em>, Arizona State University, 1991</p>
 <p>Thomas F. Banchoff, <em>Beyond the Third Dimension</em>, Scientific American Library, New York NY, 2nd edition 1990.</p>
@@ -146,11 +170,13 @@ In C++ using OpenGL </div>  </div>
 <p>Andrew J. Hanson and Robert A. Cross. 1993. <em>Interactive visualization methods for four dimensions</em>. In Proceedings of the 4th conference on Visualization '93 (VIS '93), Dan Bergeron and Greg Nielson (Eds.). IEEE Computer Society, Washington, DC, USA, 196-203.</p>
 <p>Programming References</p>
 <p>OpenGL RED BOOK</p>
-<p>OpenGL SuperBible version 6 </p>
+<p>OpenGL SuperBible version 6</p>
+<p>&ndash; animations from W projection summarize testing results, and lessons learned</p>
+<p>also include possible failures, trying android tilt tech, VR, page page and a half </p>
 </div></div><!-- contents -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>
-Generated on Tue Aug 22 2017 15:31:54 for FourD by &#160;<a href="http://www.doxygen.org/index.html">
+Generated on Sun Aug 27 2017 21:08:01 for Four Dimensional Visualiser by &#160;<a href="http://www.doxygen.org/index.html">
 <img class="footer" src="doxygen.png" alt="doxygen"/>
 </a> 1.8.12
 </small></address>

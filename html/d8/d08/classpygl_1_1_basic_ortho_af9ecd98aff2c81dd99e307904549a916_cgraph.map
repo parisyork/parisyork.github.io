@@ -1,0 +1,10 @@
+<map id="pygl::BasicOrtho::draw" name="pygl::BasicOrtho::draw">
+<area shape="rect" id="node2" href="$d8/d08/classpygl_1_1_basic_ortho.html#ad044d871be5a237ab6fa32ada4e63af6" title="pygl::BasicOrtho::DrawGL" alt="" coords="209,79,384,104"/>
+<area shape="rect" id="node3" href="$d8/d08/classpygl_1_1_basic_ortho.html#ab93de5c41061ffbcc8a11f6af4cae3da" title="pygl::BasicOrtho::InitGL" alt="" coords="435,29,597,55"/>
+<area shape="rect" id="node7" href="$de/d98/classpygl_1_1_g_l_s_l_program.html#a7d4a9de745672de6f61878eb4aeea997" title="glUseProgram() " alt="" coords="432,79,600,104"/>
+<area shape="rect" id="node8" href="$de/d98/classpygl_1_1_g_l_s_l_program.html#aa083181ea5530ceba78e1b648d317d5f" title="pygl::GLSLProgram::\lsetUniform" alt="" coords="443,128,589,167"/>
+<area shape="rect" id="node4" href="$da/d36/classpygl_1_1_c_error_log.html#a649c6e15ee56bcb06f97821ab2252110" title="pygl::CErrorLog::Log" alt="" coords="648,5,793,31"/>
+<area shape="rect" id="node5" href="$d2/d2f/namespacepygl.html#aaa2d6f491bc4ce9fee186ea494659b21" title="Poll all OpenGL Error codes. " alt="" coords="667,55,774,80"/>
+<area shape="rect" id="node6" href="$d2/d2f/namespacepygl.html#a61608b049db4fc6e202d58743598325b" title="Convert GL enums to useable strings. " alt="" coords="841,55,995,80"/>
+<area shape="rect" id="node9" href="$de/d98/classpygl_1_1_g_l_s_l_program.html#ad26897db43fca6e12acae8675b60294e" title="pygl::GLSLProgram::\lgetUniformLocation" alt="" coords="648,128,793,167"/>
+</map>

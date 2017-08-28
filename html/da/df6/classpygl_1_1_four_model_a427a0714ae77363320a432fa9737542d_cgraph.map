@@ -1,0 +1,9 @@
+<map id="pygl::FourModel::onMouseMoveQuadView" name="pygl::FourModel::onMouseMoveQuadView">
+<area shape="rect" id="node2" href="$d2/da9/classpygl_1_1app.html#aa08d9793bfe9ef174592993612a973e6" title="pygl::app::getWindow" alt="" coords="259,5,408,31"/>
+<area shape="rect" id="node3" href="$d1/d9c/classpygl_1_1arcball.html#aa74ec4d442da7402140152ee09afdff6" title="Store Window size. " alt="" coords="250,55,417,93"/>
+<area shape="rect" id="node4" href="$d1/d9c/classpygl_1_1arcball.html#a2f5ead040a654172dfaca69f85390fb9" title="point on unit sphere " alt="" coords="247,117,419,156"/>
+<area shape="rect" id="node5" href="$d1/d9c/classpygl_1_1arcball.html#a37461f74af0abfa1f81658e8270c77da" title="quaternion from two vectors " alt="" coords="233,180,434,219"/>
+<area shape="rect" id="node8" href="$d1/d9c/classpygl_1_1arcball.html#a35468ca19df6b423bd6297abbf04cc00" title="3 vector from mouse screen position " alt="" coords="249,243,418,281"/>
+<area shape="rect" id="node6" href="$d2/d2f/namespacepygl.html#af7d731d5b9a77d9338aa37680b961d7a" title="pygl::dot" alt="" coords="482,187,554,212"/>
+<area shape="rect" id="node7" href="$de/d3c/classpygl_1_1pvector.html#af21d33792ec18ed5d6cad2a42dbc32a0" title="pygl::pvector::dotProduct" alt="" coords="602,187,771,212"/>
+</map>

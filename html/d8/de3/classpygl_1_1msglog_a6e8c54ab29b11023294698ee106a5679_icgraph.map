@@ -1,6 +1,12 @@
 <map id="pygl::msglog::log" name="pygl::msglog::log">
-<area shape="rect" id="node2" href="$d2/da9/classpygl_1_1app.html#a7e9c771f8ccf0f08b39fe74c8023f7b4" title="pygl::app::run" alt="" coords="816,5,918,31"/>
-<area shape="rect" id="node3" href="$d2/da9/classpygl_1_1app.html#a74fbc5f0ce59026badb4067fa72aa48e" title="pygl::app::onError" alt="" coords="175,31,302,56"/>
-<area shape="rect" id="node4" href="$d2/da9/classpygl_1_1app.html#a287e6382389f1b0e65af98d370846a3a" title="pygl::app::onMouseClick" alt="" coords="350,31,517,56"/>
-<area shape="rect" id="node5" href="$d2/da9/classpygl_1_1app.html#a738577dadcbaa217f917a6f7fa4fc2b7" title="pygl::app::MouseClickCallback" alt="" coords="565,31,768,56"/>
+<area shape="rect" id="node2" href="$df/d4c/classpygl_1_1_four_mesh_viewer.html#a6453639dcb3d8417e1171e40823a26ff" title="pygl::FourMeshViewer\l::startup" alt="" coords="191,5,344,44"/>
+<area shape="rect" id="node3" href="$da/df6/classpygl_1_1_four_model.html#a09cd2da61ef746a21fb003e8d2fbbfd3" title="pygl::FourModel::startup" alt="" coords="185,68,350,93"/>
+<area shape="rect" id="node4" href="$d7/d6b/classpygl_1_1_demo___a.html#a37add697efa9008047b481844d8f589e" title="pygl::Demo_A::startup" alt="" coords="191,117,344,143"/>
+<area shape="rect" id="node5" href="$d6/dc1/classpygl_1_1_four_viewer.html#a6c16229ddfd9d191954114659be15b6b" title="pygl::FourViewer::shutdown" alt="" coords="175,167,360,192"/>
+<area shape="rect" id="node6" href="$d2/da9/classpygl_1_1app.html#a7e9c771f8ccf0f08b39fe74c8023f7b4" title="pygl::app::run" alt="" coords="874,243,976,268"/>
+<area shape="rect" id="node8" href="$d2/da9/classpygl_1_1app.html#a74fbc5f0ce59026badb4067fa72aa48e" title="pygl::app::onError" alt="" coords="204,268,331,293"/>
+<area shape="rect" id="node11" href="$d5/d64/classpygl_1_1_b_m_e_s_h.html#af131c026cbd8feada65caccd2d00e5f9" title="pygl::BMESH::startup" alt="" coords="193,317,342,343"/>
+<area shape="rect" id="node7" href="$d5/d2b/4_mesh_viewer_8cpp.html#ac0f2228420376f4db7e1274f2b41667c" title="main" alt="" coords="1024,243,1074,268"/>
+<area shape="rect" id="node9" href="$d2/da9/classpygl_1_1app.html#a287e6382389f1b0e65af98d370846a3a" title="pygl::app::onMouseClick" alt="" coords="408,268,575,293"/>
+<area shape="rect" id="node10" href="$d2/da9/classpygl_1_1app.html#a738577dadcbaa217f917a6f7fa4fc2b7" title="pygl::app::MouseClickCallback" alt="" coords="623,268,826,293"/>
 </map>

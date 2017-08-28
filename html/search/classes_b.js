@@ -1,6 +1,8 @@
 var searchData=
 [
-  ['textmanager',['TextManager',['../d3/d4d/classpygl_1_1_text_manager.html',1,'pygl']]],
-  ['textparameters',['TextParameters',['../d0/dcd/structpygl_1_1_text_manager_1_1_text_parameters.html',1,'pygl::TextManager']]],
-  ['texture_5f2d',['texture_2D',['../d2/d79/classpygl_1_1texture__2_d.html',1,'pygl']]]
+  ['parametricsurface',['ParametricSurface',['../df/d02/classpygl_1_1_parametric_surface.html',1,'pygl']]],
+  ['pmatrix',['pmatrix',['../dd/d61/classpygl_1_1pmatrix.html',1,'pygl']]],
+  ['pmatrix_3c_20double_2c_204_2c_204_20_3e',['pmatrix&lt; double, 4, 4 &gt;',['../dd/d61/classpygl_1_1pmatrix.html',1,'pygl']]],
+  ['programtime',['programTime',['../de/d2f/classpygl_1_1program_time.html',1,'pygl']]],
+  ['pvector',['pvector',['../de/d3c/classpygl_1_1pvector.html',1,'pygl']]]
 ];

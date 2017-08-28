@@ -1,28 +1,8 @@
 var searchData=
 [
-  ['icos_5fr',['icos_r',['../d4/d67/geometry_8h.html#acbd63f059c3caf46dfc3fdc80c9ad083',1,'geometry.h']]],
-  ['icos_5fv',['icos_v',['../d4/d67/geometry_8h.html#ab17975a7925910cbddeb8333917ced2d',1,'geometry.h']]],
-  ['ifontsize',['iFontSize',['../da/d02/classpygl_1_1_font_atlas.html#ab58ead9944b16a387ec4c0a61363e369',1,'pygl::FontAtlas']]],
-  ['imaterialindex',['iMaterialIndex',['../d5/dc6/classpygl_1_1_basic_mesh.html#a05ac3976f56eb8446906fbf3188ed095',1,'pygl::BasicMesh']]],
-  ['index',['index',['../d6/d07/classpygl_1_1indexed_model.html#ab4bd943d33b3b798e28472c9732bbf0d',1,'pygl::indexedModel']]],
-  ['indexcount',['IndexCount',['../d0/dd4/classpygl_1_1_c_model4.html#a15302b623ae8a7e8dc0b8a1d3a2616de',1,'pygl::CModel4']]],
-  ['indexedmodel',['indexedModel',['../d6/d07/classpygl_1_1indexed_model.html',1,'pygl']]],
-  ['indexedmodel',['indexedModel',['../d6/d07/classpygl_1_1indexed_model.html#a0799f1759044e31ae2ed9f11281a9408',1,'pygl::indexedModel']]],
-  ['indices',['indices',['../d5/dc6/classpygl_1_1_basic_mesh.html#afe550488a1bf42f7749474f42198c351',1,'pygl::BasicMesh']]],
-  ['indicies',['indicies',['../df/d02/classpygl_1_1_parametric_surface.html#a308157016b75a820772c71727743f651',1,'pygl::ParametricSurface']]],
-  ['init',['init',['../d2/da9/classpygl_1_1app.html#a0d8dadd68f4afe5765705fafe0d6dd21',1,'pygl::app::init()'],['../de/d0a/classpygl_1_1camera.html#ac98b1c4443ce9e0cab0845497491bc00',1,'pygl::camera::init()'],['../d7/d81/classpygl_1_1drawable.html#a388d0bd1fa369b81ce74951689117d43',1,'pygl::drawable::init()'],['../df/d02/classpygl_1_1_parametric_surface.html#a6315ca242097df4968f52e641c039dd7',1,'pygl::ParametricSurface::init()']]],
-  ['initfont',['initFont',['../da/d02/classpygl_1_1_font_atlas.html#a14d77beac79ea1e0a0b7a2faceb8960a',1,'pygl::FontAtlas']]],
-  ['initgl',['initGL',['../d5/dc6/classpygl_1_1_basic_mesh.html#af916d162e84cf559a081963bb6e49f46',1,'pygl::BasicMesh::initGL()'],['../d0/dd4/classpygl_1_1_c_model4.html#a4da4c812abed046d52fd8026d896102f',1,'pygl::CModel4::initGL()']]],
-  ['initgldyntext',['InitGLDynText',['../d3/d4d/classpygl_1_1_text_manager.html#a9d085dd8f72137231b27050566f200de',1,'pygl::TextManager']]],
-  ['initglrendertext',['InitGLRenderText',['../d3/d4d/classpygl_1_1_text_manager.html#a7c61667d4e29202bd4b7565b5b926446',1,'pygl::TextManager']]],
-  ['initialortho',['initialOrtho',['../de/d0a/classpygl_1_1camera.html#a3275ec14bb7553abbbc3b3acf38a632c',1,'pygl::camera']]],
-  ['initialposition',['initialPosition',['../de/d0a/classpygl_1_1camera.html#abfdb4e1dca448d819c992491bb433424',1,'pygl::camera']]],
-  ['initialprojection',['initialProjection',['../de/d0a/classpygl_1_1camera.html#ad0352069a1d9384b3fcd90ba403611e8',1,'pygl::camera']]],
-  ['initialright',['initialRight',['../de/d0a/classpygl_1_1camera.html#a26fae6908f9138efd84d9e43f80a7e5e',1,'pygl::camera']]],
-  ['initialtarget',['initialTarget',['../de/d0a/classpygl_1_1camera.html#a0f6f99237de71167de0b74b99d7684f7',1,'pygl::camera']]],
-  ['initialup',['initialUp',['../de/d0a/classpygl_1_1camera.html#abee662172c32cfe02b76ab342ef67d27',1,'pygl::camera']]],
-  ['initialview',['initialView',['../de/d0a/classpygl_1_1camera.html#a83acbce75938d8cab259d9398bcf8f72',1,'pygl::camera']]],
-  ['intensity',['Intensity',['../d9/d34/structpygl_1_1_light_info.html#aff54d0ffd23d474848e0a7844e497ee5',1,'pygl::LightInfo']]],
-  ['isenabled',['isEnabled',['../de/d0a/classpygl_1_1camera.html#a9e88c9bf045d29f0d4e66809c017c3bd',1,'pygl::camera::isEnabled()'],['../d7/d81/classpygl_1_1drawable.html#a3808d6a47bc852baa275a5628c4e292f',1,'pygl::drawable::isEnabled()']]],
-  ['islinked',['isLinked',['../de/d98/classpygl_1_1_g_l_s_l_program.html#a6a15bcf87f12866bcd29eb474d4e6e20',1,'pygl::GLSLProgram']]]
+  ['hasmaterial',['HasMaterial',['../d5/dc6/classpygl_1_1_basic_mesh.html#a33e450268d1ccc9d228e88e59a1bf1d4',1,'pygl::BasicMesh']]],
+  ['hastexture',['HasTexture',['../d5/dc6/classpygl_1_1_basic_mesh.html#a7f2b2ff9c3a6aaa706b6b7c9b3258a45',1,'pygl::BasicMesh']]],
+  ['height',['height',['../df/d77/struct_font_texture_atlas.html#a35e1c8be21f4d5d7ca08964206efb0a6',1,'FontTextureAtlas']]],
+  ['helpertypes_2ehpp',['HelperTypes.hpp',['../db/d92/_helper_types_8hpp.html',1,'']]],
+  ['hypercross',['hypercross',['../d2/d2f/namespacepygl.html#a4445408d3b672f266f82faa3a1d9ad7b',1,'pygl']]]
 ];

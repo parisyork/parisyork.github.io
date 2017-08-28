@@ -1,3 +1,14 @@
 <map id="pygl::TextManager::update_dyn" name="pygl::TextManager::update_dyn">
-<area shape="rect" id="node2" href="$d0/dcd/structpygl_1_1_text_manager_1_1_text_parameters.html#a9a940dbe280cb03d0460a9c6b6ab3147" title="pygl::TextManager::\lTextParameters::TextParameters" alt="" coords="191,5,406,44"/>
+<area shape="rect" id="node2" href="$df/d4c/classpygl_1_1_four_mesh_viewer.html#a6453639dcb3d8417e1171e40823a26ff" title="pygl::FourMeshViewer\l::startup" alt="" coords="222,5,376,44"/>
+<area shape="rect" id="node3" href="$df/d4c/classpygl_1_1_four_mesh_viewer.html#a4928aaf93b5a283bc44d080394f6c749" title="pygl::FourMeshViewer\l::onMouseMove" alt="" coords="222,68,376,107"/>
+<area shape="rect" id="node4" href="$da/df6/classpygl_1_1_four_model.html#a09cd2da61ef746a21fb003e8d2fbbfd3" title="pygl::FourModel::startup" alt="" coords="216,131,381,156"/>
+<area shape="rect" id="node5" href="$da/df6/classpygl_1_1_four_model.html#a3c2a2ffae99a958eb5514456af7560a6" title="pygl::FourModel::update" alt="" coords="216,180,381,205"/>
+<area shape="rect" id="node6" href="$d7/d6b/classpygl_1_1_demo___a.html#a37add697efa9008047b481844d8f589e" title="pygl::Demo_A::startup" alt="" coords="222,229,375,255"/>
+<area shape="rect" id="node7" href="$d7/d6b/classpygl_1_1_demo___a.html#a8f831c181a457a7de05ac42e47704457" title="pygl::Demo_A::update" alt="" coords="222,279,375,304"/>
+<area shape="rect" id="node8" href="$d6/dc1/classpygl_1_1_four_viewer.html#a6de6a29fb0c3054ec07df05f7b24797e" title="pygl::FourViewer::update" alt="" coords="214,328,383,353"/>
+<area shape="rect" id="node9" href="$d0/dcd/structpygl_1_1_text_manager_1_1_text_parameters.html#a9a940dbe280cb03d0460a9c6b6ab3147" title="pygl::TextManager::\lTextParameters::TextParameters" alt="" coords="191,377,406,416"/>
+<area shape="rect" id="node10" href="$dc/d34/classpygl_1_1_ortho_elements.html#a4a339262563cccd5b1d4ed18c9dbb241" title="pygl::OrthoElements\l::startup" alt="" coords="228,440,370,479"/>
+<area shape="rect" id="node11" href="$dc/d34/classpygl_1_1_ortho_elements.html#a57f1b7404df9f72b2bb60498adec877e" title="pygl::OrthoElements\l::onMouseMoveSingleView" alt="" coords="208,503,390,541"/>
+<area shape="rect" id="node12" href="$dc/d34/classpygl_1_1_ortho_elements.html#ae4515b1efdc5781a6ce3706d57b075d9" title="pygl::OrthoElements\l::onMouseMove" alt="" coords="228,565,370,604"/>
+<area shape="rect" id="node13" href="$da/df6/classpygl_1_1_four_model.html#ad78afd191307ce9b3978ae444fefc29a" title="pygl::FourModel::onMouseMove" alt="" coords="193,628,405,653"/>
 </map>

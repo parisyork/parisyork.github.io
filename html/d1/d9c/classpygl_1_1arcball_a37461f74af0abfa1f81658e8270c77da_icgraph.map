@@ -1,3 +1,10 @@
 <map id="pygl::arcball::RotationBetweenVectors" name="pygl::arcball::RotationBetweenVectors">
-<area shape="rect" id="node2" href="$d1/d9c/classpygl_1_1arcball.html#a4d39f3f99744038e6a47516d02ad69fb" title="Rotation Matrix. " alt="" coords="255,12,426,37"/>
+<area shape="rect" id="node2" href="$df/d4c/classpygl_1_1_four_mesh_viewer.html#a4928aaf93b5a283bc44d080394f6c749" title="pygl::FourMeshViewer\l::onMouseMove" alt="" coords="278,5,432,44"/>
+<area shape="rect" id="node3" href="$da/df6/classpygl_1_1_four_model.html#a8548c2a951b80d6770191ce1a2a55b59" title="pygl::FourModel::onMouse\lMoveOneView" alt="" coords="265,68,444,107"/>
+<area shape="rect" id="node4" href="$da/df6/classpygl_1_1_four_model.html#ad78afd191307ce9b3978ae444fefc29a" title="pygl::FourModel::onMouseMove" alt="" coords="503,132,715,157"/>
+<area shape="rect" id="node5" href="$da/df6/classpygl_1_1_four_model.html#a427a0714ae77363320a432fa9737542d" title="pygl::FourModel::onMouse\lMoveQuadView" alt="" coords="265,183,444,221"/>
+<area shape="rect" id="node6" href="$d7/d6b/classpygl_1_1_demo___a.html#a13c2b54fa689f3d9507f1262fbfe73a0" title="pygl::Demo_A::onMouseMove\lOneView" alt="" coords="255,245,455,284"/>
+<area shape="rect" id="node8" href="$d7/d6b/classpygl_1_1_demo___a.html#a6e8451a88ff79fdbe6996a374b1f8018" title="pygl::Demo_A::onMouseMove\lQuadView" alt="" coords="255,308,455,347"/>
+<area shape="rect" id="node9" href="$d1/d9c/classpygl_1_1arcball.html#a4d39f3f99744038e6a47516d02ad69fb" title="Rotation Matrix. " alt="" coords="269,371,440,396"/>
+<area shape="rect" id="node7" href="$d7/d6b/classpygl_1_1_demo___a.html#aa97811c1b2244e4eb860e1e3a66d9a79" title="pygl::Demo_A::onMouseMove" alt="" coords="509,283,709,308"/>
 </map>

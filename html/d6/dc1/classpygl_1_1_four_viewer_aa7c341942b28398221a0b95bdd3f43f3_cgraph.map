@@ -1,0 +1,17 @@
+<map id="pygl::FourViewer::startup" name="pygl::FourViewer::startup">
+<area shape="rect" id="node2" href="$de/d98/classpygl_1_1_g_l_s_l_program.html#a520292f233187e783a7930684f769a09" title="pygl::GLSLProgram::\lcompileShaderFromFile" alt="" coords="224,25,387,64"/>
+<area shape="rect" id="node4" href="$de/d98/classpygl_1_1_g_l_s_l_program.html#aa5aedc4cbe8fedb1bd57e9630a63f851" title="pygl::GLSLProgram::link" alt="" coords="223,107,388,132"/>
+<area shape="rect" id="node6" href="$d3/d4d/classpygl_1_1_text_manager.html#a212827ef4ce0a5e78b2d10f11beeb7ed" title="pygl::TextManager::\ladd_font" alt="" coords="237,340,374,379"/>
+<area shape="rect" id="node11" href="$d3/d4d/classpygl_1_1_text_manager.html#ab6bb0d8f2b988f062256d7239fc115ba" title="pygl::TextManager::\ladd_message" alt="" coords="237,187,374,225"/>
+<area shape="rect" id="node14" href="$d3/d4d/classpygl_1_1_text_manager.html#a271c6324a9ebeff99745467c28857760" title="pygl::TextManager::\ladd_dyn" alt="" coords="237,249,374,288"/>
+<area shape="rect" id="node3" href="$de/d98/classpygl_1_1_g_l_s_l_program.html#a7eaebe8d238d6558211002e186507351" title="pygl::GLSLProgram::\lcompileShaderFromString" alt="" coords="436,5,613,44"/>
+<area shape="rect" id="node5" href="$de/d98/classpygl_1_1_g_l_s_l_program.html#ab41883dafc88e528cf5e00e6fd2d7f7a" title="pygl::GLSLProgram::\lgetProgramStatus" alt="" coords="452,68,598,107"/>
+<area shape="rect" id="node7" href="$d3/d4d/classpygl_1_1_text_manager.html#a5c159215b819ed7facbd507ee09bce15" title="pygl::TextManager::Log" alt="" coords="445,256,605,281"/>
+<area shape="rect" id="node8" href="$d3/d4d/classpygl_1_1_text_manager.html#abb236dc1a423638e5ede38549e830445" title="pygl::TextManager::\lStyleCode" alt="" coords="456,368,593,407"/>
+<area shape="rect" id="node9" href="$d2/d2f/namespacepygl.html#a574f16961d0406c321ce1d3c337f12c0" title="List all shader attributes. " alt="" coords="462,431,587,456"/>
+<area shape="rect" id="node10" href="$d2/d2f/namespacepygl.html#a61608b049db4fc6e202d58743598325b" title="Convert GL enums to useable strings. " alt="" coords="670,431,823,456"/>
+<area shape="rect" id="node12" href="$d3/d4d/classpygl_1_1_text_manager.html#a7c61667d4e29202bd4b7565b5b926446" title="pygl::TextManager::\lInitGLRenderText" alt="" coords="456,131,593,169"/>
+<area shape="rect" id="node13" href="$d3/d4d/classpygl_1_1_text_manager.html#a56c865768b3cd56b4f305e057aecd00d" title="pygl::TextManager::\lprint" alt="" coords="456,193,593,232"/>
+<area shape="rect" id="node15" href="$d3/d4d/classpygl_1_1_text_manager.html#a9d085dd8f72137231b27050566f200de" title="pygl::TextManager::\lInitGLDynText" alt="" coords="456,305,593,344"/>
+<area shape="rect" id="node16" href="$da/d02/classpygl_1_1_font_atlas.html#acf74655af1f44330f6584114ac2f8901" title="pygl::FontAtlas::glTexture\lHandle" alt="" coords="661,305,832,344"/>
+</map>

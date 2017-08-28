@@ -1,7 +1,7 @@
 var searchData=
 [
-  ['xmax',['xMax',['../df/d0a/structpygl_1_1_glyph_properties.html#a9ba5fe93c747618e8ecd5808540f9586',1,'pygl::GlyphProperties']]],
-  ['xmin',['xMin',['../df/d0a/structpygl_1_1_glyph_properties.html#a2a75b28ba66002d9dc97f1e48c644f5f',1,'pygl::GlyphProperties']]],
-  ['xpos',['xPos',['../d0/dcd/structpygl_1_1_text_manager_1_1_text_parameters.html#a7bc54cc871b7a7f03b0f468e66e5137b',1,'pygl::TextManager::TextParameters']]],
-  ['xscale',['xScale',['../d0/dcd/structpygl_1_1_text_manager_1_1_text_parameters.html#a2962e25b1944ed9bb6da991fb16c162f',1,'pygl::TextManager::TextParameters']]]
+  ['width',['width',['../df/d77/struct_font_texture_atlas.html#a345fab37ac6b36e3160226f54089b0c1',1,'FontTextureAtlas']]],
+  ['windowheight',['windowHeight',['../d2/da9/classpygl_1_1app.html#accad9537420eb560f25a236abd062ac4',1,'pygl::app']]],
+  ['windowtitle',['windowTitle',['../d2/da9/classpygl_1_1app.html#acc82858afcc93f873403f87c1677afbe',1,'pygl::app']]],
+  ['windowwidth',['windowWidth',['../d2/da9/classpygl_1_1app.html#a00304a43b091ec038aa07bef4a3c0e62',1,'pygl::app']]]
 ];

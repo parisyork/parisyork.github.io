@@ -1,5 +1,12 @@
 <map id="include/model.hpp" name="include/model.hpp">
-<area shape="rect" id="node2" href="$d6/db4/model_8cpp.html" title="implementation " alt="" coords="5,79,134,104"/>
-<area shape="rect" id="node3" href="$d2/dcf/_reference_model_geo_8hpp.html" title="File containing functions that create geometric primitives. " alt="" coords="158,79,374,104"/>
-<area shape="rect" id="node4" href="$db/d4b/_reference_model_geo_8cpp.html" title="File containing functions that create geometric primitives. " alt="" coords="158,152,374,177"/>
+<area shape="rect" id="node2" href="$d5/d2b/4_mesh_viewer_8cpp.html" title="first attempt at building a 4Mesh object " alt="" coords="5,152,216,177"/>
+<area shape="rect" id="node3" href="$dc/d65/_c_model4_test_8cpp.html" title="Four Mesh. " alt="" coords="240,152,446,177"/>
+<area shape="rect" id="node4" href="$d6/db4/model_8cpp.html" title="implementation " alt="" coords="729,79,858,104"/>
+<area shape="rect" id="node5" href="$d2/dcf/_reference_model_geo_8hpp.html" title="include/ReferenceModelGeo.hpp" alt="" coords="438,79,655,104"/>
+<area shape="rect" id="node9" href="$d6/d11/_c_mesh4_test_8cpp.html" title="Four Mesh. " alt="" coords="1133,152,1315,177"/>
+<area shape="rect" id="node10" href="$d1/d09/bmesh_test_8cpp.html" title="example of BMesh Usage " alt="" coords="881,79,1078,104"/>
+<area shape="rect" id="node11" href="$d0/ddd/load_model_8cpp.html" title="Load Model, display 4 views. " alt="" coords="1103,79,1279,104"/>
+<area shape="rect" id="node6" href="$df/d86/_demo___a_8cpp.html" title="Demo_A/Demo_A.cpp" alt="" coords="470,152,624,177"/>
+<area shape="rect" id="node7" href="$db/d4b/_reference_model_geo_8cpp.html" title="include/ReferenceModelGeo.cpp" alt="" coords="648,152,864,177"/>
+<area shape="rect" id="node8" href="$df/d4a/ortho_elements_8cpp.html" title="four connected views of a model " alt="" coords="888,152,1109,177"/>
 </map>

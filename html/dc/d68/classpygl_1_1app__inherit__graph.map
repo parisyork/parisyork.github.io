@@ -1,3 +1,11 @@
 <map id="pygl::app" name="pygl::app">
-<area shape="rect" id="node2" href="$d8/de3/classpygl_1_1msglog.html" title="pygl::msglog" alt="" coords="5,5,102,31"/>
+<area shape="rect" id="node3" href="$d5/d64/classpygl_1_1_b_m_e_s_h.html" title="pygl::BMESH" alt="" coords="300,5,400,31"/>
+<area shape="rect" id="node4" href="$db/d24/classpygl_1_1_c_u_b_e.html" title="pygl::CUBE" alt="" coords="305,55,395,80"/>
+<area shape="rect" id="node5" href="$d7/d6b/classpygl_1_1_demo___a.html" title="pygl::Demo_A" alt="" coords="297,104,402,129"/>
+<area shape="rect" id="node6" href="$df/d4c/classpygl_1_1_four_mesh_viewer.html" title="pygl::FourMeshViewer" alt="" coords="273,153,427,179"/>
+<area shape="rect" id="node7" href="$da/df6/classpygl_1_1_four_model.html" title="pygl::FourModel" alt="" coords="291,203,408,228"/>
+<area shape="rect" id="node8" href="$d6/dc1/classpygl_1_1_four_viewer.html" title="pygl::FourViewer" alt="" coords="289,252,410,277"/>
+<area shape="rect" id="node9" href="$d0/dfa/classpygl_1_1load_model.html" title="pygl::loadModel" alt="" coords="292,301,407,327"/>
+<area shape="rect" id="node10" href="$dc/d34/classpygl_1_1_ortho_elements.html" title="pygl::OrthoElements" alt="" coords="279,351,421,376"/>
+<area shape="rect" id="node2" href="$d8/de3/classpygl_1_1msglog.html" title="pygl::msglog" alt="" coords="5,203,102,228"/>
 </map>

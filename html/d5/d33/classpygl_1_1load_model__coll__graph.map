@@ -1,0 +1,14 @@
+<map id="pygl::loadModel" name="pygl::loadModel">
+<area shape="rect" id="node2" href="$d2/da9/classpygl_1_1app.html" title="Windowed OpenGL application. " alt="" coords="132,192,207,217"/>
+<area shape="rect" id="node3" href="$d8/de3/classpygl_1_1msglog.html" title="pygl::msglog" alt="" coords="5,105,102,131"/>
+<area shape="rect" id="node4" href="$de/d2f/classpygl_1_1program_time.html" title="Class for timing update calls. " alt="" coords="126,105,258,131"/>
+<area shape="rect" id="node5" href="$de/d98/classpygl_1_1_g_l_s_l_program.html" title="pygl::GLSLProgram" alt="" coords="236,5,375,31"/>
+<area shape="rect" id="node7" href="$db/d83/classpygl_1_1model.html" title="pygl::model" alt="" coords="413,105,502,131"/>
+<area shape="rect" id="node6" href="$d5/df6/structpygl_1_1_model_instance.html" title="pygl::ModelInstance" alt="" coords="383,192,523,217"/>
+<area shape="rect" id="node8" href="$da/d36/classpygl_1_1_c_error_log.html" title="Inherit for logging functions. " alt="" coords="399,5,513,31"/>
+<area shape="rect" id="node9" href="$d2/d79/classpygl_1_1texture__2_d.html" title="OpenGL 2D Texture class. " alt="" coords="537,5,655,31"/>
+<area shape="rect" id="node10" href="$df/da4/structpygl_1_1_bounding_box.html" title="pygl::BoundingBox" alt="" coords="679,5,812,31"/>
+<area shape="rect" id="node11" href="$d3/d4d/classpygl_1_1_text_manager.html" title="pygl::TextManager" alt="" coords="680,192,811,217"/>
+<area shape="rect" id="node12" href="$d7/d81/classpygl_1_1drawable.html" title="base class for GL objects " alt="" coords="761,105,868,131"/>
+<area shape="rect" id="node13" href="$de/d0a/classpygl_1_1camera.html" title="pygl::camera" alt="" coords="835,5,933,31"/>
+</map>

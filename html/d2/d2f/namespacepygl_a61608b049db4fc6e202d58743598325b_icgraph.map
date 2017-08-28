@@ -1,11 +1,24 @@
 <map id="pygl::GLenumToString" name="pygl::GLenumToString">
-<area shape="rect" id="node2" href="$d2/d2f/namespacepygl.html#a574f16961d0406c321ce1d3c337f12c0" title="List all shader attributes. " alt="" coords="207,12,331,37"/>
-<area shape="rect" id="node5" href="$d2/d2f/namespacepygl.html#af627f8d1bde6e40135bfcae71242129f" title="Poll GL Error code Once. " alt="" coords="208,61,329,87"/>
-<area shape="rect" id="node6" href="$d2/d2f/namespacepygl.html#aaa2d6f491bc4ce9fee186ea494659b21" title="Poll all OpenGL Error codes. " alt="" coords="215,111,322,136"/>
-<area shape="rect" id="node3" href="$d3/d4d/classpygl_1_1_text_manager.html#a212827ef4ce0a5e78b2d10f11beeb7ed" title="pygl::TextManager::\ladd_font" alt="" coords="404,5,542,44"/>
-<area shape="rect" id="node4" href="$d0/dcd/structpygl_1_1_text_manager_1_1_text_parameters.html#a9a940dbe280cb03d0460a9c6b6ab3147" title="pygl::TextManager::\lTextParameters::TextParameters" alt="" coords="616,5,831,44"/>
-<area shape="rect" id="node7" href="$da/d02/classpygl_1_1_font_atlas.html#a94b41831481fcb47b36f14a34e6f3794" title="Create TEXTURE_2D font atlas. " alt="" coords="379,104,568,143"/>
-<area shape="rect" id="node8" href="$da/d02/classpygl_1_1_font_atlas.html#a60737e560ed380919644335aa1b581f3" title="process font file " alt="" coords="637,104,810,143"/>
-<area shape="rect" id="node9" href="$da/d02/classpygl_1_1_font_atlas.html#a14d77beac79ea1e0a0b7a2faceb8960a" title="pygl::FontAtlas::initFont" alt="" coords="879,111,1040,136"/>
-<area shape="rect" id="node10" href="$da/d02/classpygl_1_1_font_atlas.html#ad79cbe12dcf70292f185afa543aa2a44" title="pygl::FontAtlas::FontAtlas" alt="" coords="1088,111,1261,136"/>
+<area shape="rect" id="node2" href="$d2/d2f/namespacepygl.html#a574f16961d0406c321ce1d3c337f12c0" title="List all shader attributes. " alt="" coords="207,289,331,315"/>
+<area shape="rect" id="node13" href="$d2/d2f/namespacepygl.html#af627f8d1bde6e40135bfcae71242129f" title="Poll GL Error code Once. " alt="" coords="208,441,329,467"/>
+<area shape="rect" id="node14" href="$d2/d2f/namespacepygl.html#aaa2d6f491bc4ce9fee186ea494659b21" title="Poll all OpenGL Error codes. " alt="" coords="394,441,501,467"/>
+<area shape="rect" id="node3" href="$df/d4c/classpygl_1_1_four_mesh_viewer.html#a6453639dcb3d8417e1171e40823a26ff" title="pygl::FourMeshViewer\l::startup" alt="" coords="595,167,749,205"/>
+<area shape="rect" id="node4" href="$db/d24/classpygl_1_1_c_u_b_e.html#aaac39515151eece5e10efbd8ef912f34" title="pygl::CUBE::startup" alt="" coords="603,341,742,367"/>
+<area shape="rect" id="node5" href="$d7/d6b/classpygl_1_1_demo___a.html#a37add697efa9008047b481844d8f589e" title="pygl::Demo_A::startup" alt="" coords="596,391,749,416"/>
+<area shape="rect" id="node6" href="$d3/d4d/classpygl_1_1_text_manager.html#a212827ef4ce0a5e78b2d10f11beeb7ed" title="pygl::TextManager::\ladd_font" alt="" coords="379,175,517,213"/>
+<area shape="rect" id="node7" href="$da/df6/classpygl_1_1_four_model.html#a09cd2da61ef746a21fb003e8d2fbbfd3" title="pygl::FourModel::startup" alt="" coords="590,588,755,613"/>
+<area shape="rect" id="node10" href="$d5/d64/classpygl_1_1_b_m_e_s_h.html#af131c026cbd8feada65caccd2d00e5f9" title="pygl::BMESH::startup" alt="" coords="598,5,747,31"/>
+<area shape="rect" id="node11" href="$dc/d34/classpygl_1_1_ortho_elements.html#a4a339262563cccd5b1d4ed18c9dbb241" title="pygl::OrthoElements\l::startup" alt="" coords="601,229,743,268"/>
+<area shape="rect" id="node12" href="$d0/dfa/classpygl_1_1load_model.html#a303da334b679d07bec6a7d062c7d1a3a" title="pygl::loadModel::startup" alt="" coords="591,292,754,317"/>
+<area shape="rect" id="node8" href="$d6/dc1/classpygl_1_1_four_viewer.html#aa7c341942b28398221a0b95bdd3f43f3" title="pygl::FourViewer::startup" alt="" coords="588,117,757,143"/>
+<area shape="rect" id="node9" href="$d0/dcd/structpygl_1_1_text_manager_1_1_text_parameters.html#a9a940dbe280cb03d0460a9c6b6ab3147" title="pygl::TextManager::\lTextParameters::TextParameters" alt="" coords="565,55,780,93"/>
+<area shape="rect" id="node15" href="$db/d24/classpygl_1_1_c_u_b_e.html#afe00d13d35debce8d64de752921191b3" title="pygl::CUBE::drawModel" alt="" coords="591,489,754,515"/>
+<area shape="rect" id="node16" href="$d0/dd4/classpygl_1_1_c_model4.html#a197092885785ac54b0a93b42c126f73d" title="pygl::CModel4::update" alt="" coords="595,539,750,564"/>
+<area shape="rect" id="node17" href="$da/d02/classpygl_1_1_font_atlas.html#a94b41831481fcb47b36f14a34e6f3794" title="Create TEXTURE_2D font atlas. " alt="" coords="578,637,767,676"/>
+<area shape="rect" id="node21" href="$d8/d08/classpygl_1_1_basic_ortho.html#ab93de5c41061ffbcc8a11f6af4cae3da" title="pygl::BasicOrtho::InitGL" alt="" coords="591,440,753,465"/>
+<area shape="rect" id="node18" href="$da/d02/classpygl_1_1_font_atlas.html#a60737e560ed380919644335aa1b581f3" title="process font file " alt="" coords="829,637,1002,676"/>
+<area shape="rect" id="node19" href="$da/d02/classpygl_1_1_font_atlas.html#a14d77beac79ea1e0a0b7a2faceb8960a" title="pygl::FontAtlas::initFont" alt="" coords="1052,644,1212,669"/>
+<area shape="rect" id="node20" href="$da/d02/classpygl_1_1_font_atlas.html#ad79cbe12dcf70292f185afa543aa2a44" title="pygl::FontAtlas::FontAtlas" alt="" coords="1260,644,1433,669"/>
+<area shape="rect" id="node22" href="$d8/d08/classpygl_1_1_basic_ortho.html#ad044d871be5a237ab6fa32ada4e63af6" title="pygl::BasicOrtho::DrawGL" alt="" coords="828,440,1004,465"/>
+<area shape="rect" id="node23" href="$d8/d08/classpygl_1_1_basic_ortho.html#af9ecd98aff2c81dd99e307904549a916" title="pygl::BasicOrtho::draw" alt="" coords="1054,440,1210,465"/>
 </map>

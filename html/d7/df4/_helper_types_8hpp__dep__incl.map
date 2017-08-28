@@ -1,10 +1,20 @@
 <map id="include/HelperTypes.hpp" name="include/HelperTypes.hpp">
-<area shape="rect" id="node2" href="$d8/da9/_basic_mesh_8hpp.html" title="A simple mesh class. " alt="" coords="165,79,323,104"/>
-<area shape="rect" id="node8" href="$d8/d95/_parametric_surface_8hpp.html" title="functions to create point sets " alt="" coords="348,79,551,104"/>
-<area shape="rect" id="node3" href="$d8/de7/_basic_mesh_8cpp.html" title="A simple mesh class. " alt="" coords="5,152,163,177"/>
-<area shape="rect" id="node4" href="$dc/ddc/model_8hpp.html" title="OpenGL Model. " alt="" coords="187,152,317,177"/>
-<area shape="rect" id="node5" href="$d6/db4/model_8cpp.html" title="implementation " alt="" coords="89,225,218,251"/>
-<area shape="rect" id="node6" href="$d2/dcf/_reference_model_geo_8hpp.html" title="File containing functions that create geometric primitives. " alt="" coords="241,225,458,251"/>
-<area shape="rect" id="node7" href="$db/d4b/_reference_model_geo_8cpp.html" title="File containing functions that create geometric primitives. " alt="" coords="242,299,457,324"/>
-<area shape="rect" id="node9" href="$d7/d6c/_parametric_surface_8cpp.html" title="functions to create point sets " alt="" coords="348,152,551,177"/>
+<area shape="rect" id="node2" href="$d8/da9/_basic_mesh_8hpp.html" title="A simple mesh class. " alt="" coords="913,79,1072,104"/>
+<area shape="rect" id="node15" href="$d8/d95/_parametric_surface_8hpp.html" title="functions to create point sets " alt="" coords="1138,152,1342,177"/>
+<area shape="rect" id="node19" href="$d9/dd9/stanford_bunny_8cpp.html" title="stanfordBunny.cpp" alt="" coords="1189,79,1321,104"/>
+<area shape="rect" id="node3" href="$d8/de7/_basic_mesh_8cpp.html" title="A simple mesh class. " alt="" coords="913,152,1071,177"/>
+<area shape="rect" id="node4" href="$dc/ddc/model_8hpp.html" title="OpenGL Model. " alt="" coords="717,152,846,177"/>
+<area shape="rect" id="node5" href="$d5/d2b/4_mesh_viewer_8cpp.html" title="first attempt at building a 4Mesh object " alt="" coords="696,299,907,324"/>
+<area shape="rect" id="node6" href="$dc/d65/_c_model4_test_8cpp.html" title="Four Mesh. " alt="" coords="1109,299,1315,324"/>
+<area shape="rect" id="node7" href="$d6/db4/model_8cpp.html" title="implementation " alt="" coords="667,225,795,251"/>
+<area shape="rect" id="node8" href="$d2/dcf/_reference_model_geo_8hpp.html" title="include/ReferenceModelGeo.hpp" alt="" coords="427,225,643,251"/>
+<area shape="rect" id="node12" href="$d6/d11/_c_mesh4_test_8cpp.html" title="Four Mesh. " alt="" coords="5,299,187,324"/>
+<area shape="rect" id="node13" href="$d1/d09/bmesh_test_8cpp.html" title="example of BMesh Usage " alt="" coords="920,225,1117,251"/>
+<area shape="rect" id="node14" href="$d0/ddd/load_model_8cpp.html" title="Load Model, display 4 views. " alt="" coords="176,225,352,251"/>
+<area shape="rect" id="node9" href="$df/d86/_demo___a_8cpp.html" title="Demo_A/Demo_A.cpp" alt="" coords="931,299,1085,324"/>
+<area shape="rect" id="node10" href="$db/d4b/_reference_model_geo_8cpp.html" title="include/ReferenceModelGeo.cpp" alt="" coords="457,299,672,324"/>
+<area shape="rect" id="node11" href="$df/d4a/ortho_elements_8cpp.html" title="four connected views of a model " alt="" coords="211,299,432,324"/>
+<area shape="rect" id="node16" href="$d7/d6c/_parametric_surface_8cpp.html" title="functions to create point sets " alt="" coords="1363,225,1566,251"/>
+<area shape="rect" id="node17" href="$dd/df1/_reference4_d_geo_8hpp.html" title="include/Reference4DGeo.hpp" alt="" coords="1142,225,1339,251"/>
+<area shape="rect" id="node18" href="$d1/d6e/_reference4_d_geo_8cpp.html" title="include/Reference4DGeo.cpp" alt="" coords="1339,299,1536,324"/>
 </map>

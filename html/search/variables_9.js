@@ -1,15 +1,20 @@
 var searchData=
 [
-  ['lasttime',['lastTime',['../de/d2f/classpygl_1_1program_time.html#af696eba5232543975b16d536b9a8bb0b',1,'pygl::programTime']]],
-  ['lastx',['lastX',['../d1/d9c/classpygl_1_1arcball.html#af7b3cf4975961ac301543bb7fcb31836',1,'pygl::arcball']]],
-  ['lasty',['lastY',['../d1/d9c/classpygl_1_1arcball.html#a46ec1f72857bd95bf5c978c6f87ae51a',1,'pygl::arcball']]],
-  ['linesindex',['linesIndex',['../df/d32/classpygl_1_1_c_mesh4.html#a061ec9d8cc3dc204d1537feb3377fcaa',1,'pygl::CMesh4']]],
-  ['linesindexbuffer',['LinesIndexBuffer',['../d0/dd4/classpygl_1_1_c_model4.html#a6c33b701c9c5c7d36d7716551b5e8773',1,'pygl::CModel4']]],
-  ['linesindexcount',['LinesIndexCount',['../d0/dd4/classpygl_1_1_c_model4.html#aad96d56bbcc95d2dcd0d87e454bcc074',1,'pygl::CModel4']]],
-  ['linestripindexbuffer',['LineStripIndexBuffer',['../d0/dd4/classpygl_1_1_c_model4.html#a77a2a184d83f2e1ba50d33ca40c80754',1,'pygl::CModel4']]],
-  ['linestripindexcount',['LineStripIndexCount',['../d0/dd4/classpygl_1_1_c_model4.html#ace5615bc2b9759795b0bb6e8c742f346',1,'pygl::CModel4']]],
-  ['linestripprimcount',['LinestripPrimCount',['../d0/dd4/classpygl_1_1_c_model4.html#a8ff48cac5d4c58e9c0cd49f8b36004f0',1,'pygl::CModel4']]],
-  ['lx',['LX',['../df/da4/structpygl_1_1_bounding_box.html#a68ae6c56e3d25ca28f72019605158a53',1,'pygl::BoundingBox']]],
-  ['ly',['LY',['../df/da4/structpygl_1_1_bounding_box.html#a06aae34ab1739df1d38966aaa57af9b6',1,'pygl::BoundingBox']]],
-  ['lz',['LZ',['../df/da4/structpygl_1_1_bounding_box.html#a2df615fe5b5539714648c925cbe95c98',1,'pygl::BoundingBox']]]
+  ['icos_5fr',['icos_r',['../d4/d67/geometry_8h.html#acbd63f059c3caf46dfc3fdc80c9ad083',1,'geometry.h']]],
+  ['icos_5fv',['icos_v',['../d4/d67/geometry_8h.html#ab17975a7925910cbddeb8333917ced2d',1,'geometry.h']]],
+  ['ifontsize',['iFontSize',['../da/d02/classpygl_1_1_font_atlas.html#ab58ead9944b16a387ec4c0a61363e369',1,'pygl::FontAtlas']]],
+  ['imaterialindex',['iMaterialIndex',['../d5/dc6/classpygl_1_1_basic_mesh.html#a05ac3976f56eb8446906fbf3188ed095',1,'pygl::BasicMesh']]],
+  ['index',['index',['../d6/d07/classpygl_1_1indexed_model.html#ab4bd943d33b3b798e28472c9732bbf0d',1,'pygl::indexedModel']]],
+  ['indexcount',['indexCount',['../d6/dae/structgl_testing_1_1_mesh.html#a028f7a962a99b859d0128958a2ff218b',1,'glTesting::Mesh::indexCount()'],['../dc/d9c/structpygl_1_1_four_mesh_viewer_1_1_mesh4_instance.html#ae598664c90d97561dd5188652c9d6cbd',1,'pygl::FourMeshViewer::Mesh4Instance::IndexCount()'],['../d0/dd4/classpygl_1_1_c_model4.html#a15302b623ae8a7e8dc0b8a1d3a2616de',1,'pygl::CModel4::IndexCount()'],['../d6/d35/structpygl_1_1_four_model_1_1_mesh4_instance.html#a86e7933a0742413253b7b39bb604bc57',1,'pygl::FourModel::Mesh4Instance::IndexCount()']]],
+  ['indexoffset',['indexOffset',['../d6/dae/structgl_testing_1_1_mesh.html#a31079a4296dcf31bc0391709c94f95bd',1,'glTesting::Mesh']]],
+  ['indices',['indices',['../d5/dc6/classpygl_1_1_basic_mesh.html#afe550488a1bf42f7749474f42198c351',1,'pygl::BasicMesh']]],
+  ['initialortho',['initialOrtho',['../de/d0a/classpygl_1_1camera.html#a3275ec14bb7553abbbc3b3acf38a632c',1,'pygl::camera']]],
+  ['initialposition',['initialPosition',['../de/d0a/classpygl_1_1camera.html#abfdb4e1dca448d819c992491bb433424',1,'pygl::camera']]],
+  ['initialprojection',['initialProjection',['../de/d0a/classpygl_1_1camera.html#ad0352069a1d9384b3fcd90ba403611e8',1,'pygl::camera']]],
+  ['initialright',['initialRight',['../de/d0a/classpygl_1_1camera.html#a26fae6908f9138efd84d9e43f80a7e5e',1,'pygl::camera']]],
+  ['initialtarget',['initialTarget',['../de/d0a/classpygl_1_1camera.html#a0f6f99237de71167de0b74b99d7684f7',1,'pygl::camera']]],
+  ['initialup',['initialUp',['../de/d0a/classpygl_1_1camera.html#abee662172c32cfe02b76ab342ef67d27',1,'pygl::camera']]],
+  ['initialview',['initialView',['../de/d0a/classpygl_1_1camera.html#a83acbce75938d8cab259d9398bcf8f72',1,'pygl::camera']]],
+  ['intensity',['Intensity',['../d9/d34/structpygl_1_1_light_info.html#aff54d0ffd23d474848e0a7844e497ee5',1,'pygl::LightInfo::Intensity()'],['../d1/df8/structgl_testing_1_1_light_info.html#a86e5ec98f47d04e8c2f7d4cd6836771a',1,'glTesting::LightInfo::Intensity()']]],
+  ['ioffset',['iOffset',['../d8/d08/classpygl_1_1_basic_ortho.html#a3f99955b5a8c61117798124608495aac',1,'pygl::BasicOrtho']]]
 ];

@@ -1,0 +1,7 @@
+<map id="pygl::FourMeshViewer::update" name="pygl::FourMeshViewer::update">
+<area shape="rect" id="node2" href="$de/d2f/classpygl_1_1program_time.html#addbc5d9665385117f6ac8b3192980c32" title="Return delta time. " alt="" coords="252,5,392,44"/>
+<area shape="rect" id="node3" href="$df/d4c/classpygl_1_1_four_mesh_viewer.html#a1fb8369fe19bf35988cff5ad76d34684" title="pygl::FourMeshViewer\l::GenerateThreeSpaceVertexBuffer" alt="" coords="207,68,437,107"/>
+<area shape="rect" id="node6" href="$d2/da9/classpygl_1_1app.html#aa08d9793bfe9ef174592993612a973e6" title="pygl::app::getWindow" alt="" coords="248,131,397,156"/>
+<area shape="rect" id="node4" href="$dd/d61/classpygl_1_1pmatrix.html#ae7f7a48c143bdfbccefc72201a6996ae" title="pygl::pmatrix::setIdentity" alt="" coords="485,51,650,76"/>
+<area shape="rect" id="node5" href="$d2/d2f/namespacepygl.html#ae9d6a830ae923c60d6ed3efcf18dbf52" title="pygl::normalizeReduce" alt="" coords="489,100,646,125"/>
+</map>

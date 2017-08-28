@@ -1,0 +1,11 @@
+<map id="include/Reference4DGeo.hpp" name="include/Reference4DGeo.hpp">
+<area shape="rect" id="node2" href="$d2/d5c/_c_model4_8hpp.html" title="Four Dimensional Model Object. " alt="" coords="399,79,500,104"/>
+<area shape="rect" id="node23" href="$d6/d8b/static_polytope_8hpp.html" title="values for 4D polytopes, modified to use the STL " alt="" coords="524,79,654,104"/>
+<area shape="rect" id="node24" href="$d8/d95/_parametric_surface_8hpp.html" title="functions to create point sets " alt="" coords="678,79,836,104"/>
+<area shape="rect" id="node3" href="$db/dfd/common_libraries_8hpp.html" title="headers used throughout program " alt="" coords="868,225,1017,251"/>
+<area shape="rect" id="node15" href="$dc/da4/pmath_8hpp.html" title="Math Funcions. " alt="" coords="335,152,419,177"/>
+<area shape="rect" id="node22" href="$d3/dd8/_c_mesh4_8hpp.html" title="Four Dimensional Model Object. " alt="" coords="414,225,511,251"/>
+<area shape="rect" id="node16" href="$d9/d69/pvector_8hpp.html" title="vector math " alt="" coords="337,299,428,324"/>
+<area shape="rect" id="node19" href="$db/d54/pmatrix_8hpp.html" title="Matrix Math Class. " alt="" coords="249,225,340,251"/>
+<area shape="rect" id="node26" href="$db/d92/_helper_types_8hpp.html" title="static named variables " alt="" coords="687,152,809,177"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="pygl::arcball::SetWindowParameters" name="pygl::arcball::SetWindowParameters">
+<area shape="rect" id="node2" href="$df/d4c/classpygl_1_1_four_mesh_viewer.html#a6453639dcb3d8417e1171e40823a26ff" title="pygl::FourMeshViewer\l::startup" alt="" coords="244,5,397,44"/>
+<area shape="rect" id="node3" href="$da/df6/classpygl_1_1_four_model.html#a09cd2da61ef746a21fb003e8d2fbbfd3" title="pygl::FourModel::startup" alt="" coords="238,68,403,93"/>
+<area shape="rect" id="node4" href="$da/df6/classpygl_1_1_four_model.html#a427a0714ae77363320a432fa9737542d" title="pygl::FourModel::onMouse\lMoveQuadView" alt="" coords="231,117,410,156"/>
+<area shape="rect" id="node6" href="$d7/d6b/classpygl_1_1_demo___a.html#a37add697efa9008047b481844d8f589e" title="pygl::Demo_A::startup" alt="" coords="244,180,397,205"/>
+<area shape="rect" id="node7" href="$d7/d6b/classpygl_1_1_demo___a.html#a6e8451a88ff79fdbe6996a374b1f8018" title="pygl::Demo_A::onMouseMove\lQuadView" alt="" coords="221,229,421,268"/>
+<area shape="rect" id="node5" href="$da/df6/classpygl_1_1_four_model.html#ad78afd191307ce9b3978ae444fefc29a" title="pygl::FourModel::onMouseMove" alt="" coords="469,124,680,149"/>
+<area shape="rect" id="node8" href="$d7/d6b/classpygl_1_1_demo___a.html#aa97811c1b2244e4eb860e1e3a66d9a79" title="pygl::Demo_A::onMouseMove" alt="" coords="475,236,674,261"/>
+</map>

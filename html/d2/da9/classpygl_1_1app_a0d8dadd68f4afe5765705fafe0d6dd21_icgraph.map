@@ -1,3 +1,12 @@
 <map id="pygl::app::init" name="pygl::app::init">
-<area shape="rect" id="node2" href="$d2/da9/classpygl_1_1app.html#a7e9c771f8ccf0f08b39fe74c8023f7b4" title="pygl::app::run" alt="" coords="153,5,255,31"/>
+<area shape="rect" id="node2" href="$df/d4c/classpygl_1_1_four_mesh_viewer.html#a91ddd4aa0d89569fe3f9beca5799d5c7" title="pygl::FourMeshViewer\l::init" alt="" coords="153,5,307,44"/>
+<area shape="rect" id="node3" href="$da/df6/classpygl_1_1_four_model.html#a7eea8569677f848c460a572ba6311d80" title="pygl::FourModel::init" alt="" coords="159,68,301,93"/>
+<area shape="rect" id="node4" href="$db/d24/classpygl_1_1_c_u_b_e.html#a799af43fa015490c831a80843a387527" title="pygl::CUBE::init" alt="" coords="173,117,287,143"/>
+<area shape="rect" id="node5" href="$d7/d6b/classpygl_1_1_demo___a.html#ad37513696197b16969b10db890a4ae5a" title="pygl::Demo_A::init" alt="" coords="165,167,295,192"/>
+<area shape="rect" id="node6" href="$d6/dc1/classpygl_1_1_four_viewer.html#aaef7f811081c92b8a8ea4c8594084294" title="pygl::FourViewer::init" alt="" coords="157,216,303,241"/>
+<area shape="rect" id="node7" href="$d2/da9/classpygl_1_1app.html#a7e9c771f8ccf0f08b39fe74c8023f7b4" title="pygl::app::run" alt="" coords="179,265,281,291"/>
+<area shape="rect" id="node9" href="$d5/d64/classpygl_1_1_b_m_e_s_h.html#a1c0d5a70c0b6299561fab426ba939090" title="pygl::BMESH::init" alt="" coords="168,315,293,340"/>
+<area shape="rect" id="node10" href="$dc/d34/classpygl_1_1_ortho_elements.html#a1aeb6f4eedb5b1ca5e72bb0a9b9d34a1" title="pygl::OrthoElements\l::init" alt="" coords="159,364,301,403"/>
+<area shape="rect" id="node11" href="$d0/dfa/classpygl_1_1load_model.html#aac14eb17576b36767082064aec1e5543" title="pygl::loadModel::init" alt="" coords="161,427,300,452"/>
+<area shape="rect" id="node8" href="$d5/d2b/4_mesh_viewer_8cpp.html#ac0f2228420376f4db7e1274f2b41667c" title="main" alt="" coords="355,265,405,291"/>
 </map>

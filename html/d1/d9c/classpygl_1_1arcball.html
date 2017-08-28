@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.12"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>FourD: pygl::arcball Class Reference</title>
+<title>Four Dimensional Visualiser: pygl::arcball Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -27,7 +27,7 @@
  <tbody>
  <tr style="height: 56px;">
   <td id="projectalign" style="padding-left: 0.5em;">
-   <div id="projectname">FourD
+   <div id="projectname">Four Dimensional Visualiser
    </div>
   </td>
  </tr>
@@ -203,8 +203,8 @@ Private Attributes</h2></td></tr>
 <p>mouse position </p>
 <dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
-    <tr><td class="paramname">x,screen</td><td>mouse X </td></tr>
-    <tr><td class="paramname">y,screen</td><td>mouse Y </td></tr>
+    <tr><td class="paramname">x</td><td>screen mouse X </td></tr>
+    <tr><td class="paramname">y</td><td>screen mouse Y </td></tr>
   </table>
   </dd>
 </dl>
@@ -280,6 +280,17 @@ Here is the call graph for this function:</div>
 <dl class="section return"><dt>Returns</dt><dd>Z on unit sphere</dd></dl>
 <p>Mouse (X,Y) is used to choose a point in three space on the unit sphere. If the point is outside of the circle, the point is projected to the circumfrence, in the view plane.<br />
 If the point is within the circle, use Pythagorean to project point on unit sphere. </p>
+<div class="dynheader">
+Here is the caller graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="../../d1/d9c/classpygl_1_1arcball_a2f5ead040a654172dfaca69f85390fb9_icgraph.png" border="0" usemap="#d1/d9c/classpygl_1_1arcball_a2f5ead040a654172dfaca69f85390fb9_icgraph" alt=""/></div>
+<map name="d1/d9c/classpygl_1_1arcball_a2f5ead040a654172dfaca69f85390fb9_icgraph" id="d1/d9c/classpygl_1_1arcball_a2f5ead040a654172dfaca69f85390fb9_icgraph">
+<area shape="rect" id="node2" href="../../da/df6/classpygl_1_1_four_model.html#a427a0714ae77363320a432fa9737542d" title="pygl::FourModel::onMouse\lMoveQuadView" alt="" coords="235,5,415,44"/>
+<area shape="rect" id="node4" href="../../d7/d6b/classpygl_1_1_demo___a.html#a6e8451a88ff79fdbe6996a374b1f8018" title="pygl::Demo_A::onMouseMove\lQuadView" alt="" coords="225,68,425,107"/>
+<area shape="rect" id="node3" href="../../da/df6/classpygl_1_1_four_model.html#ad78afd191307ce9b3978ae444fefc29a" title="pygl::FourModel::onMouseMove" alt="" coords="473,12,685,37"/>
+<area shape="rect" id="node5" href="../../d7/d6b/classpygl_1_1_demo___a.html#aa97811c1b2244e4eb860e1e3a66d9a79" title="pygl::Demo_A::onMouseMove" alt="" coords="479,75,679,100"/>
+</map>
+</div>
 
 </div>
 </div>
@@ -332,8 +343,8 @@ If the point is within the circle, use Pythagorean to project point on unit sphe
 <p>quaternion from two vectors </p>
 <dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
-    <tr><td class="paramname">start,vector</td><td>from last mouse X,Y </td></tr>
-    <tr><td class="paramname">dest,vector</td><td>from current mouse X,Y </td></tr>
+    <tr><td class="paramname">start</td><td>vector from last mouse X,Y </td></tr>
+    <tr><td class="paramname">dest</td><td>vector from current mouse X,Y </td></tr>
   </table>
   </dd>
 </dl>
@@ -352,7 +363,14 @@ Here is the caller graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="../../d1/d9c/classpygl_1_1arcball_a37461f74af0abfa1f81658e8270c77da_icgraph.png" border="0" usemap="#d1/d9c/classpygl_1_1arcball_a37461f74af0abfa1f81658e8270c77da_icgraph" alt=""/></div>
 <map name="d1/d9c/classpygl_1_1arcball_a37461f74af0abfa1f81658e8270c77da_icgraph" id="d1/d9c/classpygl_1_1arcball_a37461f74af0abfa1f81658e8270c77da_icgraph">
-<area shape="rect" id="node2" href="../../d1/d9c/classpygl_1_1arcball.html#a4d39f3f99744038e6a47516d02ad69fb" title="Rotation Matrix. " alt="" coords="255,12,426,37"/>
+<area shape="rect" id="node2" href="../../df/d4c/classpygl_1_1_four_mesh_viewer.html#a4928aaf93b5a283bc44d080394f6c749" title="pygl::FourMeshViewer\l::onMouseMove" alt="" coords="278,5,432,44"/>
+<area shape="rect" id="node3" href="../../da/df6/classpygl_1_1_four_model.html#a8548c2a951b80d6770191ce1a2a55b59" title="pygl::FourModel::onMouse\lMoveOneView" alt="" coords="265,68,444,107"/>
+<area shape="rect" id="node4" href="../../da/df6/classpygl_1_1_four_model.html#ad78afd191307ce9b3978ae444fefc29a" title="pygl::FourModel::onMouseMove" alt="" coords="503,132,715,157"/>
+<area shape="rect" id="node5" href="../../da/df6/classpygl_1_1_four_model.html#a427a0714ae77363320a432fa9737542d" title="pygl::FourModel::onMouse\lMoveQuadView" alt="" coords="265,183,444,221"/>
+<area shape="rect" id="node6" href="../../d7/d6b/classpygl_1_1_demo___a.html#a13c2b54fa689f3d9507f1262fbfe73a0" title="pygl::Demo_A::onMouseMove\lOneView" alt="" coords="255,245,455,284"/>
+<area shape="rect" id="node8" href="../../d7/d6b/classpygl_1_1_demo___a.html#a6e8451a88ff79fdbe6996a374b1f8018" title="pygl::Demo_A::onMouseMove\lQuadView" alt="" coords="255,308,455,347"/>
+<area shape="rect" id="node9" href="../../d1/d9c/classpygl_1_1arcball.html#a4d39f3f99744038e6a47516d02ad69fb" title="Rotation Matrix. " alt="" coords="269,371,440,396"/>
+<area shape="rect" id="node7" href="../../d7/d6b/classpygl_1_1_demo___a.html#aa97811c1b2244e4eb860e1e3a66d9a79" title="pygl::Demo_A::onMouseMove" alt="" coords="509,283,709,308"/>
 </map>
 </div>
 
@@ -432,12 +450,26 @@ Here is the caller graph for this function:</div>
 <p>Store Window size. </p>
 <dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
-    <tr><td class="paramname">window</td><td>width </td></tr>
-    <tr><td class="paramname">window</td><td>height </td></tr>
+    <tr><td class="paramname">width</td><td>window width </td></tr>
+    <tr><td class="paramname">height</td><td>window height </td></tr>
   </table>
   </dd>
 </dl>
 <dl class="section return"><dt>Returns</dt><dd>void Set the height and width of the window, used to determine location of click, point P </dd></dl>
+<div class="dynheader">
+Here is the caller graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="../../d1/d9c/classpygl_1_1arcball_aa74ec4d442da7402140152ee09afdff6_icgraph.png" border="0" usemap="#d1/d9c/classpygl_1_1arcball_aa74ec4d442da7402140152ee09afdff6_icgraph" alt=""/></div>
+<map name="d1/d9c/classpygl_1_1arcball_aa74ec4d442da7402140152ee09afdff6_icgraph" id="d1/d9c/classpygl_1_1arcball_aa74ec4d442da7402140152ee09afdff6_icgraph">
+<area shape="rect" id="node2" href="../../df/d4c/classpygl_1_1_four_mesh_viewer.html#a6453639dcb3d8417e1171e40823a26ff" title="pygl::FourMeshViewer\l::startup" alt="" coords="244,5,397,44"/>
+<area shape="rect" id="node3" href="../../da/df6/classpygl_1_1_four_model.html#a09cd2da61ef746a21fb003e8d2fbbfd3" title="pygl::FourModel::startup" alt="" coords="238,68,403,93"/>
+<area shape="rect" id="node4" href="../../da/df6/classpygl_1_1_four_model.html#a427a0714ae77363320a432fa9737542d" title="pygl::FourModel::onMouse\lMoveQuadView" alt="" coords="231,117,410,156"/>
+<area shape="rect" id="node6" href="../../d7/d6b/classpygl_1_1_demo___a.html#a37add697efa9008047b481844d8f589e" title="pygl::Demo_A::startup" alt="" coords="244,180,397,205"/>
+<area shape="rect" id="node7" href="../../d7/d6b/classpygl_1_1_demo___a.html#a6e8451a88ff79fdbe6996a374b1f8018" title="pygl::Demo_A::onMouseMove\lQuadView" alt="" coords="221,229,421,268"/>
+<area shape="rect" id="node5" href="../../da/df6/classpygl_1_1_four_model.html#ad78afd191307ce9b3978ae444fefc29a" title="pygl::FourModel::onMouseMove" alt="" coords="469,124,680,149"/>
+<area shape="rect" id="node8" href="../../d7/d6b/classpygl_1_1_demo___a.html#aa97811c1b2244e4eb860e1e3a66d9a79" title="pygl::Demo_A::onMouseMove" alt="" coords="475,236,674,261"/>
+</map>
+</div>
 
 </div>
 </div>
@@ -513,7 +545,14 @@ Here is the caller graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="../../d1/d9c/classpygl_1_1arcball_a35468ca19df6b423bd6297abbf04cc00_icgraph.png" border="0" usemap="#d1/d9c/classpygl_1_1arcball_a35468ca19df6b423bd6297abbf04cc00_icgraph" alt=""/></div>
 <map name="d1/d9c/classpygl_1_1arcball_a35468ca19df6b423bd6297abbf04cc00_icgraph" id="d1/d9c/classpygl_1_1arcball_a35468ca19df6b423bd6297abbf04cc00_icgraph">
-<area shape="rect" id="node2" href="../../d1/d9c/classpygl_1_1arcball.html#a4d39f3f99744038e6a47516d02ad69fb" title="Rotation Matrix. " alt="" coords="222,12,393,37"/>
+<area shape="rect" id="node2" href="../../df/d4c/classpygl_1_1_four_mesh_viewer.html#a4928aaf93b5a283bc44d080394f6c749" title="pygl::FourMeshViewer\l::onMouseMove" alt="" coords="245,5,399,44"/>
+<area shape="rect" id="node3" href="../../da/df6/classpygl_1_1_four_model.html#a8548c2a951b80d6770191ce1a2a55b59" title="pygl::FourModel::onMouse\lMoveOneView" alt="" coords="233,68,412,107"/>
+<area shape="rect" id="node4" href="../../da/df6/classpygl_1_1_four_model.html#ad78afd191307ce9b3978ae444fefc29a" title="pygl::FourModel::onMouseMove" alt="" coords="470,132,682,157"/>
+<area shape="rect" id="node5" href="../../da/df6/classpygl_1_1_four_model.html#a427a0714ae77363320a432fa9737542d" title="pygl::FourModel::onMouse\lMoveQuadView" alt="" coords="233,183,412,221"/>
+<area shape="rect" id="node6" href="../../d7/d6b/classpygl_1_1_demo___a.html#a13c2b54fa689f3d9507f1262fbfe73a0" title="pygl::Demo_A::onMouseMove\lOneView" alt="" coords="222,245,422,284"/>
+<area shape="rect" id="node8" href="../../d7/d6b/classpygl_1_1_demo___a.html#a6e8451a88ff79fdbe6996a374b1f8018" title="pygl::Demo_A::onMouseMove\lQuadView" alt="" coords="222,308,422,347"/>
+<area shape="rect" id="node9" href="../../d1/d9c/classpygl_1_1arcball.html#a4d39f3f99744038e6a47516d02ad69fb" title="Rotation Matrix. " alt="" coords="237,371,408,396"/>
+<area shape="rect" id="node7" href="../../d7/d6b/classpygl_1_1_demo___a.html#aa97811c1b2244e4eb860e1e3a66d9a79" title="pygl::Demo_A::onMouseMove" alt="" coords="476,283,676,308"/>
 </map>
 </div>
 
@@ -747,7 +786,7 @@ Here is the caller graph for this function:</div>
 </div><!-- contents -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>
-Generated on Mon Aug 21 2017 20:30:53 for FourD by &#160;<a href="http://www.doxygen.org/index.html">
+Generated on Sun Aug 27 2017 21:07:59 for Four Dimensional Visualiser by &#160;<a href="http://www.doxygen.org/index.html">
 <img class="footer" src="../../doxygen.png" alt="doxygen"/>
 </a> 1.8.12
 </small></address>

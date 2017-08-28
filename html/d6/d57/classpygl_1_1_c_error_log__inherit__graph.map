@@ -1,3 +1,5 @@
 <map id="pygl::CErrorLog" name="pygl::CErrorLog">
-<area shape="rect" id="node2" href="$db/d83/classpygl_1_1model.html" title="pygl::model" alt="" coords="18,79,107,104"/>
+<area shape="rect" id="node2" href="$d8/d08/classpygl_1_1_basic_ortho.html" title="pygl::BasicOrtho" alt="" coords="5,79,124,104"/>
+<area shape="rect" id="node3" href="$db/d83/classpygl_1_1model.html" title="pygl::model" alt="" coords="148,79,238,104"/>
+<area shape="rect" id="node4" href="$d6/d07/classpygl_1_1indexed_model.html" title="pygl::indexedModel" alt="" coords="125,152,261,177"/>
 </map>

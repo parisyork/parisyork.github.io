@@ -1,10 +1,13 @@
 var searchData=
 [
-  ['ymax',['yMax',['../df/d0a/structpygl_1_1_glyph_properties.html#ac5d962626b6f40ec38d5ae650e0cb5c3',1,'pygl::GlyphProperties']]],
-  ['ymin',['yMin',['../df/d0a/structpygl_1_1_glyph_properties.html#adb7ab16c7c3e5030d96b82c3826af838',1,'pygl::GlyphProperties']]],
-  ['ypos',['yPos',['../d0/dcd/structpygl_1_1_text_manager_1_1_text_parameters.html#a17b4e029203051903bae5a65c924e259',1,'pygl::TextManager::TextParameters']]],
-  ['yscale',['yScale',['../d0/dcd/structpygl_1_1_text_manager_1_1_text_parameters.html#a622783c4c5951281860db8b5f3fb9702',1,'pygl::TextManager::TextParameters']]],
-  ['yw',['YW',['../d2/d2f/namespacepygl.html#aa10bbb6ce23b059059ed4c25e2311bfaab83030f38883e26b9ef52938c69cf6ce',1,'pygl']]],
-  ['yz',['YZ',['../d2/d2f/namespacepygl.html#aa10bbb6ce23b059059ed4c25e2311bfaaffa4ba973372c3650fd0881abeca6512',1,'pygl']]],
-  ['yzw',['YZW',['../d2/d2f/namespacepygl.html#a3bc85807e79482783809e32b4618501fa69106f35ce6d8508f7e8906a34737e73',1,'pygl']]]
+  ['xmax',['xMax',['../df/d0a/structpygl_1_1_glyph_properties.html#a9ba5fe93c747618e8ecd5808540f9586',1,'pygl::GlyphProperties']]],
+  ['xmin',['xMin',['../df/d0a/structpygl_1_1_glyph_properties.html#a2a75b28ba66002d9dc97f1e48c644f5f',1,'pygl::GlyphProperties']]],
+  ['xpos',['xPos',['../d0/dcd/structpygl_1_1_text_manager_1_1_text_parameters.html#a7bc54cc871b7a7f03b0f468e66e5137b',1,'pygl::TextManager::TextParameters']]],
+  ['xscale',['xScale',['../d0/dcd/structpygl_1_1_text_manager_1_1_text_parameters.html#a2962e25b1944ed9bb6da991fb16c162f',1,'pygl::TextManager::TextParameters']]],
+  ['xw',['XW',['../db/d5d/structpygl_1_1_rotation_state.html#a8801fef3450aa8eab26faab3b454a887',1,'pygl::RotationState::XW()'],['../d2/d2f/namespacepygl.html#aa10bbb6ce23b059059ed4c25e2311bfaac98a92895c977b6ca392a0ce07664f0d',1,'pygl::XW()']]],
+  ['xy',['XY',['../db/d5d/structpygl_1_1_rotation_state.html#aa6681ee7ae5dddb8f362c234992d0bb7',1,'pygl::RotationState::XY()'],['../d2/d2f/namespacepygl.html#aa10bbb6ce23b059059ed4c25e2311bfaa74c53bcd3dcb2bb79993b2fec37d362a',1,'pygl::XY()']]],
+  ['xyw',['XYW',['../d2/d2f/namespacepygl.html#a3bc85807e79482783809e32b4618501fabbb6807147a7a7a7c810f6453f2b0731',1,'pygl']]],
+  ['xyz',['XYZ',['../d2/d2f/namespacepygl.html#a3bc85807e79482783809e32b4618501fae65075d550f9b5bf9992fa1d71a131be',1,'pygl']]],
+  ['xz',['XZ',['../db/d5d/structpygl_1_1_rotation_state.html#a1a94cd84d8d6a9142a89c6f14e36b382',1,'pygl::RotationState::XZ()'],['../d2/d2f/namespacepygl.html#aa10bbb6ce23b059059ed4c25e2311bfaa27db3b98d01e664c17a6620b222c6469',1,'pygl::XZ()']]],
+  ['xzw',['XZW',['../d2/d2f/namespacepygl.html#a3bc85807e79482783809e32b4618501fab45f8dbe51f41c27fdb76a15678ce81b',1,'pygl']]]
 ];

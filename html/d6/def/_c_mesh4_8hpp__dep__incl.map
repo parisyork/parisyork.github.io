@@ -1,4 +1,11 @@
 <map id="include/CMesh4.hpp" name="include/CMesh4.hpp">
-<area shape="rect" id="node2" href="$d9/dbd/_c_mesh4_8cpp.html" title="Four Dimensional Model Object. " alt="" coords="5,79,147,104"/>
-<area shape="rect" id="node3" href="$d6/d41/_c_model4_8cpp.html" title="Four Dimensional Model Object. " alt="" coords="171,79,317,104"/>
+<area shape="rect" id="node2" href="$d5/d2b/4_mesh_viewer_8cpp.html" title="first attempt at building a 4Mesh object " alt="" coords="5,79,216,104"/>
+<area shape="rect" id="node3" href="$d9/dbd/_c_mesh4_8cpp.html" title="Four Dimensional Model Object. " alt="" coords="240,79,382,104"/>
+<area shape="rect" id="node4" href="$d2/d5c/_c_model4_8hpp.html" title="Four Dimensional Model Object. " alt="" coords="405,79,552,104"/>
+<area shape="rect" id="node6" href="$d6/d41/_c_model4_8cpp.html" title="Four Dimensional Model Object. " alt="" coords="559,152,705,177"/>
+<area shape="rect" id="node10" href="$d6/d11/_c_mesh4_test_8cpp.html" title="Four Mesh. " alt="" coords="626,79,808,104"/>
+<area shape="rect" id="node5" href="$dc/d65/_c_model4_test_8cpp.html" title="Four Mesh. " alt="" coords="146,225,352,251"/>
+<area shape="rect" id="node7" href="$dd/df1/_reference4_d_geo_8hpp.html" title="include/Reference4DGeo.hpp" alt="" coords="337,152,534,177"/>
+<area shape="rect" id="node8" href="$df/d86/_demo___a_8cpp.html" title="Demo_A/Demo_A.cpp" alt="" coords="376,225,530,251"/>
+<area shape="rect" id="node9" href="$d1/d6e/_reference4_d_geo_8cpp.html" title="include/Reference4DGeo.cpp" alt="" coords="554,225,750,251"/>
 </map>

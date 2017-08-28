@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.12"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>FourD: include/ParametricSurface.hpp File Reference</title>
+<title>Four Dimensional Visualiser: include/ParametricSurface.hpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -27,7 +27,7 @@
  <tbody>
  <tr style="height: 56px;">
   <td id="projectalign" style="padding-left: 0.5em;">
-   <div id="projectname">FourD
+   <div id="projectname">Four Dimensional Visualiser
    </div>
   </td>
  </tr>
@@ -98,7 +98,11 @@ This graph shows which files directly or indirectly include this file:</div>
 <div class="dyncontent">
 <div class="center"><img src="../../d5/df4/_parametric_surface_8hpp__dep__incl.png" border="0" usemap="#include_2_parametric_surface_8hppdep" alt=""/></div>
 <map name="include_2_parametric_surface_8hppdep" id="include_2_parametric_surface_8hppdep">
-<area shape="rect" id="node2" href="../../d7/d6c/_parametric_surface_8cpp.html" title="functions to create point sets " alt="" coords="6,79,209,104"/>
+<area shape="rect" id="node2" href="../../d7/d6c/_parametric_surface_8cpp.html" title="functions to create point sets " alt="" coords="5,79,208,104"/>
+<area shape="rect" id="node3" href="../../dd/df1/_reference4_d_geo_8hpp.html" title="include/Reference4DGeo.hpp" alt="" coords="232,79,429,104"/>
+<area shape="rect" id="node4" href="../../dc/d65/_c_model4_test_8cpp.html" title="Four Mesh. " alt="" coords="24,152,230,177"/>
+<area shape="rect" id="node5" href="../../df/d86/_demo___a_8cpp.html" title="Demo_A/Demo_A.cpp" alt="" coords="254,152,408,177"/>
+<area shape="rect" id="node6" href="../../d1/d6e/_reference4_d_geo_8cpp.html" title="include/Reference4DGeo.cpp" alt="" coords="431,152,628,177"/>
 </map>
 </div>
 </div>
@@ -106,7 +110,7 @@ This graph shows which files directly or indirectly include this file:</div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d07/structpygl_1_1s_vertex4.html">pygl::sVertex4</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d07/structpygl_1_1s_vertex4.html">pygl::sVertex4&lt; T &gt;</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d02/classpygl_1_1_parametric_surface.html">pygl::ParametricSurface</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Parametric surface generator.  <a href="../../df/d02/classpygl_1_1_parametric_surface.html#details">More...</a><br /></td></tr>
@@ -119,10 +123,10 @@ Namespaces</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="typedef-members"></a>
 Typedefs</h2></td></tr>
-<tr class="memitem:ac049a8cae84e7426a5a65d6a8b4cad99"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d2f/namespacepygl.html#ac049a8cae84e7426a5a65d6a8b4cad99">pygl::POINTS4</a> = std::vector&lt; sVertex4 &gt;</td></tr>
-<tr class="separator:ac049a8cae84e7426a5a65d6a8b4cad99"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5cf0065adff0bf15aed9e3799c81e380"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d2f/namespacepygl.html#a5cf0065adff0bf15aed9e3799c81e380">pygl::Point4</a> = glm::vec4</td></tr>
-<tr class="separator:a5cf0065adff0bf15aed9e3799c81e380"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a632f61e8e560a9532c004ec24887418f"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d2f/namespacepygl.html#a632f61e8e560a9532c004ec24887418f">pygl::POINTS4</a> = std::vector&lt; sVertex4&lt; double &gt; &gt;</td></tr>
+<tr class="separator:a632f61e8e560a9532c004ec24887418f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8a3fef545cfc4dfc39e4b3b9a5307baf"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d2f/namespacepygl.html#a8a3fef545cfc4dfc39e4b3b9a5307baf">pygl::Point4</a> = std::array&lt; double, 4 &gt;</td></tr>
+<tr class="separator:a8a3fef545cfc4dfc39e4b3b9a5307baf"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ab1bbf042a6903d027cadce0b6481a00c"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d2f/namespacepygl.html#ab1bbf042a6903d027cadce0b6481a00c">pygl::POINTS</a> = std::vector&lt; sVertex &gt;</td></tr>
 <tr class="separator:ab1bbf042a6903d027cadce0b6481a00c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ace170bf9e3d201ea5a2dde2a38aa09c1"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d2f/namespacepygl.html#ace170bf9e3d201ea5a2dde2a38aa09c1">pygl::Point</a> = glm::vec3</td></tr>
@@ -133,35 +137,38 @@ Functions</h2></td></tr>
 <tr class="memitem:aed578a2ed01705f29f94de2e1319d2f1"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
 <tr class="memitem:aed578a2ed01705f29f94de2e1319d2f1"><td class="memTemplItemLeft" align="right" valign="top">POINTS4&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d2/d2f/namespacepygl.html#aed578a2ed01705f29f94de2e1319d2f1">pygl::parametricGenerator</a> (T &amp;&amp;yFunc)</td></tr>
 <tr class="separator:aed578a2ed01705f29f94de2e1319d2f1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a946c0a136c2664019fcce1a39e460880"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
-<tr class="memitem:a946c0a136c2664019fcce1a39e460880"><td class="memTemplItemLeft" align="right" valign="top">POINTS4&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d2/d2f/namespacepygl.html#a946c0a136c2664019fcce1a39e460880">pygl::parametricGenerator</a> (std::function&lt; T(T, T)&gt; xFunction, std::function&lt; T(T, T)&gt; yFunction, std::function&lt; T(T, T)&gt; zFunction, std::function&lt; T(T, T)&gt; wFunction, T stepU, T lowerboundU, T upperboundU, T stepV, T lowerboundV, T upperboundV)</td></tr>
-<tr class="separator:a946c0a136c2664019fcce1a39e460880"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9b2a67807d91099bd12130351aa9aaa9"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
-<tr class="memitem:a9b2a67807d91099bd12130351aa9aaa9"><td class="memTemplItemLeft" align="right" valign="top">POINTS&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d2/d2f/namespacepygl.html#a9b2a67807d91099bd12130351aa9aaa9">pygl::parametricGenerator</a> (std::function&lt; T(T, T)&gt; xFunction, std::function&lt; T(T, T)&gt; yFunction, std::function&lt; T(T, T)&gt; zFunction, T stepU, T lowerboundU, T upperboundU, T stepV, T lowerboundV, T upperboundV)</td></tr>
-<tr class="separator:a9b2a67807d91099bd12130351aa9aaa9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a88b977a0a6d98ba6ad5c19440ba33ffe"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
-<tr class="memitem:a88b977a0a6d98ba6ad5c19440ba33ffe"><td class="memTemplItemLeft" align="right" valign="top">POINTS&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d2/d2f/namespacepygl.html#a88b977a0a6d98ba6ad5c19440ba33ffe">pygl::parametricGenerator</a> (std::function&lt; T(T, T)&gt; xFunction, std::function&lt; T(T, T)&gt; yFunction, T stepU, T lowerboundU, T upperboundU, T stepV, T lowerboundV, T upperboundV)</td></tr>
-<tr class="separator:a88b977a0a6d98ba6ad5c19440ba33ffe"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a005cd01613d975cd74c8b63c2bd54b02"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
+<tr class="memitem:a005cd01613d975cd74c8b63c2bd54b02"><td class="memTemplItemLeft" align="right" valign="top">POINTS4&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d2/d2f/namespacepygl.html#a005cd01613d975cd74c8b63c2bd54b02">pygl::parametricGenerator</a> (std::function&lt; T(T, T)&gt; xFunction, std::function&lt; T(T, T)&gt; yFunction, std::function&lt; T(T, T)&gt; zFunction, std::function&lt; T(T, T)&gt; wFunction, T stepR, T lowerboundR, T upperboundR, T stepS, T lowerboundS, T upperboundS)</td></tr>
+<tr class="separator:a005cd01613d975cd74c8b63c2bd54b02"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8d9001b59118e02422829da70758650f"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
+<tr class="memitem:a8d9001b59118e02422829da70758650f"><td class="memTemplItemLeft" align="right" valign="top">POINTS4&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d2/d2f/namespacepygl.html#a8d9001b59118e02422829da70758650f">pygl::parametricGenerator</a> (std::function&lt; T(T, T)&gt; xFunction, std::function&lt; T(T, T)&gt; yFunction, std::function&lt; T(T, T)&gt; zFunction, T stepR, T lowerboundR, T upperboundR, T stepS, T lowerboundS, T upperboundS)</td></tr>
+<tr class="separator:a8d9001b59118e02422829da70758650f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5b55e5f144db4f6eec92e77a16128be2"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
+<tr class="memitem:a5b55e5f144db4f6eec92e77a16128be2"><td class="memTemplItemLeft" align="right" valign="top">POINTS4&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d2/d2f/namespacepygl.html#a5b55e5f144db4f6eec92e77a16128be2">pygl::parametricGenerator</a> (std::function&lt; T(T, T)&gt; xFunction, std::function&lt; T(T, T)&gt; yFunction, T stepR, T lowerboundR, T upperboundR, T stepS, T lowerboundS, T upperboundS)</td></tr>
+<tr class="separator:a5b55e5f144db4f6eec92e77a16128be2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a35500b2a1fb00e5acf17afbdcb22d1bf"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
+<tr class="memitem:a35500b2a1fb00e5acf17afbdcb22d1bf"><td class="memTemplItemLeft" align="right" valign="top">POINTS4&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d2/d2f/namespacepygl.html#a35500b2a1fb00e5acf17afbdcb22d1bf">pygl::parametricGenerator</a> (std::function&lt; T(T, T, T)&gt; wFunction, T stepS, T lowerboundS, T upperboundS, T stepT, T lowerboundT, T upperboundT, T stepR, T lowerboundR, T upperboundR)</td></tr>
+<tr class="separator:a35500b2a1fb00e5acf17afbdcb22d1bf"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a685058e695a4cb32429349967ecb41de"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
 <tr class="memitem:a685058e695a4cb32429349967ecb41de"><td class="memTemplItemLeft" align="right" valign="top">POINTS4&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d2/d2f/namespacepygl.html#a685058e695a4cb32429349967ecb41de">pygl::parametricGenerator</a> (std::function&lt; T(T)&gt; xFunction, std::function&lt; T(T)&gt; yFunction, std::function&lt; T(T)&gt; zFunction, std::function&lt; T(T)&gt; wFunction, T step, T lowerbound, T upperbound)</td></tr>
 <tr class="separator:a685058e695a4cb32429349967ecb41de"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:abb632476664d2f3d05a450e9a4a81e64"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
-<tr class="memitem:abb632476664d2f3d05a450e9a4a81e64"><td class="memTemplItemLeft" align="right" valign="top">POINTS&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d2/d2f/namespacepygl.html#abb632476664d2f3d05a450e9a4a81e64">pygl::parametricGenerator</a> (std::function&lt; T(T)&gt; xFunction, std::function&lt; T(T)&gt; yFunction, std::function&lt; T(T)&gt; zFunction, T step, T lowerbound, T upperbound)</td></tr>
-<tr class="separator:abb632476664d2f3d05a450e9a4a81e64"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a73d9f6be4cfee860fe5a4041f8c46c44"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
-<tr class="memitem:a73d9f6be4cfee860fe5a4041f8c46c44"><td class="memTemplItemLeft" align="right" valign="top">POINTS&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d2/d2f/namespacepygl.html#a73d9f6be4cfee860fe5a4041f8c46c44">pygl::parametricGenerator</a> (std::function&lt; T(T)&gt; xFunction, std::function&lt; T(T)&gt; yFunction, T step, T lowerbound, T upperbound)</td></tr>
-<tr class="separator:a73d9f6be4cfee860fe5a4041f8c46c44"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a408453979586501eddf43f296653eb52"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
+<tr class="memitem:a408453979586501eddf43f296653eb52"><td class="memTemplItemLeft" align="right" valign="top">POINTS4&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d2/d2f/namespacepygl.html#a408453979586501eddf43f296653eb52">pygl::parametricGenerator</a> (std::function&lt; T(T)&gt; xFunction, std::function&lt; T(T)&gt; yFunction, std::function&lt; T(T)&gt; zFunction, T step, T lowerbound, T upperbound)</td></tr>
+<tr class="separator:a408453979586501eddf43f296653eb52"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2e59b70ae1731ce33e590e04e66618e4"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
+<tr class="memitem:a2e59b70ae1731ce33e590e04e66618e4"><td class="memTemplItemLeft" align="right" valign="top">POINTS4&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d2/d2f/namespacepygl.html#a2e59b70ae1731ce33e590e04e66618e4">pygl::parametricGenerator</a> (std::function&lt; T(T)&gt; xFunction, std::function&lt; T(T)&gt; yFunction, T step, T lowerbound, T upperbound)</td></tr>
+<tr class="separator:a2e59b70ae1731ce33e590e04e66618e4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p>functions to create point sets </p>
 <p>purpose: take parametric equations and evaluate them over the specified range generate Vertices ready to be pushed to OpenGL / stored in a Mesh object</p>
 <dl class="section author"><dt>Author</dt><dd>Paris York </dd></dl>
 <dl class="section date"><dt>Date</dt><dd>1/26/17 </dd></dl>
-<dl class="bug"><dt><b><a class="el" href="../../de/da5/bug.html#_bug000029">Bug:</a></b></dt><dd>No known bugs. </dd></dl>
+<dl class="bug"><dt><b><a class="el" href="../../de/da5/bug.html#_bug000033">Bug:</a></b></dt><dd>No known bugs. </dd></dl>
 </div></div><!-- contents -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>
-Generated on Mon Aug 21 2017 20:30:53 for FourD by &#160;<a href="http://www.doxygen.org/index.html">
+Generated on Sun Aug 27 2017 21:07:58 for Four Dimensional Visualiser by &#160;<a href="http://www.doxygen.org/index.html">
 <img class="footer" src="../../doxygen.png" alt="doxygen"/>
 </a> 1.8.12
 </small></address>

@@ -1,21 +1,12 @@
 var searchData=
 [
-  ['saneposition',['sanePosition',['../de/d0a/classpygl_1_1camera.html#a1d218a1aab5642977dc71e556c722081',1,'pygl::camera']]],
-  ['saneright',['saneRight',['../de/d0a/classpygl_1_1camera.html#afc2018ac181192ec9d958d323f809722',1,'pygl::camera']]],
-  ['sanetarget',['saneTarget',['../de/d0a/classpygl_1_1camera.html#a9a4d8221707a34bba51c6c5f09d06c3e',1,'pygl::camera']]],
-  ['saneup',['saneUp',['../de/d0a/classpygl_1_1camera.html#a1dda73128d3ebb500c46d2878bbf5827',1,'pygl::camera']]],
-  ['sdefaultlogfile',['sDefaultLogFile',['../d8/de3/classpygl_1_1msglog.html#a222bfc5076bdd8664c5f0bd1273bc870',1,'pygl::msglog']]],
-  ['sdescriptor',['sDescriptor',['../da/d02/classpygl_1_1_font_atlas.html#a3055b81c495afd80deb3e002c9b2276d',1,'pygl::FontAtlas']]],
-  ['selftexture',['selfTexture',['../da/d02/classpygl_1_1_font_atlas.html#a8736728be107ed7643b8aec37a01171b',1,'pygl::FontAtlas']]],
-  ['sfilepath',['sFilePath',['../d8/de3/classpygl_1_1msglog.html#ad07195db40bbbb4d473ca36ed98a0815',1,'pygl::msglog']]],
-  ['sfontfile',['sFontFile',['../da/d02/classpygl_1_1_font_atlas.html#a8a4a463064c57b0d5c8d5a2a1b6b51d9',1,'pygl::FontAtlas']]],
-  ['shader',['shader',['../dc/d40/classpygl_1_1ssmodel.html#ac441b41add5342c6174a57b5f73139f4',1,'pygl::ssmodel::shader()'],['../db/d83/classpygl_1_1model.html#a216beb73bf43f7ddc1fc8bb313c3f80b',1,'pygl::model::shader()']]],
-  ['shadername',['shaderName',['../d0/dcd/structpygl_1_1_text_manager_1_1_text_parameters.html#a29c9a0ecbc17a8a80572c7440745c6f9',1,'pygl::TextManager::TextParameters']]],
-  ['shaderservice',['shaderService',['../d3/d4d/classpygl_1_1_text_manager.html#aa83b7b17651660aabc5a08a28b8f8a52',1,'pygl::TextManager']]],
-  ['shininess',['Shininess',['../dc/da7/structpygl_1_1s_material.html#a9905baf2f0ef253c1e896d35316f8819',1,'pygl::sMaterial']]],
-  ['spath',['sPath',['../db/d83/classpygl_1_1model.html#afd5f84f712450cead9e72c20b6cb3a83',1,'pygl::model']]],
-  ['specular',['Specular',['../dc/da7/structpygl_1_1s_material.html#a806295ff3c04d81bd42470d622ae4a62',1,'pygl::sMaterial']]],
-  ['sphereradius',['sphereRadius',['../d1/d9c/classpygl_1_1arcball.html#a4e25cdcb3eb1e7a53760c85666a7031f',1,'pygl::arcball']]],
-  ['staticdisplaytext',['StaticDisplayText',['../d3/d4d/classpygl_1_1_text_manager.html#a0873e4a2f4fe3744987177c8bcfabf30',1,'pygl::TextManager']]],
-  ['stime',['sTime',['../de/d2f/classpygl_1_1program_time.html#a50e55d4a873c0d63f3ee3373c3c2f759',1,'pygl::programTime']]]
+  ['rdod_5fn',['rdod_n',['../d4/d67/geometry_8h.html#a6880261f72e628fa879d1ee3014881f6',1,'geometry.h']]],
+  ['rdod_5fr',['rdod_r',['../d4/d67/geometry_8h.html#ab7cc5ae8f7766a52b96187e3b5bb3350',1,'geometry.h']]],
+  ['rdod_5fv',['rdod_v',['../d4/d67/geometry_8h.html#a9c3168bbe2214bc7be8b794acfb8b0b6',1,'geometry.h']]],
+  ['right',['right',['../de/d0a/classpygl_1_1camera.html#a6c64d9b5805768ab5c8669449d6a8817',1,'pygl::camera']]],
+  ['rotationaxis',['rotationAxis',['../df/d4c/classpygl_1_1_four_mesh_viewer.html#ada1c774f683d2e3112f332703a344d4c',1,'pygl::FourMeshViewer::rotationAxis()'],['../da/df6/classpygl_1_1_four_model.html#a7f51e4f8199bc63b17fe5e7873aafe82',1,'pygl::FourModel::rotationAxis()'],['../db/d24/classpygl_1_1_c_u_b_e.html#a7a623415ec7d12acaf1f12fe0861c692',1,'pygl::CUBE::rotationAxis()'],['../d7/d6b/classpygl_1_1_demo___a.html#abc80e9c85459fe99810295d5cfc85248',1,'pygl::Demo_A::rotationAxis()'],['../d5/d64/classpygl_1_1_b_m_e_s_h.html#af0c8a9e980522c86036776962dc8520e',1,'pygl::BMESH::rotationAxis()'],['../dc/d34/classpygl_1_1_ortho_elements.html#ac81c3ba0322fa087f5955b010eddac10',1,'pygl::OrthoElements::rotationAxis()'],['../d0/dfa/classpygl_1_1load_model.html#af5ce307e9cc96b9f94504285dec13907',1,'pygl::loadModel::rotationAxis()']]],
+  ['rotationrate',['rotationRate',['../df/d4c/classpygl_1_1_four_mesh_viewer.html#a46ab70f9be67a17d47b6bf98a5d7cc60',1,'pygl::FourMeshViewer::rotationRate()'],['../da/df6/classpygl_1_1_four_model.html#a6eb23618f9c872e902a1aac6616b6b32',1,'pygl::FourModel::rotationRate()'],['../db/d24/classpygl_1_1_c_u_b_e.html#a7964a270d461d13c3803d36691507c39',1,'pygl::CUBE::rotationRate()'],['../d7/d6b/classpygl_1_1_demo___a.html#a64fb2409b524d04a3adf5d5497a08c10',1,'pygl::Demo_A::rotationRate()'],['../d5/d64/classpygl_1_1_b_m_e_s_h.html#a83b768b0481b5da2a0d821749d91073c',1,'pygl::BMESH::rotationRate()'],['../dc/d34/classpygl_1_1_ortho_elements.html#ab16c2016b14848dc9c3088d459153ea8',1,'pygl::OrthoElements::rotationRate()'],['../d0/dfa/classpygl_1_1load_model.html#ac2dac1307556f7c3c5f85a82f4aac344',1,'pygl::loadModel::rotationRate()'],['../da/df6/classpygl_1_1_four_model.html#a7c5496492db718e81c2ae88744005f34',1,'pygl::FourModel::rotationRate()']]],
+  ['rotationx',['rotationX',['../dc/d34/classpygl_1_1_ortho_elements.html#af7a0be84f1ea39a7a6b202e86e09410d',1,'pygl::OrthoElements']]],
+  ['rotationy',['rotationY',['../dc/d34/classpygl_1_1_ortho_elements.html#a75e7ea4e4c1dad3f5d1f023b71b9b4d3',1,'pygl::OrthoElements']]],
+  ['rotationz',['rotationZ',['../dc/d34/classpygl_1_1_ortho_elements.html#aa472a6bd8d25590c35fa8bfafc424f00',1,'pygl::OrthoElements']]]
 ];

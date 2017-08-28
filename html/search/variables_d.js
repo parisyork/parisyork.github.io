@@ -1,14 +1,9 @@
 var searchData=
 [
-  ['pi_5ff',['PI_F',['../d2/d2f/namespacepygl.html#ad016bea789eb99b974b08c3eb6ae1e8a',1,'pygl']]],
-  ['pi_5fld',['PI_LD',['../d2/d2f/namespacepygl.html#ab4468afc9e08d3039aca78b6ea7af6a3',1,'pygl']]],
-  ['point',['point',['../da/d1f/structpygl_1_1s_vertex.html#accff1f6c891cb2e7e5f461502783e828',1,'pygl::sVertex::point()'],['../da/d07/structpygl_1_1s_vertex4.html#a92fe52172eac19b9858f582c779c42e6',1,'pygl::sVertex4::point()']]],
-  ['position',['position',['../de/d0a/classpygl_1_1camera.html#a419556da807708e0b69ccdd8c65441c1',1,'pygl::camera::position()'],['../d9/d34/structpygl_1_1_light_info.html#a973bbf5f9d3eb637ab4fb02f32e700a1',1,'pygl::LightInfo::Position()']]],
-  ['positionbufferobject',['positionBufferObject',['../d3/d77/structpygl_1_1basic_model_object.html#a851a6e2191f0412538c4385c9c839eec',1,'pygl::basicModelObject']]],
-  ['positionlocation',['positionLocation',['../d0/dd4/classpygl_1_1_c_model4.html#a4d09de77c3aad451bc07e71eea597adc',1,'pygl::CModel4']]],
-  ['prginfologs',['prgInfoLogs',['../de/d98/classpygl_1_1_g_l_s_l_program.html#aa8cebf19e9a833d930d5dfa40fbac097',1,'pygl::GLSLProgram']]],
-  ['programcamera',['programCamera',['../d7/d81/classpygl_1_1drawable.html#a6083d40cfc63ebd8ecea43f92ada50fe',1,'pygl::drawable']]],
-  ['programclocker',['programClocker',['../d2/da9/classpygl_1_1app.html#a7fc3a7111c3dca4d41998c2f7bfdc295',1,'pygl::app']]],
-  ['projection',['projection',['../de/d0a/classpygl_1_1camera.html#a3b5d5edb9603edacc084e8e302616be7',1,'pygl::camera']]],
-  ['pwhitetexture',['pWhiteTexture',['../db/d83/classpygl_1_1model.html#a81f3948f7472afb8d2ff2f84118ddbaa',1,'pygl::model']]]
+  ['orthomodel',['orthoModel',['../df/d4c/classpygl_1_1_four_mesh_viewer.html#a535835ee0c5229762888ca87d54d0fc9',1,'pygl::FourMeshViewer::orthoModel()'],['../da/df6/classpygl_1_1_four_model.html#a3a41cc5f9cef224d82a1127bfd2c6f6c',1,'pygl::FourModel::orthoModel()'],['../d7/d6b/classpygl_1_1_demo___a.html#ab9ec595ac8241a9728f16440ed8742d4',1,'pygl::Demo_A::orthoModel()'],['../dc/d34/classpygl_1_1_ortho_elements.html#abc34bdb8cff96a69d9e7df997404d0e3',1,'pygl::OrthoElements::orthoModel()'],['../da/df6/classpygl_1_1_four_model.html#ad11b8b15e30a63d3fc871b7694af8d09',1,'pygl::FourModel::orthoModel()']]],
+  ['orthoproj',['orthoProj',['../de/d0a/classpygl_1_1camera.html#ac188d0ff6cd00f5b834911d94f2db472',1,'pygl::camera']]],
+  ['orthoprojection',['orthoProjection',['../df/d4c/classpygl_1_1_four_mesh_viewer.html#a0c90224e780210d440df7fe03512b0c9',1,'pygl::FourMeshViewer::orthoProjection()'],['../da/df6/classpygl_1_1_four_model.html#a32da6f9205d61d6234e6a4bba5e9ff4e',1,'pygl::FourModel::orthoProjection()'],['../d7/d6b/classpygl_1_1_demo___a.html#abe7d3edad63deb400d33381fc1e40466',1,'pygl::Demo_A::orthoProjection()'],['../dc/d34/classpygl_1_1_ortho_elements.html#a3dc81f4bf5c388b480b5d9525410448f',1,'pygl::OrthoElements::orthoProjection()'],['../da/df6/classpygl_1_1_four_model.html#abc6a44c680d0877774fccb146611a9fd',1,'pygl::FourModel::orthoProjection()']]],
+  ['orthoshader',['orthoShader',['../dc/d34/classpygl_1_1_ortho_elements.html#a50bc64a87839ccea0a33e996464f92b7',1,'pygl::OrthoElements']]],
+  ['orthoview',['orthoView',['../df/d4c/classpygl_1_1_four_mesh_viewer.html#ad9305b3c28abd35e1a3d44c1565f36cd',1,'pygl::FourMeshViewer::orthoView()'],['../da/df6/classpygl_1_1_four_model.html#a83a4ead51c1f8e3c2d3c687ab67b705d',1,'pygl::FourModel::orthoView()'],['../d7/d6b/classpygl_1_1_demo___a.html#ae385655f2b75606ab6558ba89a34aace',1,'pygl::Demo_A::orthoView()'],['../dc/d34/classpygl_1_1_ortho_elements.html#ae3a990badb58cd8cfda30f2275b22936',1,'pygl::OrthoElements::orthoView()'],['../da/df6/classpygl_1_1_four_model.html#a8a55c2b365118fa3f8d3f5840dc146e0',1,'pygl::FourModel::orthoView()']]],
+  ['oslogfile',['osLogFile',['../d8/de3/classpygl_1_1msglog.html#a49e2c480d28f48b44412065267fdb67e',1,'pygl::msglog']]]
 ];

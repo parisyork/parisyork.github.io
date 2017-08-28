@@ -1,0 +1,15 @@
+<map id="pygl::FourModel::update" name="pygl::FourModel::update">
+<area shape="rect" id="node2" href="$de/d2f/classpygl_1_1program_time.html#addbc5d9665385117f6ac8b3192980c32" title="Return delta time. " alt="" coords="231,5,371,44"/>
+<area shape="rect" id="node3" href="$dd/d61/classpygl_1_1pmatrix.html#ae7f7a48c143bdfbccefc72201a6996ae" title="pygl::pmatrix::setIdentity" alt="" coords="218,68,384,93"/>
+<area shape="rect" id="node4" href="$d2/da9/classpygl_1_1app.html#aa08d9793bfe9ef174592993612a973e6" title="pygl::app::getWindow" alt="" coords="227,117,375,143"/>
+<area shape="rect" id="node5" href="$d2/d2f/namespacepygl.html#add0b4774ffbfb3ce4aff5328204963cc" title="&#45;————————— GLM " alt="" coords="237,167,365,192"/>
+<area shape="rect" id="node10" href="$d3/d4d/classpygl_1_1_text_manager.html#a1930790236d78e03ce9829c299e145a4" title="pygl::TextManager::\lupdate_dyn" alt="" coords="232,259,370,297"/>
+<area shape="rect" id="node6" href="$d2/d2f/namespacepygl.html#ace5d6fc10eec4565f6a44bdd7d703ff1" title="pygl::calcWorldToEyeMat4D" alt="" coords="432,117,619,143"/>
+<area shape="rect" id="node8" href="$d2/d2f/namespacepygl.html#af7d731d5b9a77d9338aa37680b961d7a" title="pygl::dot" alt="" coords="490,167,561,192"/>
+<area shape="rect" id="node7" href="$d2/d2f/namespacepygl.html#ad358e3b5d22a1049a7d117fa4fa98f9b" title="pygl::cross4" alt="" coords="706,117,798,143"/>
+<area shape="rect" id="node9" href="$de/d3c/classpygl_1_1pvector.html#af21d33792ec18ed5d6cad2a42dbc32a0" title="pygl::pvector::dotProduct" alt="" coords="667,167,836,192"/>
+<area shape="rect" id="node11" href="$d3/d4d/classpygl_1_1_text_manager.html#a5c159215b819ed7facbd507ee09bce15" title="pygl::TextManager::Log" alt="" coords="445,216,605,241"/>
+<area shape="rect" id="node12" href="$da/d02/classpygl_1_1_font_atlas.html#a7e7364af4daa021b0958436d10778ebe" title="pygl::FontAtlas::lineSpace" alt="" coords="438,265,613,291"/>
+<area shape="rect" id="node13" href="$da/d02/classpygl_1_1_font_atlas.html#af24339a69096f194f9043082823ee029" title="pygl::FontAtlas::texWidth" alt="" coords="441,315,610,340"/>
+<area shape="rect" id="node14" href="$da/d02/classpygl_1_1_font_atlas.html#aef80b965557ef61a3cab17ef08df5122" title="pygl::FontAtlas::texHeight" alt="" coords="439,364,612,389"/>
+</map>

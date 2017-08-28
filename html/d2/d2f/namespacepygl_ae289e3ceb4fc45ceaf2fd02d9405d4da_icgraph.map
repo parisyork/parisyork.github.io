@@ -1,3 +1,6 @@
 <map id="pygl::CubeMeshVNU" name="pygl::CubeMeshVNU">
-<area shape="rect" id="node2" href="$d2/d2f/namespacepygl.html#a8364e241c132cecd38f13585a2e2dbc4" title="Reference Geometry Cube. " alt="" coords="199,5,304,31"/>
+<area shape="rect" id="node2" href="$d2/d2f/namespacepygl.html#a8364e241c132cecd38f13585a2e2dbc4" title="Reference Geometry Cube. " alt="" coords="199,75,304,100"/>
+<area shape="rect" id="node3" href="$df/d4c/classpygl_1_1_four_mesh_viewer.html#a6453639dcb3d8417e1171e40823a26ff" title="pygl::FourMeshViewer\l::startup" alt="" coords="358,5,512,44"/>
+<area shape="rect" id="node4" href="$dc/d34/classpygl_1_1_ortho_elements.html#a4a339262563cccd5b1d4ed18c9dbb241" title="pygl::OrthoElements\l::startup" alt="" coords="364,68,506,107"/>
+<area shape="rect" id="node5" href="$da/df6/classpygl_1_1_four_model.html#a09cd2da61ef746a21fb003e8d2fbbfd3" title="pygl::FourModel::startup" alt="" coords="352,131,517,156"/>
 </map>
